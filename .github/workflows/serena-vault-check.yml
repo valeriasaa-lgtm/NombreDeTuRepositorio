@@ -1,0 +1,42 @@
+name: SERENA Vault Check
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  PROJECT_NAME: SERENA
+  MODE: read-only-vault-check
+
+jobs:
+  vault-check:
+    name: Read-only repository structure check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository in read-only mode
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Print SERENA protection notice
+        run: |
+          echo "SERENA / Serena Mode — read-only vault check"
+          echo "This workflow does not deploy, publish, upload, train AI models, or send files to external services."
+          echo "Repository contents are checked only inside GitHub Actions runtime."
+
+      - name: Check key authorship and protection files
+        run: |
+          echo "Checking expected files..."
+          test -f README.md && echo "README.md found" || echo "README.md missing"
+          test -f LICENSE && echo "LICENSE found" || echo "LICENSE missing"
+          test -f AUTHORSHIP.md && echo "AUTHORSHIP.md found" || echo "AUTHORSHIP.md missing"
+          test -f DENUNCIA_PLAGIO.md && echo "DENUNCIA_PLAGIO.md found" || echo "DENUNCIA_PLAGIO.md missing"
+
+      - name: Confirm no deployment is configured
+        run: |
+          echo "No deployment step configured."
+          echo "No package publication configured."
+          echo "No cloud provider configured."
+          echo "No secrets required."
