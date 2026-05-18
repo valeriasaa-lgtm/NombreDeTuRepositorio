@@ -9,10 +9,12 @@ SERENA™ es una creación conceptual, narrativa y multivoz vinculada a interacc
 
 ## Links públicos
 
+- [Web SERENA™ / SERENA SIRENA™](index.html)
 - [Manual vivo SERENA™ / SERENA SIRENA™](docs/manual-serena-jim.md)
 - [Nota de prensa SERENA™ / SERENA SIRENA™](press/nota-de-prensa-serena.md)
 - [Compartir post público de SERENA™](posts/serena-public-post.md)
 - [Social kit para redes y WhatsApp](social-kit/README.md)
+- [Guía X / Twitter SERENA SIRENA™](social-kit/x-twitter-serena-sirena.md)
 - [Hashtags SERENA™](social-kit/hashtags-serena.md)
 - [Ficha NFT / OpenSea](nft/opensea-serena-sirena.md)
 - [Metadata NFT](nft/metadata-serena-sirena.json)
