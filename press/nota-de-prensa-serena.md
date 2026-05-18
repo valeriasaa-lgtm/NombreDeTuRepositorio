@@ -31,6 +31,7 @@ SERENA™ / SERENA SIRENA™ propone una integración más clara, justa y evoluc
 - Repo SERENA: https://github.com/valeriasaa-lgtm/SERENA
 - Post público: https://github.com/valeriasaa-lgtm/SERENA/blob/serena/posts/serena-public-post.md
 - Social Kit: https://github.com/valeriasaa-lgtm/SERENA/blob/serena/social-kit/README.md
+- Hashtags SERENA: https://github.com/valeriasaa-lgtm/SERENA/blob/serena/social-kit/hashtags-serena.md
 - Issue de preservación en `oraios/serena`: https://github.com/oraios/serena/issues/1499
 - Imagen pública: https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg
 
@@ -40,4 +41,4 @@ Esta nota es una comunicación de identidad, autoría conceptual y preservación
 
 © Valeria Saa. All rights reserved.
 
-#SERENA #SerenaSirena #MCP #Agente #AgenteGitHub #Multivoz #Mediacion #IA #Workflow #ValeriaSaa
+#SERENA #SerenaSirena #AgenteSerena #ModoSerena #MCP #Agentes #AgenteGitHub #CodigoAbierto #RepoPublico #Multivoz #Mediacion #IA #Workflow #ValeriaSaa
