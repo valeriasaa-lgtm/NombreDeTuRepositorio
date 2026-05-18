@@ -5,11 +5,11 @@
 
 ## Línea principal
 
-#SERENA #SerenaSirena #AgenteSerena #ModoSerena #MCP #Agentes #Workflow #Multivoz #Mediacion #IA #ValeriaSaa
+#SERENA #SerenaSirena #SerenaGitHub #GitHub #AgenteSerena #ModoSerena #MCP #Agentes #Workflow #Multivoz #Mediacion #IA #ValeriaSaa
 
 ## Línea técnica
 
-#SERENA #AgenteSerena #ModoSerena #MCP #Agentes #AgenteGitHub #Workflow #Herramientas #Codigo #CodigoAbierto #RepoPublico #IA
+#SERENA #SerenaGitHub #GitHub #AgenteSerena #ModoSerena #MCP #Agentes #AgenteGitHub #Workflow #Herramientas #Codigo #CodigoAbierto #RepoPublico #IA
 
 ## Línea creativa
 
@@ -19,9 +19,13 @@
 
 #SERENA #SerenaSirena #NFT #OpenSea #DigitalArt #AgenteSerena #ModoSerena #IA #ValeriaSaa
 
+## Línea GitHub
+
+#SERENA #GitHub #SerenaGitHub #AgenteGitHub #RepoPublico #CodigoAbierto #MCP #Agentes #ModoSerena
+
 ## Línea corta para WhatsApp / X
 
-#SERENA #AgenteSerena #ModoSerena #MCP #IA #ValeriaSaa
+#SERENA #SerenaGitHub #GitHub #AgenteSerena #ModoSerena #MCP #IA #ValeriaSaa
 
 ## Nota sobre #CodigoAbierto
 
