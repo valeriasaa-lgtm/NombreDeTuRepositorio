@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SERENA SIRENA™ | Valeria Saa</title>
+  <meta name="description" content="SERENA™ / SERENA SIRENA™ es una identidad conceptual multivoz de Valeria Saa: mediacion, MCP, agentes, workflows e interaccion humano-IA.">
+  <meta property="og:title" content="SERENA SIRENA™ | Valeria Saa">
+  <meta property="og:description" content="Multivoz, mediacion, MCP, agentes y traduccion entre sistemas.">
+  <meta property="og:image" content="https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://valeriasaa-lgtm.github.io/SERENA/">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="SERENA SIRENA™ | Valeria Saa">
+  <meta name="twitter:description" content="Multivoz, mediacion, MCP, agentes y traduccion entre sistemas.">
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg">
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #111111;
+      --paper: #fffaf4;
+      --rose: #ff167f;
+      --blue: #0078d4;
+      --gold: #f4c400;
+      --teal: #00a693;
+      --line: rgba(17, 17, 17, 0.16);
+      --shadow: 0 24px 70px rgba(17, 17, 17, 0.18);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+    }
+
+    a { color: inherit; }
+
+    .hero {
+      min-height: 88svh;
+      display: grid;
+      align-items: end;
+      position: relative;
+      overflow: hidden;
+      background:
+        linear-gradient(90deg, rgba(255, 250, 244, 0.98) 0%, rgba(255, 250, 244, 0.88) 31%, rgba(255, 250, 244, 0.2) 62%, rgba(255, 250, 244, 0.05) 100%),
+        url("https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg") center right / contain no-repeat,
+        var(--paper);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .hero-inner {
+      width: min(1180px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 36px 0 64px;
+    }
+
+    .kicker {
+      display: inline-flex;
+      gap: 10px;
+      align-items: center;
+      font-size: 0.78rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0;
+      color: var(--rose);
+      border-bottom: 3px solid var(--gold);
+      padding-bottom: 7px;
+    }
+
+    h1 {
+      max-width: 760px;
+      margin: 24px 0 18px;
+      font-size: clamp(3.7rem, 11vw, 9.2rem);
+      line-height: 0.86;
+      letter-spacing: 0;
+      text-transform: uppercase;
+    }
+
+    .lede {
+      max-width: 680px;
+      margin: 0;
+      font-size: clamp(1.05rem, 2vw, 1.45rem);
+      line-height: 1.5;
+      font-weight: 600;
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px 22px;
+      margin-top: 30px;
+      font-weight: 800;
+    }
+
+    .actions a {
+      text-decoration: none;
+      border-bottom: 3px solid currentColor;
+      padding-bottom: 5px;
+    }
+
+    .actions a:nth-child(2) { color: var(--blue); }
+    .actions a:nth-child(3) { color: var(--rose); }
+    .actions a:nth-child(4) { color: var(--teal); }
+
+    main {
+      width: min(1180px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 42px 0 70px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 1px;
+      background: var(--line);
+      border: 1px solid var(--line);
+      box-shadow: var(--shadow);
+    }
+
+    .panel {
+      min-height: 250px;
+      background: #ffffff;
+      padding: 28px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .panel strong {
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      color: var(--rose);
+    }
+
+    .panel h2 {
+      margin: 18px 0 12px;
+      font-size: clamp(1.35rem, 2.8vw, 2.2rem);
+      line-height: 1;
+      letter-spacing: 0;
+    }
+
+    .panel p {
+      margin: 0;
+      line-height: 1.55;
+      font-weight: 560;
+    }
+
+    .panel a {
+      width: fit-content;
+      margin-top: 22px;
+      text-decoration: none;
+      font-weight: 850;
+      border-bottom: 3px solid var(--gold);
+      padding-bottom: 5px;
+    }
+
+    .statement {
+      display: grid;
+      grid-template-columns: 0.95fr 1.05fr;
+      gap: 36px;
+      align-items: center;
+      padding: 70px 0 0;
+    }
+
+    .statement img {
+      width: min(100%, 420px);
+      justify-self: center;
+      border: 1px solid var(--line);
+      box-shadow: var(--shadow);
+    }
+
+    blockquote {
+      margin: 0;
+      font-size: clamp(1.8rem, 4.5vw, 4.7rem);
+      line-height: 0.98;
+      font-weight: 900;
+      letter-spacing: 0;
+    }
+
+    .signature {
+      margin-top: 24px;
+      font-size: 1.1rem;
+      font-weight: 800;
+      color: var(--rose);
+    }
+
+    .hashtags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 54px;
+      padding-top: 26px;
+      border-top: 1px solid var(--line);
+      font-size: 0.95rem;
+      font-weight: 800;
+      color: #2b2b2b;
+    }
+
+    footer {
+      width: min(1180px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 0 0 36px;
+      color: rgba(17, 17, 17, 0.7);
+      font-size: 0.95rem;
+      line-height: 1.5;
+    }
+
+    @media (max-width: 860px) {
+      .hero {
+        min-height: 92svh;
+        background:
+          linear-gradient(180deg, rgba(255, 250, 244, 0.98) 0%, rgba(255, 250, 244, 0.9) 44%, rgba(255, 250, 244, 0.12) 100%),
+          url("https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg") center bottom / min(88vw, 440px) auto no-repeat,
+          var(--paper);
+      }
+
+      .hero-inner { padding: 26px 0 48vh; }
+      .grid { grid-template-columns: 1fr; }
+      .panel { min-height: 210px; }
+      .statement { grid-template-columns: 1fr; padding-top: 46px; }
+      .statement img { max-width: 330px; }
+    }
+  </style>
+</head>
+<body>
+  <section class="hero" aria-label="SERENA SIRENA">
+    <div class="hero-inner">
+      <div class="kicker">Valeria Saa · GitHub · MCP · Agente Serena</div>
+      <h1>SERENA SIRENA™</h1>
+      <p class="lede">Identidad conceptual multivoz para mediacion, traduccion entre sistemas, agentes, workflows e interaccion humano-IA.</p>
+      <nav class="actions" aria-label="Links principales">
+        <a href="docs/manual-serena-jim.md">Manual vivo</a>
+        <a href="press/nota-de-prensa-serena.md">Nota de prensa</a>
+        <a href="social-kit/README.md">Social kit</a>
+        <a href="nft/opensea-serena-sirena.md">NFT / OpenSea</a>
+      </nav>
+    </div>
+  </section>
+
+  <main>
+    <section class="grid" aria-label="Capas de SERENA">
+      <article class="panel">
+        <div>
+          <strong>Identidad</strong>
+          <h2>Multivoz</h2>
+          <p>SERENA organiza voces, roles y capas: creativa, tecnica, documental, simbolica y operativa.</p>
+        </div>
+        <a href="docs/manual-serena-jim.md">Leer manual</a>
+      </article>
+      <article class="panel">
+        <div>
+          <strong>Sistema</strong>
+          <h2>Mediacion</h2>
+          <p>Una capa de traduccion entre personas, lenguajes, herramientas, repositorios, agentes y flujos.</p>
+        </div>
+        <a href="press/nota-de-prensa-serena.md">Ver prensa</a>
+      </article>
+      <article class="panel">
+        <div>
+          <strong>Registro</strong>
+          <h2>GitHub</h2>
+          <p>Un mapa publico para preservar autoria, trazabilidad, documentos, piezas sociales y metadata.</p>
+        </div>
+        <a href="https://github.com/valeriasaa-lgtm/SERENA">Abrir repo</a>
+      </article>
+    </section>
+
+    <section class="statement">
+      <img src="https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg" alt="SERENA SIRENA por Valeria Saa">
+      <div>
+        <blockquote>“Siempre supe que esta señal se iba a escuchar.”</blockquote>
+        <p class="signature">SERENA™ / SERENA SIRENA™ · Valeria Saa</p>
+      </div>
+    </section>
+
+    <section class="hashtags" aria-label="Hashtags SERENA">
+      <span>#SERENA</span>
+      <span>#SerenaSirena</span>
+      <span>#SerenaGitHub</span>
+      <span>#AgenteSerena</span>
+      <span>#ModoSerena</span>
+      <span>#MCP</span>
+      <span>#CodigoAbierto</span>
+      <span>#ValeriaSaa</span>
+    </section>
+  </main>
+
+  <footer>
+    <p>SERENA™ / SERENA SIRENA™ es una identidad conceptual y creativa de Valeria Saa. © Valeria Saa. All rights reserved.</p>
+  </footer>
+</body>
+</html>
