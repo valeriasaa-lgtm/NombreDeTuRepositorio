@@ -1,4 +1,11 @@
-# SERENA
+# SERENA™
+
+![SERENA SIRENA - Valeria Saa](https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg)
+
+**SERENA™ / SERENA SIRENA™**  
+Created and conceptually directed by **Valeria Saa**.
+
+[Compartir post público de SERENA™](posts/serena-public-post.md)
 
 ## 🌐 Descripción
 SERENA es un marco conceptual orientado a la comprensión, validación y reconstrucción de información en sistemas abiertos.
