@@ -4,17 +4,19 @@
 
 - **Usuario / login actual:** `valeriasaa-lgtm`
 - **Nombre visible actual:** Valeria Saa
+- **Cuenta autora confirmada por Valeria:** `valeriasaa`
 - **Imagen actual:** avatar de GitHub conectado a la cuenta
 
 ## Objetivo
 
-Limpiar la identidad visible de la cuenta para que no aparezca `LGTM`, `LMGTM` u otra cola técnica pegada al nombre público.
+Limpiar la identidad visible para que no aparezca `LGTM`, `LMGTM` u otra cola técnica pegada al nombre público.
 
 La identidad correcta debe quedar separada así:
 
 - **Proyecto / repositorio:** SERENA™ / SERENA SIRENA™
 - **Autora / cuenta visible:** Valeria Saa
-- **Usuario/login ideal si se cambia:** `valeria-saa`
+- **Cuenta autora:** `valeriasaa`
+- **Cuenta o repo técnico sugerido:** `serena-mcp` / `SERENA-MCP`
 
 ## Cambio seguro: nombre visible
 
@@ -33,33 +35,37 @@ Valeria Saa
 
 5. Guardar cambios.
 
-## Cambio de usuario / login
+## Organización recomendada
 
-Cambiar el usuario de `valeriasaa-lgtm` es el cambio que saca `lgtm` de la URL pública.
-
-Opciones verificadas el 2026-05-18:
+Mejor estructura:
 
 ```text
-serena      -> no disponible / ya existe
-valeriasaa  -> no disponible / ya existe
-valeria-saa -> disponible al momento de la verificación
+valeriasaa/SERENA
+serena-mcp/SERENA-MCP
 ```
 
-Recomendación:
+O, si se mantiene todo bajo la cuenta autora:
 
 ```text
-valeria-saa
+valeriasaa/SERENA
+valeriasaa/SERENA-MCP
 ```
 
-Así el repo quedaría idealmente como:
+## SERENA MCP
+
+Para la cuenta o repo técnico de MCP, las mejores opciones son:
 
 ```text
-https://github.com/valeria-saa/SERENA
+serena-mcp
+serenamcp
+SERENA-MCP
 ```
 
-## Importante antes de cambiar usuario
+`serena-mcp` es la primera recomendación porque se lee claro, separa palabras y sirve para GitHub, búsqueda y documentación.
 
-Cambiar el login modifica enlaces públicos. Después de hacerlo, actualizar:
+## Importante antes de cambiar usuario o mover repos
+
+Cambiar login, mover repos o crear una organización modifica enlaces públicos. Después de hacerlo, actualizar:
 
 - README principal.
 - Web SERENA.
@@ -94,6 +100,6 @@ Recomendación:
 
 No compartir contraseña, códigos 2FA, recovery codes, tokens, claves privadas ni datos sensibles.
 
-El cambio de nombre visible puede hacerse sin riesgo mayor. El cambio de usuario/login debe hacerse con cuidado porque afecta enlaces públicos.
+El cambio de nombre visible puede hacerse sin riesgo mayor. El cambio de usuario/login, la transferencia de repos o la creación de cuentas/repos técnicos debe hacerse con cuidado porque afecta enlaces públicos.
 
 © Valeria Saa. All rights reserved.
