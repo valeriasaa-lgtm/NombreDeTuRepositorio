@@ -1,0 +1,52 @@
+{
+  "name": "SERENA SIRENA™ - Multivoice Agent of the Tides",
+  "description": "SERENA™ / SERENA SIRENA™ is a conceptual, narrative and multivoice identity created and conceptually directed by Valeria Saa. It explores human-AI interaction, mediation, translation between systems, MCP/workflow architectures, agents and symbolic interfaces. This NFT preserves the public visual identity of SERENA SIRENA™ as part of a broader authorship, traceability and creative-direction record.",
+  "image": "https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg",
+  "external_url": "https://github.com/valeriasaa-lgtm/SERENA",
+  "attributes": [
+    {
+      "trait_type": "Identity",
+      "value": "SERENA SIRENA™"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Valeria Saa"
+    },
+    {
+      "trait_type": "Domain",
+      "value": "Human-AI Interaction"
+    },
+    {
+      "trait_type": "Architecture",
+      "value": "Multivoice"
+    },
+    {
+      "trait_type": "System Layer",
+      "value": "MCP / Workflow"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Agent / Interface"
+    },
+    {
+      "trait_type": "Function",
+      "value": "Mediation"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Translation Between Systems"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Siren / Tide"
+    },
+    {
+      "trait_type": "Medium",
+      "value": "Digital Art"
+    },
+    {
+      "trait_type": "Status",
+      "value": "Public Authorship Record"
+    }
+  ]
+}
