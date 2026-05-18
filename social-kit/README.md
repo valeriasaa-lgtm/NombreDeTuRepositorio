@@ -10,6 +10,9 @@ https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-si
 Post público:
 https://github.com/valeriasaa-lgtm/SERENA/blob/serena/posts/serena-public-post.md
 
+Nota de prensa:
+https://github.com/valeriasaa-lgtm/SERENA/blob/serena/press/nota-de-prensa-serena.md
+
 Repo SERENA:
 https://github.com/valeriasaa-lgtm/SERENA
 
