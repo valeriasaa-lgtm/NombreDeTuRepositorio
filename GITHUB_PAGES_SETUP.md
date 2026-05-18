@@ -2,7 +2,13 @@
 
 SERENA is deployed from the `serena` branch with GitHub Actions.
 
-If the deploy workflow fails at `Configure Pages` with:
+The deploy workflow is intentionally simple:
+
+1. Check out the repository.
+2. Upload the static site artifact from the repository root.
+3. Deploy that artifact to GitHub Pages.
+
+If a Pages deploy fails with an access error such as:
 
 ```text
 HttpError: Resource not accessible by integration
