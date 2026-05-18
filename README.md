@@ -20,7 +20,7 @@ SERENA™ es una creación conceptual, narrativa y multivoz vinculada a interacc
 - [Social kit para redes y WhatsApp](social-kit/README.md)
 - [Guía X / Twitter SERENA SIRENA™](social-kit/x-twitter-serena-sirena.md)
 - [Hashtags SERENA™](social-kit/hashtags-serena.md)
-- [Guía limpieza perfil GitHub / Valeria-S](account/github-profile-cleanup.md)
+- [Guía limpieza perfil GitHub / Valeria Saa](account/github-profile-cleanup.md)
 - [Ficha NFT / OpenSea](nft/opensea-serena-sirena.md)
 - [Metadata NFT](nft/metadata-serena-sirena.json)
 - [Imagen pública](https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg)
