@@ -9,6 +9,8 @@ SERENA™ es una creación conceptual, narrativa y multivoz vinculada a interacc
 
 ## Links públicos
 
+- [SERENA MCP™](mcp/README.md)
+- [SERENA MCP™ account/repo setup](mcp/account-and-repo-setup.md)
 - [Workflow submission / Concurso](contest/workflow-submission-serena.md)
 - [Preguntas y propuestas SERENA™](community/questions-and-proposals.md)
 - [Reporte público de trazabilidad](reports/public-trace-2026-05-18.md)
