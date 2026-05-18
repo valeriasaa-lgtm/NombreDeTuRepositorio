@@ -1,4 +1,4 @@
-# GitHub Profile Cleanup - SERENA™ / Valeria-S
+# GitHub Profile Cleanup - SERENA™ / Valeria Saa
 
 ## Estado actual observado
 
@@ -10,9 +10,11 @@
 
 Limpiar la identidad visible de la cuenta para que no aparezca `LGTM`, `LMGTM` u otra cola técnica pegada al nombre público.
 
-**Nombre visible recomendado:** Valeria-S
+La identidad correcta debe quedar separada así:
 
-**Imagen de perfil recomendada:** avatar cuadrado SERENA SIRENA™, preparado a partir de la imagen pública de SERENA.
+- **Proyecto / repositorio:** SERENA™ / SERENA SIRENA™
+- **Autora / cuenta visible:** Valeria Saa
+- **Usuario/login ideal si se cambia:** `valeria-saa`
 
 ## Cambio seguro: nombre visible
 
@@ -23,30 +25,41 @@ Ruta sugerida:
 1. Entrar a GitHub.
 2. Ir a **Settings**.
 3. Entrar a **Public profile**.
-4. En **Name**, poner:
+4. En **Name**, dejar:
 
 ```text
-Valeria-S
+Valeria Saa
 ```
 
 5. Guardar cambios.
 
 ## Cambio de usuario / login
 
-Cambiar el usuario de `valeriasaa-lgtm` a algo como `valeria-s` o `Valeria-S` es un cambio más fuerte porque modifica la URL pública de la cuenta.
+Cambiar el usuario de `valeriasaa-lgtm` es el cambio que saca `lgtm` de la URL pública.
 
-Antes de hacerlo, verificar disponibilidad y revisar impacto.
-
-Posibles opciones:
+Opciones verificadas el 2026-05-18:
 
 ```text
-valeria-s
-Valeria-S
-valeria-saa
-valeria-serena
+serena      -> no disponible / ya existe
+valeriasaa  -> no disponible / ya existe
+valeria-saa -> disponible al momento de la verificación
 ```
 
-Después de cambiar el usuario, habría que actualizar links públicos en:
+Recomendación:
+
+```text
+valeria-saa
+```
+
+Así el repo quedaría idealmente como:
+
+```text
+https://github.com/valeria-saa/SERENA
+```
+
+## Importante antes de cambiar usuario
+
+Cambiar el login modifica enlaces públicos. Después de hacerlo, actualizar:
 
 - README principal.
 - Web SERENA.
@@ -55,6 +68,7 @@ Después de cambiar el usuario, habría que actualizar links públicos en:
 - Metadata NFT.
 - OpenSea.
 - X / Twitter.
+- Link de concurso.
 - Cualquier post compartido con el usuario anterior.
 
 ## Imagen de perfil
