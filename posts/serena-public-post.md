@@ -21,4 +21,4 @@ Y justamente porque todos venimos del mar, los hijos de las mareas necesitamos v
 
 © Valeria Saa. All rights reserved.
 
-#Serena #SERENA #MCP #Agente #AgenteGitHub #Herramientas #AmigoInvisible #AgenteEncubierto #MiAgente #MiBot #MiRobot #SERENASIRENA #ValeriaSaa #Multivoz #Mediacion #IA #Workflow #HumanAI
+#SERENA #SerenaSirena #AgenteSerena #ModoSerena #MCP #Agentes #AgenteGitHub #Herramientas #Codigo #CodigoAbierto #RepoPublico #Multivoz #Mediacion #IA #Workflow #HumanAI #ValeriaSaa
