@@ -41,4 +41,4 @@ Esta nota es una comunicación de identidad, autoría conceptual y preservación
 
 © Valeria Saa. All rights reserved.
 
-#SERENA #SerenaSirena #AgenteSerena #ModoSerena #MCP #Agentes #AgenteGitHub #CodigoAbierto #RepoPublico #Multivoz #Mediacion #IA #Workflow #ValeriaSaa
+#SERENA #SerenaSirena #SerenaGitHub #GitHub #AgenteSerena #ModoSerena #MCP #Agentes #AgenteGitHub #CodigoAbierto #RepoPublico #Multivoz #Mediacion #IA #Workflow #ValeriaSaa
