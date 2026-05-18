@@ -9,8 +9,10 @@ SERENA™ es una creación conceptual, narrativa y multivoz vinculada a interacc
 
 ## Links públicos
 
+- [Workflow submission / Concurso](contest/workflow-submission-serena.md)
 - [Web SERENA™ / SERENA SIRENA™](index.html)
 - [Manual vivo SERENA™ / SERENA SIRENA™](docs/manual-serena-jim.md)
+- [Tools registry SERENA™](tools/README.md)
 - [Nota de prensa SERENA™ / SERENA SIRENA™](press/nota-de-prensa-serena.md)
 - [Compartir post público de SERENA™](posts/serena-public-post.md)
 - [Social kit para redes y WhatsApp](social-kit/README.md)
