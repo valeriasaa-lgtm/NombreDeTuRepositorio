@@ -5,24 +5,33 @@
 **SERENA™ / SERENA SIRENA™**  
 Created and conceptually directed by **Valeria Saa**.
 
-[Compartir post público de SERENA™](posts/serena-public-post.md)
+SERENA™ es una creación conceptual, narrativa y multivoz vinculada a interacción humano-IA, mediación creativa, traducción entre sistemas y arquitecturas MCP/workflow.
+
+## Links públicos
+
+- [Nota de prensa SERENA™ / SERENA SIRENA™](press/nota-de-prensa-serena.md)
+- [Compartir post público de SERENA™](posts/serena-public-post.md)
+- [Social kit para redes y WhatsApp](social-kit/README.md)
+- [Imagen pública](https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg)
 
 ## 🌐 Descripción
-SERENA es un marco conceptual orientado a la comprensión, validación y reconstrucción de información en sistemas abiertos.
+SERENA funciona como interfaz, agente y capa de traducción entre sistemas, personas y lenguajes, orientada a nuevas formas de comunicación, organización y resolución integral en inteligencia artificial.
 
 ## ⚙️ Componentes principales
 
-- **Modos SERENA**  
-  Diferentes formas de interacción y análisis según el contexto.
+- **Multivoz y mediación**  
+  Arquitectura conceptual para ordenar voces, roles, contextos y traducciones entre sistemas.
 
-- **Protocolo de reversa y veracidad**  
-  Permite rastrear información hacia su origen y validar su consistencia.
+- **MCP / workflow**  
+  Marco narrativo-operativo vinculado a agentes, herramientas, procesos y flujos de trabajo.
 
 - **Base de trazabilidad**  
-  Estructura para reconstruir datos y entender su evolución.
+  Estructura para preservar autoría, documentación asociada y evolución pública del concepto.
 
 ## 🎯 Objetivo
-Proveer una herramienta conceptual para navegar información compleja de manera clara, verificable y estructurada.
+Preservar la identidad conceptual de SERENA™ / SERENA SIRENA™, honrar el desarrollo técnico asociado y abrir nuevas posibilidades de construcción conjunta entre creatividad, código e inteligencia artificial.
 
 ## 🚀 Estado
-En desarrollo – versión inicial del concepto.
+En desarrollo – registro público inicial del concepto.
+
+© Valeria Saa. All rights reserved.
