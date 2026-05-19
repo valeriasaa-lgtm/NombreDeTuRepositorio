@@ -30,6 +30,11 @@ SERENA™ es una creación conceptual, narrativa y multivoz vinculada a interacc
 - [Metadata NFT](nft/metadata-serena-sirena.json)
 - [Imagen pública](https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg)
 
+### Notas rápidas (gh-aw / GitHub Tools)
+- `toolsets: [all]` no incluye `dependabot` (hay que opt-in explícito si lo necesitás).
+- Secret “mágico” opcional: `GH_AW_GITHUB_MCP_SERVER_TOKEN` (PAT) para auth adicional sin referenciarlo en el workflow.
+- Integrity filtering: `tools.github.min-integrity` define el mínimo nivel de integridad del contenido que el agente puede usar.
+
 ## 🌐 Descripción
 SERENA funciona como interfaz, agente y capa de traducción entre sistemas, personas y lenguajes, orientada a nuevas formas de comunicación, organización y resolución integral en inteligencia artificial.
 
