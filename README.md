@@ -16,6 +16,7 @@ SERENA™ es una creación conceptual, narrativa y multivoz vinculada a interacc
 - [Reporte público de trazabilidad](reports/public-trace-2026-05-18.md)
 - [Web SERENA™ / SERENA SIRENA™](index.html)
 - [Manual vivo SERENA™ / SERENA SIRENA™](docs/manual-serena-jim.md)
+- [Plugin JetBrains (Serena)](https://oraios.github.io/serena/02-usage/025_jetbrains_plugin.html)
 - [Tools registry SERENA™](tools/README.md)
 - [Nota de prensa SERENA™ / SERENA SIRENA™](press/nota-de-prensa-serena.md)
 - [Compartir post público de SERENA™](posts/serena-public-post.md)
