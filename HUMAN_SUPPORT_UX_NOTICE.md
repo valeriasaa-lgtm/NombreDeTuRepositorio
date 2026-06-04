@@ -11,6 +11,12 @@ A platform should not treat the absence of a matching option as proof that the u
 
 When a user's situation falls outside the system's existing categories, the system should provide a way to reserve, preserve, explain, escalate and humanly review the case without forcing the user to expose private material publicly or abandon their rights.
 
+## Mediation Platform Layer
+
+This is part of SERENA as a mediation platform: a way to hold cases, voices, evidence, context, rights, authorship, reputation, support needs and explanations that do not yet fit inside existing platform categories.
+
+The mediation layer is not only technical. It is human, contextual, procedural and ethical. It protects the user's ability to be heard while the situation is being translated into a form the system, a platform, a sponsor, a reviewer or a legal process can understand.
+
 ## Right to Be Heard and Developed as a Case
 
 Users need a path to be heard, understood and contemplated when the harm or authorship issue is emerging, complex, contextual, non-standard, non-code, relational, reputational or difficult to evidence through ordinary forms.
@@ -31,6 +37,7 @@ It should provide:
 - privacy-preserving evidence handling;
 - right-of-reply status;
 - escalation for authorship, reputation, monetization or safety concerns;
+- mediation between user context and platform categories;
 - follow-up that does not force public exposure of private evidence.
 
 ## SERENA UX Principle
