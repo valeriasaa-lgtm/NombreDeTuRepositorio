@@ -14,12 +14,10 @@ Snapshot checked on 2026-05-18.
 | SERENA repo watchers | 1 | https://github.com/valeriasaa-lgtm/SERENA |
 | SERENA repo forks | 0 | https://github.com/valeriasaa-lgtm/SERENA |
 | SERENA repo open issues | 0 | https://github.com/valeriasaa-lgtm/SERENA |
-| External `oraios/serena` stars | 24,325 | https://github.com/oraios/serena |
-| External `oraios/serena` forks | 1,631 | https://github.com/oraios/serena |
-| External `oraios/serena` watchers | 24,325 | https://github.com/oraios/serena |
-| External `oraios/serena` subscribers | 81 | https://github.com/oraios/serena |
-| External issue `oraios/serena#1499` comments | 8 | https://github.com/oraios/serena/issues/1499 |
-| GitHub `gh-aw#32885` comments | 1 | https://github.com/github/gh-aw/issues/32885 |
+| External third-party references | Preserved privately | Not repeated on the public SERENA wall |
+| External third-party metrics | Preserved privately | Not repeated on the public SERENA wall |
+| External third-party issue metadata | Preserved privately | Not repeated on the public SERENA wall |
+| External issue references | Preserved privately | Not repeated on the public SERENA wall |
 
 ## Current public links
 
