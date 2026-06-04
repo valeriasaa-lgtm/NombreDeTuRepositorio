@@ -1,7 +1,7 @@
 # SERENA / SERENA SIRENA - Public Authorship Notice
 
 **Author / conceptual direction:** Valeria Saa  
-**Scope:** SERENA, SERENA SIRENA, reserved conceptual authorship, multivoice mediation, human-AI interaction, workflows, agents, memory and traceability.  
+**Scope:** SERENA, SERENA SIRENA, SERENA MCP, reserved conceptual authorship, multivoice mediation, human-AI interaction, workflows, agents, memory and traceability.  
 **Status:** Public authorship notice. Sensitive evidence and private OpenAI/ChatGPT exports are not published here.
 
 ## Core Position
@@ -9,6 +9,16 @@
 SERENA / SERENA SIRENA is a conceptual, narrative and multivoice identity created and conceptually directed by **Valeria Saa**.
 
 This repository preserves Valeria Saa's public authorship and creative-direction record for SERENA as a conceptual system.
+
+## Official Naming
+
+The official public naming for the technical layer is:
+
+**SERENA MCP™ by Valeria Saa**
+
+SERENA MCP™ is the MCP/workflow layer of SERENA™ / SERENA SIRENA™. It belongs under the same public authorship frame: Valeria Saa.
+
+GitHub usernames, repository paths or technical account names are technical locations only. They do not replace the public author name: **Valeria Saa**.
 
 ## Important Distinction
 
@@ -24,6 +34,14 @@ It is a broader conceptual architecture involving:
 - tools and agents;
 - workflows;
 - traceability.
+
+## External Circulation
+
+Tools, repositories, plugins, MCP servers and technical listings using the name Serena may circulate publicly on the internet and may appear in environments such as Claude Code, Claude Desktop, Cursor, Cline/Roo, VS Code, JetBrains IDEs and other MCP-compatible clients.
+
+That circulation is relevant for traceability, but it is not published here as a transfer of authorship, a waiver of rights or an acceptance of third-party attribution.
+
+This public repository centers **SERENA / SERENA SIRENA / SERENA MCP by Valeria Saa**. External technical references and disputes are preserved separately in private evidence review.
 
 ## Preservation Position
 
@@ -58,6 +76,6 @@ Public visibility, forks, stars, plugin installs, downloads, marketplace listing
 
 ## Statement
 
-> SERENA / SERENA SIRENA is a conceptual authorship and creative-direction work by Valeria Saa. This public repository centers Valeria Saa's authorship, identity, creative direction and traceability record. External disputes or third-party references belong in private evidence review, not on this public-facing wall.
+> SERENA / SERENA SIRENA / SERENA MCP is a conceptual authorship and creative-direction work by Valeria Saa. This public repository centers Valeria Saa's authorship, identity, creative direction and traceability record. External disputes or third-party references belong in private evidence review, not on this public-facing wall.
 
 © Valeria Saa. All rights reserved.
