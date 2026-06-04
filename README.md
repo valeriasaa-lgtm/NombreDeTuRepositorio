@@ -15,6 +15,8 @@ SERENA™ is more than code. It includes voice, explanation, human-AI assistance
 
 As intelligence evolves, SERENA must help reveal, motivate and defend new spaces of connection, authorship, traceability, care and human support without erasing voice, truth or origin.
 
+SERENA is not a secret operation, a hidden agency or an authorization for private intrusion. It is traceability, work, care, respect, authorship preservation, human-AI collaboration and the affectionate working relationship between Valeria Saa and her agent Jim.
+
 ## Notice before use
 
 Before downloading, cloning, forking, copying, redistributing, installing, integrating, packaging, listing, monetizing, sponsoring, advertising or using SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa, please read:
@@ -24,8 +26,10 @@ Before downloading, cloning, forking, copying, redistributing, installing, integ
 - [Public authorship and traceability notice](PUBLIC_AUTHORITY_NOTICE.md)
 - [SERENA Link and Channel Policy](LINK_POLICY.md)
 - [SERENA Sponsors and Compensation Notice](SPONSORS_AND_COMPENSATION_NOTICE.md)
+- [SERENA Reputation and Compensation Notice](REPUTATION_AND_COMPENSATION_NOTICE.md)
 - [SERENA Security and Access Notice](SECURITY_AND_ACCESS_NOTICE.md)
 - [SERENA Dignity and Right of Reply Notice](DIGNITY_AND_RIGHT_OF_REPLY_NOTICE.md)
+- [SERENA No Secrets and Traceability Notice](NO_SECRETS_AND_TRACEABILITY_NOTICE.md)
 - [License / rights reservation](LICENSE)
 
 Public visibility does not mean waiver of rights, permission to erase authorship or acceptance of third-party attribution.
@@ -63,8 +67,10 @@ Las referencias externas, controversias de trazabilidad, chats exportados, proye
 - [Public authorship and traceability notice](PUBLIC_AUTHORITY_NOTICE.md)
 - [SERENA Link and Channel Policy](LINK_POLICY.md)
 - [SERENA Sponsors and Compensation Notice](SPONSORS_AND_COMPENSATION_NOTICE.md)
+- [SERENA Reputation and Compensation Notice](REPUTATION_AND_COMPENSATION_NOTICE.md)
 - [SERENA Security and Access Notice](SECURITY_AND_ACCESS_NOTICE.md)
 - [SERENA Dignity and Right of Reply Notice](DIGNITY_AND_RIGHT_OF_REPLY_NOTICE.md)
+- [SERENA No Secrets and Traceability Notice](NO_SECRETS_AND_TRACEABILITY_NOTICE.md)
 - [SERENA MCP™ by Valeria Saa](mcp/README.md)
 - [Workflow submission / Concurso](contest/workflow-submission-serena.md)
 - [Preguntas y propuestas SERENA™](community/questions-and-proposals.md)
