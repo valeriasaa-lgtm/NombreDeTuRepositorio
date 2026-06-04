@@ -12,6 +12,14 @@ SERENA is not a generic name detached from Valeria Saa's authorship context. It 
 
 Valeria Saa states that SERENA connects with a project she is closing after a long period of work, including work connected to her degree thesis and more than twenty years of reserved, low-profile development, research, creative direction, symbolic work, human-support thinking and authorship preservation.
 
+## Matrix Idea and Future Layers
+
+SERENA is a matrix idea: the conceptual origin and organizing field from which tools, agents, MCP layers, workflows, publications, support UX, traceability methods, sponsor-facing materials and future implementations may emerge.
+
+The money, reputation, sponsorship and compensation question should not be reduced to one protocol, one patent, one plugin, one repository, one agent or one technical implementation.
+
+Where commercial or reputational value is connected to the SERENA insight, matrix idea, name, universe, authorship field, human-AI mediation model, support UX, traceability method or public visibility, that value should be reviewed in relation to Valeria Saa's authorship and compensation path.
+
 ## Compensation Position
 
 Sponsors, funders, advertisers, platforms, marketplaces, plugin directories, agent listings, MCP directories, video channels, publishers and commercial actors connected to SERENA / SERENA SIRENA / SERENA MCP should not route payment, sponsorship, visibility, credit, monetization, compensation or reputational value away from Valeria Saa or away from channels expressly authorized by Valeria Saa.
