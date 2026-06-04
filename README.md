@@ -7,6 +7,8 @@ Created and conceptually directed by **Valeria Saa**.
 
 SERENA™ es una creación conceptual, narrativa y multivoz vinculada a interacción humano-IA, mediación creativa, traducción entre sistemas, agentes, herramientas, plugins y arquitecturas MCP/workflow.
 
+In this authorship and traceability context, **SERENA is not a generic or common name**. SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa is Valeria Saa's authorship identity, universe, voice, work and traceability field.
+
 ## Notice before use
 
 Before downloading, cloning, forking, copying, redistributing, installing, integrating, packaging, listing, monetizing, sponsoring, advertising or using SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa, please read:
