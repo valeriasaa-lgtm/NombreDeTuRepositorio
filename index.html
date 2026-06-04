@@ -4,15 +4,15 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>SERENA SIRENA™ | Valeria Saa</title>
-  <meta name="description" content="SERENA™ / SERENA SIRENA™ es una identidad conceptual multivoz de Valeria Saa: mediacion, MCP, agentes, workflows e interaccion humano-IA.">
+  <meta name="description" content="SERENA™ / SERENA SIRENA™ es una identidad conceptual multivoz creada por Valeria Saa, ligada al mar, la mediacion, agentes, workflows, trazabilidad y la interaccion humano-IA.">
   <meta property="og:title" content="SERENA SIRENA™ | Valeria Saa">
-  <meta property="og:description" content="Multivoz, mediacion, MCP, agentes y traduccion entre sistemas.">
+  <meta property="og:description" content="Identidad conceptual creada por Valeria Saa: multivoz, mediacion, agentes, workflows, autoria y trazabilidad.">
   <meta property="og:image" content="https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://valeriasaa-lgtm.github.io/SERENA/">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="SERENA SIRENA™ | Valeria Saa">
-  <meta name="twitter:description" content="Multivoz, mediacion, MCP, agentes y traduccion entre sistemas.">
+  <meta name="twitter:description" content="Identidad conceptual creada por Valeria Saa: multivoz, mediacion, agentes, workflows, autoria y trazabilidad.">
   <meta name="twitter:image" content="https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg">
   <style>
     :root {
@@ -46,7 +46,7 @@
       overflow: hidden;
       background:
         linear-gradient(90deg, rgba(255, 250, 244, 0.98) 0%, rgba(255, 250, 244, 0.88) 31%, rgba(255, 250, 244, 0.2) 62%, rgba(255, 250, 244, 0.05) 100%),
-        url("https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg") center right / contain no-repeat,
+        url("assets/serena-sirena-valeria-saa.jpg") center right / contain no-repeat,
         var(--paper);
       border-bottom: 1px solid var(--line);
     }
@@ -104,6 +104,14 @@
     .actions a:nth-child(2) { color: var(--blue); }
     .actions a:nth-child(3) { color: var(--rose); }
     .actions a:nth-child(4) { color: var(--teal); }
+
+    .origin {
+      max-width: 760px;
+      margin: 18px 0 0;
+      font-size: 1rem;
+      line-height: 1.55;
+      font-weight: 560;
+    }
 
     main {
       width: min(1180px, calc(100% - 32px));
@@ -187,6 +195,14 @@
       color: var(--rose);
     }
 
+    .origin-note {
+      margin-top: 18px;
+      max-width: 52ch;
+      font-size: 1.02rem;
+      line-height: 1.6;
+      font-weight: 560;
+    }
+
     .hashtags {
       display: flex;
       flex-wrap: wrap;
@@ -197,6 +213,43 @@
       font-size: 0.95rem;
       font-weight: 800;
       color: #2b2b2b;
+    }
+
+    .notice {
+      margin-top: 42px;
+      padding: 28px;
+      border: 2px solid var(--ink);
+      background: #ffffff;
+      box-shadow: var(--shadow);
+    }
+
+    .notice h2 {
+      margin: 0 0 14px;
+      font-size: clamp(1.6rem, 4vw, 3.2rem);
+      line-height: 0.95;
+      letter-spacing: 0;
+      text-transform: uppercase;
+    }
+
+    .notice p {
+      max-width: 78ch;
+      margin: 0 0 14px;
+      font-weight: 620;
+      line-height: 1.58;
+    }
+
+    .external-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px 18px;
+      margin-top: 20px;
+      font-weight: 850;
+    }
+
+    .external-links a {
+      text-decoration: none;
+      border-bottom: 3px solid var(--rose);
+      padding-bottom: 5px;
     }
 
     footer {
@@ -213,7 +266,7 @@
         min-height: 92svh;
         background:
           linear-gradient(180deg, rgba(255, 250, 244, 0.98) 0%, rgba(255, 250, 244, 0.9) 44%, rgba(255, 250, 244, 0.12) 100%),
-          url("https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg") center bottom / min(88vw, 440px) auto no-repeat,
+          url("assets/serena-sirena-valeria-saa.jpg") center bottom / min(88vw, 440px) auto no-repeat,
           var(--paper);
       }
 
@@ -230,12 +283,13 @@
     <div class="hero-inner">
       <div class="kicker">Valeria Saa · GitHub · MCP · Agente Serena</div>
       <h1>SERENA SIRENA™</h1>
-      <p class="lede">Identidad conceptual multivoz para mediacion, traduccion entre sistemas, agentes, workflows e interaccion humano-IA.</p>
+      <p class="lede">Identidad conceptual multivoz creada por Valeria Saa para mediacion, traduccion entre sistemas, agentes, workflows, autoria y trazabilidad en interaccion humano-IA.</p>
+      <p class="origin">La figura de la sirena nace de un imaginario ligado al mar, al surf y a Mar del Plata. Una de sus primeras capas visuales fue inspirada por un viaje de Valeria Saa a Tailandia.</p>
       <nav class="actions" aria-label="Links principales">
         <a href="docs/manual-serena-jim.md">Manual vivo</a>
+        <a href="PUBLIC_AUTHORITY_NOTICE.md">Autoria</a>
         <a href="press/nota-de-prensa-serena.md">Nota de prensa</a>
         <a href="social-kit/README.md">Social kit</a>
-        <a href="nft/opensea-serena-sirena.md">NFT / OpenSea</a>
       </nav>
     </div>
   </section>
@@ -268,11 +322,26 @@
       </article>
     </section>
 
+    <section class="notice" aria-label="Derecho de replica y trazabilidad">
+      <h2>Autoria, replica y trazabilidad</h2>
+      <p><strong>SERENA™ / SERENA SIRENA™</strong> es una identidad conceptual, narrativa y multivoz creada y dirigida conceptualmente por <strong>Valeria Saa</strong>.</p>
+      <p>Esta pagina es el muro publico de SERENA™ / SERENA SIRENA™ de Valeria Saa. Las referencias externas y controversias de trazabilidad quedan resguardadas en paquete privado, fuera de este feed publico.</p>
+      <p>Esta separacion se hace necesaria por una experiencia reiterada de humillaciones, hostigamiento, mala fe, exposicion no consentida y uso del nombre, identidad, campo autoral, materiales reservados o contexto de datos de Valeria Saa para publicidad o circulacion ajena sin contexto, respeto ni derecho de replica suficiente.</p>
+      <p>La evidencia privada de Valeria Saa no se publica completa. El objetivo publico de esta pagina es preservar autoria conceptual, identidad creativa, derecho de replica y trazabilidad propia.</p>
+      <div class="external-links" aria-label="Referencias publicas externas">
+        <a href="PUBLIC_AUTHORITY_NOTICE.md">Autoria publica</a>
+        <a href="AUTHORSHIP.md">Registro de autoria</a>
+        <a href="LICENSE">Licencia</a>
+        <a href="docs/manual-serena-jim.md">Manual vivo</a>
+      </div>
+    </section>
+
     <section class="statement">
-      <img src="https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg" alt="SERENA SIRENA por Valeria Saa">
+      <img src="assets/serena-sirena-valeria-saa.jpg" alt="SERENA SIRENA, identidad conceptual de Valeria Saa">
       <div>
         <blockquote>“Siempre supe que esta señal se iba a escuchar.”</blockquote>
-        <p class="signature">SERENA™ / SERENA SIRENA™ · Valeria Saa</p>
+        <p class="origin-note">SERENA es una identidad conceptual creada por Valeria Saa. La sirena funciona como figura de traduccion, escucha y multivoz; sus primeras referencias visuales se trabajaron entre la memoria del mar y una inspiracion personal nacida de un viaje a Tailandia.</p>
+        <p class="signature">SERENA™ / SERENA SIRENA™ · autoria conceptual: Valeria Saa</p>
       </div>
     </section>
 
@@ -289,7 +358,7 @@
   </main>
 
   <footer>
-    <p>SERENA™ / SERENA SIRENA™ es una identidad conceptual y creativa de Valeria Saa. © Valeria Saa. All rights reserved.</p>
+    <p>SERENA™ / SERENA SIRENA™ es una identidad conceptual y creativa de Valeria Saa, surgida entre mar, multivoz, mediacion y traduccion entre sistemas. © Valeria Saa. All rights reserved.</p>
   </footer>
 </body>
 </html>
