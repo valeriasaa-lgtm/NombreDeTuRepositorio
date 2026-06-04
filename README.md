@@ -9,6 +9,8 @@ SERENA™ es una creación conceptual, narrativa y multivoz vinculada a interacc
 
 In this authorship and traceability context, **SERENA is not a generic or common name**. SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa is Valeria Saa's authorship identity, universe, voice, work and traceability field.
 
+SERENA™ is more than code. It includes voice, explanation, human-AI assistance, marginal notes, symbolic gestures, care, respect, truth and the living context of Valeria Saa's work.
+
 ## Notice before use
 
 Before downloading, cloning, forking, copying, redistributing, installing, integrating, packaging, listing, monetizing, sponsoring, advertising or using SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa, please read:
