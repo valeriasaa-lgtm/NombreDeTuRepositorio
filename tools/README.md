@@ -81,7 +81,7 @@ Para que algo sea considerado oficial SERENA™ / SERENA SIRENA™ / SERENA MCP�
 - nombrar a Valeria Saa como autora o dirección conceptual cuando corresponda;
 - separar obra propia, integración, referencia externa y evidencia privada;
 - no publicar secretos, contraseñas, tokens, claves privadas ni datos sensibles;
-- no publicar CEUNIA ni chats exportados;
+- no publicar proyectos reservados ni chats exportados;
 - explicar con claridad si algo es oficial, externo, pendiente o reservado;
 - poder ser leído por una persona no técnica sin confundir autoría.
 
