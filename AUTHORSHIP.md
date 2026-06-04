@@ -1,15 +1,17 @@
-# SERENA / MODO SERENA — Declaración de autoría
+# SERENA / MODO SERENA - Declaracion de autoria
 
-SERENA / MODO SERENA es una creación original de Valeria Saa.
+SERENA / MODO SERENA es una creacion original de Valeria Saa.
 
-Este repositorio funciona como registro de desarrollo, documentación y resguardo de identidad creativa.
+Este repositorio funciona como registro publico de desarrollo, documentacion y resguardo de identidad creativa.
 
-La autoría conceptual, narrativa, estética y de diseño pertenece exclusivamente a su creadora.
+La autoria conceptual, narrativa, estetica, simbolica, de voz, universo, diseno y trazabilidad pertenece a Valeria Saa.
 
-Las contribuciones técnicas, forks, referencias, visualizaciones, tráfico, clones o interacciones externas no implican cesión de propiedad intelectual ni derechos sobre el proyecto.
+El usuario, login o path tecnico de GitHub no reemplaza el nombre autoral. La autora publica es Valeria Saa.
 
-Toda reutilización, adaptación, publicación o derivación de SERENA / MODO SERENA requiere autorización expresa de Valeria Saa.
+Las contribuciones tecnicas, forks, referencias, visualizaciones, trafico, clones, descargas o interacciones externas no implican cesion de propiedad intelectual ni derechos sobre el proyecto.
+
+Toda reutilizacion, adaptacion, publicacion, descarga, integracion, monetizacion, sponsoreo o derivacion de SERENA / MODO SERENA requiere respetar la autoria de Valeria Saa y las reservas publicadas en este repositorio.
 
 Fecha de registro interno: 2026-05-02
-Creadora: Valeria Saa
-Repositorio: valeriasaa-lgtm/SERENA
+Creadora / autora: Valeria Saa
+Ubicacion tecnica publica del repositorio: valeriasaa-lgtm/SERENA
