@@ -10,6 +10,14 @@ SERENA / SERENA SIRENA is a conceptual, narrative and multivoice identity create
 
 This repository preserves Valeria Saa's public authorship and creative-direction record for SERENA as a conceptual system.
 
+## Not a Generic Name in This Context
+
+In this authorship, traceability and public-right-of-reply context, SERENA is not treated as a generic or common name.
+
+SERENA / SERENA SIRENA / SERENA MCP by Valeria Saa is Valeria Saa's authorship identity, universe, voice, work, creative field and traceability record.
+
+Any public tool, plugin, agent, MCP server, listing, video, sponsor-facing material or technical integration using the name Serena or Serena MCP should avoid presenting that name as if it erased, replaced or made generic Valeria Saa's authorship, identity, universe, voice, work or traceability field.
+
 ## Official Naming
 
 The official public naming for the technical layer is:
@@ -85,7 +93,7 @@ This request is made so that authorship may be properly established, corrected o
 
 ## Why This Separation Is Necessary
 
-This public separation is necessary because Valeria Saa has experienced repeated humiliation, hostility, bad-faith positioning, unwanted exposure and use of her name, identity, authorship field, reserved materials or data context for third-party publicity or circulation without adequate respect, context or reply.
+This public separation is necessary because Valeria Saa has experienced repeated humiliation, hostility, bad-faith positioning, unwanted exposure and use of her name, identity, field of authorship, reserved materials or data context for third-party publicity or circulation without adequate respect, context or reply.
 
 SERENA / SERENA SIRENA is therefore kept here as Valeria Saa's own authorship wall: a place for identity, creative direction, preservation and right of reply, not a space for amplifying third-party references.
 
@@ -113,7 +121,8 @@ Public visibility, forks, stars, plugin installs, downloads, marketplace listing
 - authorization to use protected material;
 - resolution of authorship concerns;
 - consent to publish private evidence;
-- acceptance of third-party attribution.
+- acceptance of third-party attribution;
+- acceptance that SERENA is generic or detached from Valeria Saa's authorship identity in this context.
 
 ## Statement
 
