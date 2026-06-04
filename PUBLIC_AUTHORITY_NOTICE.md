@@ -55,6 +55,8 @@ This reservation is made under applicable standards of authorship, good-faith re
 
 After the relevant facts are verified, Valeria Saa reserves the right to consolidate claims, corrections, attribution requests, damages, losses or other remedies arising from possible distortion, concealment, bad-faith handling, intentional misuse or aggravated misuse of data, identity, authorship context or materials related to Valeria Saa's private and reserved work.
 
+Valeria Saa also reserves the right to bring later claims for damages, losses and compensation and, where applicable under the law of the country or jurisdiction in which the corresponding complaint is consolidated, claims or complaints related to fraud, plagiarism, misrepresentation, concealment or other applicable legal categories.
+
 This statement is a preservation and right-of-reply notice. It does not publish private evidence and does not ask readers to treat unverified facts as finally adjudicated.
 
 ## Why This Separation Is Necessary
@@ -72,7 +74,8 @@ Valeria Saa reserves the right to request:
 - private traceability review;
 - preservation of evidence;
 - attribution review;
-- damages or compensation review where appropriate;
+- damages, losses or compensation review where appropriate;
+- fraud, plagiarism, misrepresentation or concealment review where applicable under the relevant jurisdiction;
 - legal review where appropriate.
 
 ## No Waiver
