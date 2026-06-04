@@ -1,9 +1,9 @@
 # SERENA™
 
-![SERENA SIRENA - identidad conceptual de Valeria Saa](assets/serena-sirena-valeria-saa.jpg)
-
 **SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa**  
 Created and conceptually directed by **Valeria Saa**.
+
+Public identity: **Valeria Saa / @valeriasaa**.
 
 SERENA™ es una creación conceptual, narrativa y multivoz vinculada a interacción humano-IA, mediación creativa, traducción entre sistemas, agentes, herramientas, plugins y arquitecturas MCP/workflow.
 
@@ -48,12 +48,11 @@ No person, repository, fork, account, plugin, agent, MCP server, marketplace, sp
 
 Valeria Saa also requests dignity, non-discrimination, apology, correction and repair where communication about SERENA was handled through humiliation, hostile framing, denial of context or insinuations about capacity instead of good-faith review.
 
-La figura de la sirena surge de un imaginario ligado al mar, al surf y a Mar del Plata. Una de sus primeras capas visuales fue inspirada por un viaje de Valeria Saa a Tailandia. La imagen pública actual corresponde a una etapa posterior del desarrollo visual de SERENA.
-
 ## Nombre público
 
 ```text
 SERENA MCP™ by Valeria Saa
+Valeria Saa / @valeriasaa
 ```
 
 SERENA MCP™ es la capa técnica de SERENA™ / SERENA SIRENA™ para MCP, agentes, herramientas, plugins, workflows, trazabilidad y publicación pública responsable.
@@ -94,12 +93,12 @@ Las referencias externas, controversias de trazabilidad, chats exportados, proye
 - [Guía GitHub Pages](GITHUB_PAGES_SETUP.md)
 - [Ficha NFT / OpenSea](nft/opensea-serena-sirena.md)
 - [Metadata NFT](nft/metadata-serena-sirena.json)
-- [Imagen pública](assets/serena-sirena-valeria-saa.jpg)
 
-## 🌐 Descripción
+## Descripción
+
 SERENA funciona como interfaz, agente y capa de traducción entre sistemas, personas y lenguajes, orientada a nuevas formas de comunicación, organización y resolución integral en inteligencia artificial.
 
-## ⚙️ Componentes principales
+## Componentes principales
 
 - **Multivoz y mediación**  
   Arquitectura conceptual para ordenar voces, roles, contextos y traducciones entre sistemas.
@@ -110,7 +109,8 @@ SERENA funciona como interfaz, agente y capa de traducción entre sistemas, pers
 - **Base de trazabilidad**  
   Estructura para preservar autoría, documentación asociada y evolución pública del concepto.
 
-## 🎯 Objetivo
+## Objetivo
+
 Preservar la identidad conceptual de SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa, honrar el desarrollo técnico asociado y abrir nuevas posibilidades de construcción conjunta entre creatividad, código, agentes e inteligencia artificial.
 
 ## Derecho de replica y trazabilidad
@@ -119,7 +119,8 @@ SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa es el espacio public
 
 Esta separacion publica se hace necesaria por una experiencia reiterada de humillaciones, hostigamiento, mala fe, exposicion no consentida y uso del nombre, identidad, campo autoral, materiales reservados o contexto de datos de Valeria Saa para publicidad o circulacion ajena sin contexto, respeto ni derecho de replica suficiente.
 
-## 🚀 Estado
-En desarrollo – registro público inicial del concepto.
+## Estado
+
+En desarrollo - registro público inicial del concepto.
 
 © Valeria Saa. All rights reserved.
