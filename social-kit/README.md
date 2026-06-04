@@ -17,7 +17,7 @@ Repo SERENA:
 https://github.com/valeriasaa-lgtm/SERENA
 
 Issue de preservación:
-https://github.com/oraios/serena/issues/1499
+Las referencias externas y controversias de trazabilidad quedan en paquete privado; no se recomiendan como link publico del social kit.
 
 > No guardar contraseñas, tokens, códigos 2FA ni claves privadas en este kit.
 
