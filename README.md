@@ -19,10 +19,13 @@ As intelligence evolves, SERENA must help reveal, motivate and defend new spaces
 
 Before downloading, cloning, forking, copying, redistributing, installing, integrating, packaging, listing, monetizing, sponsoring, advertising or using SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa, please read:
 
+- [SERENA Authorship Declaration](AUTHORSHIP.md)
 - [SERENA Authorship Acceptance Notice](AUTHORSHIP_ACCEPTANCE_NOTICE.md)
 - [Public authorship and traceability notice](PUBLIC_AUTHORITY_NOTICE.md)
 - [SERENA Link and Channel Policy](LINK_POLICY.md)
 - [SERENA Sponsors and Compensation Notice](SPONSORS_AND_COMPENSATION_NOTICE.md)
+- [SERENA Security and Access Notice](SECURITY_AND_ACCESS_NOTICE.md)
+- [SERENA Dignity and Right of Reply Notice](DIGNITY_AND_RIGHT_OF_REPLY_NOTICE.md)
 - [License / rights reservation](LICENSE)
 
 Public visibility does not mean waiver of rights, permission to erase authorship or acceptance of third-party attribution.
@@ -30,6 +33,10 @@ Public visibility does not mean waiver of rights, permission to erase authorship
 No further download, install, fork, copy, plugin listing, agent listing, sponsorship or monetized distribution should be treated as authorized from third-party or confusing channels while review is pending. Official downloads, releases, plugins, agents, MCP listings, sponsor-facing materials, videos, publications or integrations should come only from Valeria Saa's own accounts or channels expressly authorized by Valeria Saa.
 
 Any confusing link, download path, sponsor path, marketplace entry, plugin listing, agent listing, MCP listing, video, publication, repository reference or integration returns to review until authorship, right of reply, traceability and official channel status are clear.
+
+No person, repository, fork, account, plugin, agent, MCP server, marketplace, sponsor, platform, collaborator or third-party channel is authorized by this repository to access Valeria Saa's private computer, private accounts, private exports, private chats, private files, private evidence, private repositories, private workspaces or private identity materials.
+
+Valeria Saa also requests dignity, non-discrimination, apology, correction and repair where communication about SERENA was handled through humiliation, hostile framing, denial of context or insinuations about capacity instead of good-faith review.
 
 La figura de la sirena surge de un imaginario ligado al mar, al surf y a Mar del Plata. Una de sus primeras capas visuales fue inspirada por un viaje de Valeria Saa a Tailandia. La imagen pública actual corresponde a una etapa posterior del desarrollo visual de SERENA.
 
@@ -51,10 +58,13 @@ Las referencias externas, controversias de trazabilidad, chats exportados, proye
 
 ## Links públicos
 
+- [SERENA Authorship Declaration](AUTHORSHIP.md)
 - [SERENA Authorship Acceptance Notice](AUTHORSHIP_ACCEPTANCE_NOTICE.md)
 - [Public authorship and traceability notice](PUBLIC_AUTHORITY_NOTICE.md)
 - [SERENA Link and Channel Policy](LINK_POLICY.md)
 - [SERENA Sponsors and Compensation Notice](SPONSORS_AND_COMPENSATION_NOTICE.md)
+- [SERENA Security and Access Notice](SECURITY_AND_ACCESS_NOTICE.md)
+- [SERENA Dignity and Right of Reply Notice](DIGNITY_AND_RIGHT_OF_REPLY_NOTICE.md)
 - [SERENA MCP™ by Valeria Saa](mcp/README.md)
 - [Workflow submission / Concurso](contest/workflow-submission-serena.md)
 - [Preguntas y propuestas SERENA™](community/questions-and-proposals.md)
