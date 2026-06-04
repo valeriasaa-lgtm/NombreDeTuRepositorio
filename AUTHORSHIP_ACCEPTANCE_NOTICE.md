@@ -12,6 +12,8 @@ Before downloading, cloning, forking, copying, redistributing, installing, integ
 - public visibility of this repository does not mean waiver of rights;
 - public access does not create authorization to erase, alter, obscure or replace Valeria Saa's authorship;
 - external tools, plugins, agents, MCP servers, listings, marketplaces, videos or sponsorship signals using the name Serena do not resolve authorship concerns;
+- no further download, install, fork, copy, plugin listing, agent listing, sponsorship or monetized distribution should be treated as authorized from third-party or confusing channels while review is pending;
+- official downloads, releases, plugins, agents, MCP listings, repositories, sponsor-facing materials, videos, publications or integrations should come only from Valeria Saa's own accounts or channels expressly authorized by Valeria Saa;
 - private evidence, exported chats, reserved materials, personal data and unresolved third-party traceability issues are not published here and remain reserved;
 - any derivative, integration, publication, sponsor-facing material, plugin, agent, marketplace listing, video or commercial use must preserve attribution and avoid authorship confusion.
 
@@ -19,7 +21,7 @@ Before downloading, cloning, forking, copying, redistributing, installing, integ
 
 Any person or entity wishing to use, integrate, publish, sponsor, monetize, promote or build upon SERENA / SERENA SIRENA / SERENA MCP™ by Valeria Saa should be prepared to confirm:
 
-> I acknowledge that SERENA / SERENA SIRENA / SERENA MCP™ by Valeria Saa is authored and conceptually directed by Valeria Saa. I will not use, download, fork, copy, integrate, publish, monetize, sponsor, advertise or present the work in a way that erases, obscures, distorts, conceals or replaces Valeria Saa's authorship, right of reply, traceability record or reserved rights.
+> I acknowledge that SERENA / SERENA SIRENA / SERENA MCP™ by Valeria Saa is authored and conceptually directed by Valeria Saa. I will not use, download, fork, copy, integrate, publish, monetize, sponsor, advertise or present the work in a way that erases, obscures, distorts, conceals or replaces Valeria Saa's authorship, right of reply, traceability record or reserved rights. I also acknowledge that official downloads, releases, plugins, agents, MCP listings, sponsor-facing materials, videos, publications or integrations should come only from Valeria Saa's own accounts or channels expressly authorized by Valeria Saa.
 
 ## Temporary Pause Request
 
