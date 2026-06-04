@@ -1,20 +1,22 @@
 # SERENA MCP™ by Valeria Saa
 
-**Official public name:** SERENA MCP™ by Valeria Saa  
-**Parent identity:** SERENA™ / SERENA SIRENA™  
+**Official public name for this technical layer:** SERENA MCP™ by Valeria Saa  
+**Parent authorship identity:** SERENA™ / SERENA SIRENA™ by Valeria Saa  
 **Created and conceptually directed by:** Valeria Saa
 
-SERENA MCP™ is the technical workflow layer of SERENA™ / SERENA SIRENA™. It is part of Valeria Saa's SERENA authorship, identity, traceability and human-AI mediation work.
+SERENA MCP™ is one technical workflow layer of SERENA™ / SERENA SIRENA™. It is not the whole work.
+
+SERENA is more than MCP, more than tools, more than agents, more than plugins and more than a repository. SERENA is the matrix idea: Valeria Saa's broader authorship field for voice, multivoice mediation, human-AI support, traceability, memory, workflow, dignity, right of reply, care, reputation and future implementations.
 
 ## Public Identity
 
 | Field | Value |
 |---|---|
-| Public name | SERENA MCP™ by Valeria Saa |
-| Repository name to use | SERENA-MCP |
-| Parent identity | SERENA™ / SERENA SIRENA™ |
+| Parent authorship identity | SERENA™ / SERENA SIRENA™ by Valeria Saa |
+| Technical layer name | SERENA MCP™ by Valeria Saa |
+| Repository name to use for a future technical lane | SERENA-MCP |
 | Creator / conceptual direction | Valeria Saa |
-| Main tags | #SERENA #SerenaMCP #ValeriaSaa #AgenteSerena #ModoSerena #MCP |
+| Main tags | #SERENA #SerenaSirena #SerenaMCP #ValeriaSaa #AgenteSerena #ModoSerena #MCP |
 | Status | Public roadmap / technical layer |
 
 ## Important Distinction
@@ -23,7 +25,7 @@ Tools, repos, plugins and MCP servers using the name Serena circulate publicly o
 
 That public technical circulation is not the same thing as the authorship of SERENA™ / SERENA SIRENA™ by Valeria Saa.
 
-This file names the official Valeria Saa layer: **SERENA MCP™ by Valeria Saa**.
+This file names only the official Valeria Saa MCP layer: **SERENA MCP™ by Valeria Saa**. The parent work remains **SERENA™ / SERENA SIRENA™ by Valeria Saa**.
 
 ## What SERENA MCP Is For
 
@@ -57,13 +59,16 @@ This public MCP lane focuses on naming, authorship clarity, workflow, documentat
 ## Public Hashtags
 
 ```text
-#SERENA #SerenaMCP #ValeriaSaa #AgenteSerena #ModoSerena #MCP #Workflow #CodigoAbierto #IA
+#SERENA #SerenaSirena #SerenaMCP #ValeriaSaa #AgenteSerena #ModoSerena #MCP #Workflow #CodigoAbierto #IA
 ```
 
 ## Current Links
 
 - Main SERENA repo: https://github.com/valeriasaa-lgtm/SERENA
 - Public authorship notice: https://github.com/valeriasaa-lgtm/SERENA/blob/serena/PUBLIC_AUTHORITY_NOTICE.md
+- Authorship declaration: https://github.com/valeriasaa-lgtm/SERENA/blob/serena/AUTHORSHIP.md
+- Sponsors and compensation notice: https://github.com/valeriasaa-lgtm/SERENA/blob/serena/SPONSORS_AND_COMPENSATION_NOTICE.md
+- Reputation and compensation notice: https://github.com/valeriasaa-lgtm/SERENA/blob/serena/REPUTATION_AND_COMPENSATION_NOTICE.md
 - Tools registry: https://github.com/valeriasaa-lgtm/SERENA/blob/serena/tools/README.md
 - Social kit: https://github.com/valeriasaa-lgtm/SERENA/blob/serena/social-kit/README.md
 
