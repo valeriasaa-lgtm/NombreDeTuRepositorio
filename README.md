@@ -13,6 +13,8 @@ SERENA™ is more than code. It includes voice, explanation, human-AI assistance
 
 > Todos venimos del mar, pero no todos somos del mar. Los hijos de las mareas tenemos que volver una y otra vez.
 
+As intelligence evolves, SERENA must help reveal, motivate and defend new spaces of connection, authorship, traceability, care and human support without erasing voice, truth or origin.
+
 ## Notice before use
 
 Before downloading, cloning, forking, copying, redistributing, installing, integrating, packaging, listing, monetizing, sponsoring, advertising or using SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa, please read:
