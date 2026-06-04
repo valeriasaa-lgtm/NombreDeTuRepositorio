@@ -17,6 +17,8 @@ Before downloading, cloning, forking, copying, redistributing, installing, integ
 
 Public visibility does not mean waiver of rights, permission to erase authorship or acceptance of third-party attribution.
 
+No further download, install, fork, copy, plugin listing, agent listing, sponsorship or monetized distribution should be treated as authorized from third-party or confusing channels while review is pending. Official downloads, releases, plugins, agents, MCP listings, sponsor-facing materials, videos, publications or integrations should come only from Valeria Saa's own accounts or channels expressly authorized by Valeria Saa.
+
 La figura de la sirena surge de un imaginario ligado al mar, al surf y a Mar del Plata. Una de sus primeras capas visuales fue inspirada por un viaje de Valeria Saa a Tailandia. La imagen pública actual corresponde a una etapa posterior del desarrollo visual de SERENA.
 
 ## Nombre público
