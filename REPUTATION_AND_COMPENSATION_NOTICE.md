@@ -6,7 +6,7 @@
 
 ## Reputation Is Not Negotiable
 
-Valeria Saa's authorship, name, reputation, dignity and professional trajectory connected to SERENA / SERENA SIRENA / SERENA MCP are not negotiable.
+Valeria Saa's authorship, name, reputation, dignity, honor and professional trajectory connected to SERENA / SERENA SIRENA / SERENA MCP are not negotiable.
 
 SERENA is not a generic name detached from Valeria Saa's authorship context. It is part of a long creative, conceptual, technical, narrative and human-AI support trajectory developed by Valeria Saa.
 
@@ -19,6 +19,14 @@ SERENA is a matrix idea: the conceptual origin and organizing field from which t
 The money, reputation, sponsorship and compensation question should not be reduced to one protocol, one patent, one plugin, one repository, one agent or one technical implementation.
 
 Where commercial or reputational value is connected to the SERENA insight, matrix idea, name, universe, authorship field, human-AI mediation model, support UX, traceability method or public visibility, that value should be reviewed in relation to Valeria Saa's authorship and compensation path.
+
+## Burden of Formal Clarification
+
+Valeria Saa has been placed in the position of having to stop, explain, preserve evidence, organize dates, formalize authorship, clarify public confusion and defend her honor, work and reputation while trying to close a long-term project.
+
+That burden affects not only public metadata or technical circulation, but also Valeria Saa's standing before her family, students, colleagues, teachers, mentors, peers, siblings and close community.
+
+Reputation repair should therefore include not only technical attribution, but also public clarity, dignity, apology where appropriate, sponsor/payment routing review, and preservation of the truth of the work.
 
 ## Compensation Position
 
