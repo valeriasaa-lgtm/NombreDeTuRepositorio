@@ -47,6 +47,16 @@ This public repository centers **SERENA / SERENA SIRENA / SERENA MCP by Valeria 
 
 External public references and third-party metadata, where relevant, are preserved separately in a private evidence package. They are not repeated here because this repository is the public-facing home of Valeria Saa's SERENA / SERENA SIRENA identity.
 
+## Temporary Reservation While Review Is Pending
+
+While the relevant facts, dates, technical circulation, authorship records and private evidence are being clarified, Valeria Saa requests that SERENA / SERENA SIRENA / SERENA MCP be treated under a preservation, right-of-reply and authorship-reservation framework.
+
+This reservation is made under applicable standards of authorship, good-faith review, platform conduct, open-source respect, privacy and right of reply.
+
+After the relevant facts are verified, Valeria Saa reserves the right to consolidate claims, corrections, attribution requests, damages, losses or other remedies arising from possible distortion, concealment, bad-faith handling, intentional misuse or aggravated misuse of data, identity, authorship context or materials related to Valeria Saa's private and reserved work.
+
+This statement is a preservation and right-of-reply notice. It does not publish private evidence and does not ask readers to treat unverified facts as finally adjudicated.
+
 ## Why This Separation Is Necessary
 
 This public separation is necessary because Valeria Saa has experienced repeated humiliation, hostility, bad-faith positioning, unwanted exposure and use of her name, identity, authorship field, reserved materials or data context for third-party publicity or circulation without adequate respect, context or reply.
@@ -62,6 +72,7 @@ Valeria Saa reserves the right to request:
 - private traceability review;
 - preservation of evidence;
 - attribution review;
+- damages or compensation review where appropriate;
 - legal review where appropriate.
 
 ## No Waiver
