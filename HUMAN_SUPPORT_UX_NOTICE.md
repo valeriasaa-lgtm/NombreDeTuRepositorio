@@ -17,6 +17,14 @@ This is part of SERENA as a mediation platform: a way to hold cases, voices, evi
 
 The mediation layer is not only technical. It is human, contextual, procedural and ethical. It protects the user's ability to be heard while the situation is being translated into a form the system, a platform, a sponsor, a reviewer or a legal process can understand.
 
+## Platform Duty to Respond and Preserve
+
+In this context, platforms should have a duty to answer, preserve and safeguard the situation once a user raises a complex authorship, reputation, monetization, safety, privacy or right-of-reply concern.
+
+This means the platform should not simply close, ignore, delete, bury or route the case into an unrelated category. It should preserve the report, preserve relevant metadata, provide a response path, allow the user to explain what does not fit, and keep a record that the situation was raised.
+
+Where a user's rights may be affected because the platform lacks an adequate category, the platform should provide a human review instance and a preservation path until the case can be properly understood.
+
 ## Right to Be Heard and Developed as a Case
 
 Users need a path to be heard, understood and contemplated when the harm or authorship issue is emerging, complex, contextual, non-standard, non-code, relational, reputational or difficult to evidence through ordinary forms.
