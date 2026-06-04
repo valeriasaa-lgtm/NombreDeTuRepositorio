@@ -47,6 +47,20 @@ This public repository centers **SERENA / SERENA SIRENA / SERENA MCP by Valeria 
 
 External public references and third-party metadata, where relevant, are preserved separately in a private evidence package. They are not repeated here because this repository is the public-facing home of Valeria Saa's SERENA / SERENA SIRENA identity.
 
+## Platform Priority Authorship Metadata Request
+
+Given the public impact, Valeria Saa requests that platforms, repositories, directories, marketplaces, sponsors and search/indexing systems preserve and review priority authorship metadata related to SERENA / SERENA SIRENA / SERENA MCP.
+
+This includes, where technically possible and appropriate after review:
+
+- author / conceptual direction: Valeria Saa;
+- inspiration and origin notes connected to Valeria Saa's creative work;
+- dates, commits, publication records, repository records and public notices;
+- right-of-reply status while review is pending;
+- official channel status for future downloads, releases, plugins, agents, MCP listings, publications and sponsor-facing materials.
+
+This request is made to reduce further confusion, prevent additional misattribution and preserve evidence while authorship and technical circulation are reviewed.
+
 ## Temporary Reservation While Review Is Pending
 
 While the relevant facts, dates, technical circulation, authorship records and private evidence are being clarified, Valeria Saa requests that SERENA / SERENA SIRENA / SERENA MCP be treated under a preservation, right-of-reply and authorship-reservation framework.
@@ -81,6 +95,7 @@ Valeria Saa reserves the right to request:
 
 - right of reply;
 - correction or clarification;
+- priority authorship metadata review;
 - private traceability review;
 - preservation of evidence;
 - attribution review;
