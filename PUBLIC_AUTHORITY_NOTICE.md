@@ -79,6 +79,10 @@ This request is made in order to understand what happened, preserve traceability
 
 Depending on the facts, role, knowledge, notice received, verification duties, amplification, monetization and applicable jurisdiction, platforms, sponsors, marketplaces, publishers, directories, agents, plugin distributors or other third parties may also be responsible if they continued to distribute, promote, monetize, sponsor or list confusing Serena / Serena MCP materials after having knowledge of the authorship conflict or without conducting a sufficient good-faith verification.
 
+Once a sponsor, advertiser, platform or marketplace receives notice of a documented authorship dispute, it should not continue sponsoring, promoting, advertising, monetizing or amplifying the disputed name, plugin, agent, MCP server, listing or repository as if no conflict existed.
+
+Platforms that sustain open-source or free-code circulation should protect the flow of code together with authorship, traceability, right of reply and good-faith review. Open-code infrastructure should not be used to normalize misattribution, confusing sponsorship, avoidable harm or monetized circulation of disputed authorship signals.
+
 This review is also necessary to preserve the original insight of SERENA: it is not merely a code tool or generic plugin name, but a broader work of mediation, voice, authorship, context, human-AI interaction, care and traceability by Valeria Saa.
 
 ## Temporary Reservation While Review Is Pending
