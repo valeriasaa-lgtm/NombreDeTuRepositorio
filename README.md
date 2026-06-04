@@ -7,6 +7,16 @@ Created and conceptually directed by **Valeria Saa**.
 
 SERENA™ es una creación conceptual, narrativa y multivoz vinculada a interacción humano-IA, mediación creativa, traducción entre sistemas, agentes, herramientas, plugins y arquitecturas MCP/workflow.
 
+## Notice before use
+
+Before downloading, cloning, forking, copying, redistributing, installing, integrating, packaging, listing, monetizing, sponsoring, advertising or using SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa, please read:
+
+- [SERENA Authorship Acceptance Notice](AUTHORSHIP_ACCEPTANCE_NOTICE.md)
+- [Public authorship and traceability notice](PUBLIC_AUTHORITY_NOTICE.md)
+- [License / rights reservation](LICENSE)
+
+Public visibility does not mean waiver of rights, permission to erase authorship or acceptance of third-party attribution.
+
 La figura de la sirena surge de un imaginario ligado al mar, al surf y a Mar del Plata. Una de sus primeras capas visuales fue inspirada por un viaje de Valeria Saa a Tailandia. La imagen pública actual corresponde a una etapa posterior del desarrollo visual de SERENA.
 
 ## Nombre público
@@ -27,6 +37,7 @@ Las referencias externas, controversias de trazabilidad, chats exportados, proye
 
 ## Links públicos
 
+- [SERENA Authorship Acceptance Notice](AUTHORSHIP_ACCEPTANCE_NOTICE.md)
 - [Public authorship and traceability notice](PUBLIC_AUTHORITY_NOTICE.md)
 - [SERENA MCP™ by Valeria Saa](mcp/README.md)
 - [Workflow submission / Concurso](contest/workflow-submission-serena.md)
