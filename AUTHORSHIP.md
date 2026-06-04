@@ -1,10 +1,9 @@
 # SERENA / SERENA SIRENA / SERENA MCP - Authorship Declaration
 
-![SERENA SIRENA - identidad conceptual de Valeria Saa](assets/serena-sirena-valeria-saa.jpg)
-
 **Public author / creator / conceptual direction:** Valeria Saa  
+**Official public identity:** Valeria Saa / @valeriasaa  
 **Official authorship identity:** SERENA / SERENA SIRENA / SERENA MCP by Valeria Saa  
-**Technical public repository location:** `valeriasaa-lgtm/SERENA`
+**Current technical repository:** SERENA
 
 ## Core Declaration
 
@@ -30,6 +29,7 @@ The official public name for the technical layer is:
 
 ```text
 SERENA MCP by Valeria Saa
+Valeria Saa / @valeriasaa
 ```
 
 The GitHub username, repository path or technical hosting account does not replace the public author name. The public author is:
@@ -64,6 +64,7 @@ Private exports, private chats, reserved records, sensitive evidence and unrelat
 
 Internal registration date: 2026-05-02  
 Creator / author: Valeria Saa  
-Technical public repository location: `valeriasaa-lgtm/SERENA`
+Official public identity: Valeria Saa / @valeriasaa  
+Current technical repository: SERENA
 
 © Valeria Saa. All rights reserved.
