@@ -23,7 +23,7 @@ Existen herramientas, repositorios, plugins, MCP servers, agentes y listados té
 
 Esa circulación es relevante para trazabilidad y derecho de réplica, pero no reemplaza ni borra la autoría conceptual de **Valeria Saa** sobre SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa.
 
-Las referencias externas, controversias de trazabilidad, chats exportados, CEUNIA y evidencia sensible quedan resguardadas en paquete privado; no forman parte del muro público principal de SERENA.
+Las referencias externas, controversias de trazabilidad, chats exportados, proyectos reservados y evidencia sensible quedan resguardados en paquete privado; no forman parte del muro público principal de SERENA.
 
 ## Links públicos
 
