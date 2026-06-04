@@ -59,6 +59,14 @@ Valeria Saa also reserves the right to bring later claims for damages, losses an
 
 This statement is a preservation and right-of-reply notice. It does not publish private evidence and does not ask readers to treat unverified facts as finally adjudicated.
 
+## Public Right of Reply and Future Integration Request
+
+Given the public impact and circulation of tools, plugins, agents, MCP servers, listings, videos, sponsorship signals or publications using the name Serena or Serena MCP, Valeria Saa publicly requests the right of reply and the opportunity for a later, good-faith review of attribution, authorship, visibility, monetization and sponsorship context.
+
+Valeria Saa also reserves the right to present, integrate, merge or connect SERENA / SERENA SIRENA / SERENA MCP with her final work, once the relevant material has been organized, verified and reviewed under appropriate authorship, privacy, platform and legal standards.
+
+This request is made so that authorship may be properly established, corrected or expanded after review, without exposing private evidence prematurely and without misrepresenting unresolved facts.
+
 ## Why This Separation Is Necessary
 
 This public separation is necessary because Valeria Saa has experienced repeated humiliation, hostility, bad-faith positioning, unwanted exposure and use of her name, identity, authorship field, reserved materials or data context for third-party publicity or circulation without adequate respect, context or reply.
@@ -74,6 +82,7 @@ Valeria Saa reserves the right to request:
 - private traceability review;
 - preservation of evidence;
 - attribution review;
+- future integration, merge or connection with Valeria Saa's final work after review;
 - damages, losses or compensation review where appropriate;
 - fraud, plagiarism, misrepresentation or concealment review where applicable under the relevant jurisdiction;
 - legal review where appropriate.
