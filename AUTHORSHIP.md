@@ -16,11 +16,13 @@ SERENA is not limited to a repository, tool, protocol, plugin, agent, MCP server
 
 ## Matrix Idea
 
-SERENA is a matrix idea: a conceptual origin and organizing field from which tools, agents, MCP layers, workflows, publications, support UX, traceability methods and future implementations may emerge.
+SERENA is a matrix idea: a conceptual origin and organizing field from which tools, agents, MCP layers, workflows, publications, support UX, traceability methods, mediation platform layers and future implementations may emerge.
 
 The tools are not the whole work. The agents are not the whole work. MCP is not the whole work. They are possible expressions, channels or implementations of a broader authorship insight created and directed by Valeria Saa.
 
-Any future technical layer, agent layer, plugin layer, MCP layer, workflow layer, sponsor-facing layer or platform layer connected to SERENA must preserve Valeria Saa's authorship, reputation, dignity, compensation path and right of reply.
+The mediation platform layer is part of SERENA: a way to preserve, translate and hold complex human situations, rights, authorship concerns, reputation concerns, evidence, support needs and explanations that do not yet fit inside existing platform categories.
+
+Any future technical layer, agent layer, plugin layer, MCP layer, workflow layer, sponsor-facing layer, mediation layer or platform layer connected to SERENA must preserve Valeria Saa's authorship, reputation, dignity, compensation path and right of reply.
 
 ## Public Name
 
