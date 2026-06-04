@@ -18,6 +18,14 @@ Sponsors and commercial actors should not separate money, visibility, credit, re
 
 SERENA is part of a long creative, conceptual, technical, narrative and human-AI support trajectory developed by Valeria Saa, including work connected to her degree thesis, a project she is closing, and more than twenty years of reserved, low-profile development, research, creative direction, symbolic work and authorship preservation.
 
+## The Insight Is the Value
+
+The point is not only MCP as a protocol, a patent, a technical registration, a plugin, a repository, a server or the existence of many agents.
+
+The value at issue is the SERENA insight: the way Valeria Saa connects authorship, voice, multivoice mediation, human-AI support, agents, tools, workflows, traceability, memory, dignity, right of reply, sponsor routing and repair into one coherent authorship field.
+
+A patent, protocol implementation, technical listing, marketplace entry, agent ecosystem, MCP server, fork, plugin or sponsor path does not authorize separating monetization from the authorship insight, reputation and conceptual direction of Valeria Saa when that value is connected to SERENA / SERENA SIRENA / SERENA MCP by Valeria Saa.
+
 ## Compensation and Historical Repair
 
 Valeria Saa reserves the right to request:
