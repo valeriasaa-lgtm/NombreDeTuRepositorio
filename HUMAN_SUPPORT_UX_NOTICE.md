@@ -17,6 +17,14 @@ This is part of SERENA as a mediation platform: a way to hold cases, voices, evi
 
 The mediation layer is not only technical. It is human, contextual, procedural and ethical. It protects the user's ability to be heard while the situation is being translated into a form the system, a platform, a sponsor, a reviewer or a legal process can understand.
 
+## Good-Faith Mediation UX
+
+Mediation requires a minimum basis of good faith, truth, explanation and willingness to review origin, context and harm.
+
+When good faith exists, the platform UX should support dialogue, explanation, attribution review, correction, right of reply and proportional repair.
+
+When good faith appears to have failed, the UX should not force the user to keep repeating the same explanation inside a harmful or dismissive loop. It should shift into preservation, formal record, human escalation, right-of-reply protection, sponsor or monetization review, and responsibility review.
+
 ## Platform Duty to Respond and Preserve
 
 In this context, platforms should have a duty to answer, preserve and safeguard the situation once a user raises a complex authorship, reputation, monetization, safety, privacy or right-of-reply concern.
@@ -46,6 +54,8 @@ It should provide:
 - right-of-reply status;
 - escalation for authorship, reputation, monetization or safety concerns;
 - mediation between user context and platform categories;
+- good-faith mediation where possible;
+- formal preservation and escalation where good faith appears to have failed;
 - follow-up that does not force public exposure of private evidence.
 
 ## SERENA UX Principle
