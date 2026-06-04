@@ -40,7 +40,7 @@ SERENA MCP™ by Valeria Saa is the open technical lane for:
 
 ## What Stays Separate
 
-Private evidence, exported chats, reserved materials, CEUNIA, personal data and unresolved third-party traceability issues are not published here.
+Private evidence, exported chats, reserved materials, personal data and unresolved third-party traceability issues are not published here.
 
 This public MCP lane focuses on naming, authorship clarity, workflow, documentation, search, GitHub and open collaboration.
 
