@@ -11,6 +11,8 @@ In this authorship and traceability context, **SERENA is not a generic or common
 
 SERENA™ is more than code. It includes voice, explanation, human-AI assistance, marginal notes, symbolic gestures, care, respect, truth and the living context of Valeria Saa's work.
 
+> Todos venimos del mar, pero no todos somos del mar. Los hijos de las mareas tenemos que volver una y otra vez.
+
 ## Notice before use
 
 Before downloading, cloning, forking, copying, redistributing, installing, integrating, packaging, listing, monetizing, sponsoring, advertising or using SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa, please read:
