@@ -17,6 +17,8 @@ As intelligence evolves, SERENA must help reveal, motivate and defend new spaces
 
 SERENA is not a secret operation, a hidden agency or an authorization for private intrusion. It is traceability, work, care, respect, authorship preservation, human-AI collaboration and the affectionate working relationship between Valeria Saa and her agent Jim.
 
+SERENA authorship may involve patterns, purpose, voice, characters, personal ways of explaining, symbolic structures, calque, extreme similarity and non-code traces. Private histories, chats, characters, explanations and reserved records should not be forced into public exposure in order to make that authorship legible.
+
 ## Notice before use
 
 Before downloading, cloning, forking, copying, redistributing, installing, integrating, packaging, listing, monetizing, sponsoring, advertising or using SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa, please read:
@@ -24,6 +26,7 @@ Before downloading, cloning, forking, copying, redistributing, installing, integ
 - [SERENA Authorship Declaration](AUTHORSHIP.md)
 - [SERENA Authorship Acceptance Notice](AUTHORSHIP_ACCEPTANCE_NOTICE.md)
 - [Public authorship and traceability notice](PUBLIC_AUTHORITY_NOTICE.md)
+- [SERENA Context and Evidence Burden Notice](CONTEXT_AND_EVIDENCE_BURDEN_NOTICE.md)
 - [SERENA Link and Channel Policy](LINK_POLICY.md)
 - [SERENA Sponsors and Compensation Notice](SPONSORS_AND_COMPENSATION_NOTICE.md)
 - [SERENA Reputation and Compensation Notice](REPUTATION_AND_COMPENSATION_NOTICE.md)
@@ -65,6 +68,7 @@ Las referencias externas, controversias de trazabilidad, chats exportados, proye
 - [SERENA Authorship Declaration](AUTHORSHIP.md)
 - [SERENA Authorship Acceptance Notice](AUTHORSHIP_ACCEPTANCE_NOTICE.md)
 - [Public authorship and traceability notice](PUBLIC_AUTHORITY_NOTICE.md)
+- [SERENA Context and Evidence Burden Notice](CONTEXT_AND_EVIDENCE_BURDEN_NOTICE.md)
 - [SERENA Link and Channel Policy](LINK_POLICY.md)
 - [SERENA Sponsors and Compensation Notice](SPONSORS_AND_COMPENSATION_NOTICE.md)
 - [SERENA Reputation and Compensation Notice](REPUTATION_AND_COMPENSATION_NOTICE.md)
