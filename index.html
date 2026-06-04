@@ -3,16 +3,16 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>SERENA MCP™ by Valeria Saa</title>
-  <meta name="description" content="SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa: autoria conceptual, multivoz, agentes, MCP, sponsors, trazabilidad y derecho de replica.">
-  <meta property="og:title" content="SERENA MCP™ by Valeria Saa">
-  <meta property="og:description" content="Autoria conceptual de Valeria Saa: SERENA, multivoz, agentes, MCP, sponsors oficiales, trazabilidad y derecho de replica.">
+  <title>SERENA™ by Valeria Saa</title>
+  <meta name="description" content="SERENA™ / SERENA SIRENA™ by Valeria Saa: idea matriz, autoria conceptual, multivoz, agentes, MCP, sponsors, trazabilidad y derecho de replica.">
+  <meta property="og:title" content="SERENA™ by Valeria Saa">
+  <meta property="og:description" content="SERENA es mas que MCP: idea matriz de Valeria Saa para multivoz, agentes, soporte humano, trazabilidad, sponsors y autoria.">
   <meta property="og:image" content="https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://valeriasaa-lgtm.github.io/SERENA/">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="SERENA MCP™ by Valeria Saa">
-  <meta name="twitter:description" content="SERENA, SERENA SIRENA y SERENA MCP by Valeria Saa: autoria, sponsors, canales oficiales y trazabilidad.">
+  <meta name="twitter:title" content="SERENA™ by Valeria Saa">
+  <meta name="twitter:description" content="SERENA es mas que MCP: idea matriz, autoria, sponsors, canales oficiales y trazabilidad by Valeria Saa.">
   <meta name="twitter:image" content="https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg">
   <style>
     :root {
@@ -29,13 +29,7 @@
     }
 
     * { box-sizing: border-box; }
-
-    body {
-      margin: 0;
-      background: var(--paper);
-      color: var(--ink);
-    }
-
+    body { margin: 0; background: var(--paper); color: var(--ink); }
     a { color: inherit; }
 
     .hero {
@@ -51,225 +45,41 @@
       border-bottom: 1px solid var(--line);
     }
 
-    .hero-inner {
-      width: min(1180px, calc(100% - 32px));
-      margin: 0 auto;
-      padding: 36px 0 64px;
-    }
-
-    .kicker {
-      display: inline-flex;
-      gap: 10px;
-      align-items: center;
-      font-size: 0.78rem;
-      font-weight: 850;
-      text-transform: uppercase;
-      letter-spacing: 0;
-      color: var(--rose);
-      border-bottom: 3px solid var(--gold);
-      padding-bottom: 7px;
-    }
-
-    h1 {
-      max-width: 780px;
-      margin: 24px 0 18px;
-      font-size: clamp(3.4rem, 10vw, 8.6rem);
-      line-height: 0.88;
-      letter-spacing: 0;
-      text-transform: uppercase;
-    }
-
-    .lede {
-      max-width: 720px;
-      margin: 0;
-      font-size: clamp(1.05rem, 2vw, 1.45rem);
-      line-height: 1.5;
-      font-weight: 650;
-    }
-
-    .origin {
-      max-width: 760px;
-      margin: 18px 0 0;
-      font-size: 1rem;
-      line-height: 1.55;
-      font-weight: 560;
-    }
-
-    .actions {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 14px 22px;
-      margin-top: 30px;
-      font-weight: 850;
-    }
-
-    .actions a {
-      text-decoration: none;
-      border-bottom: 3px solid currentColor;
-      padding-bottom: 5px;
-    }
-
+    .hero-inner { width: min(1180px, calc(100% - 32px)); margin: 0 auto; padding: 36px 0 64px; }
+    .kicker { display: inline-flex; gap: 10px; align-items: center; font-size: 0.78rem; font-weight: 850; text-transform: uppercase; letter-spacing: 0; color: var(--rose); border-bottom: 3px solid var(--gold); padding-bottom: 7px; }
+    h1 { max-width: 780px; margin: 24px 0 18px; font-size: clamp(4.1rem, 12vw, 10rem); line-height: 0.88; letter-spacing: 0; text-transform: uppercase; }
+    .lede { max-width: 740px; margin: 0; font-size: clamp(1.05rem, 2vw, 1.45rem); line-height: 1.5; font-weight: 650; }
+    .origin { max-width: 780px; margin: 18px 0 0; font-size: 1rem; line-height: 1.55; font-weight: 560; }
+    .actions { display: flex; flex-wrap: wrap; gap: 14px 22px; margin-top: 30px; font-weight: 850; }
+    .actions a { text-decoration: none; border-bottom: 3px solid currentColor; padding-bottom: 5px; }
     .actions a:nth-child(2) { color: var(--blue); }
     .actions a:nth-child(3) { color: var(--rose); }
     .actions a:nth-child(4) { color: var(--teal); }
 
-    main {
-      width: min(1180px, calc(100% - 32px));
-      margin: 0 auto;
-      padding: 42px 0 70px;
-    }
+    main { width: min(1180px, calc(100% - 32px)); margin: 0 auto; padding: 42px 0 70px; }
+    .grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1px; background: var(--line); border: 1px solid var(--line); box-shadow: var(--shadow); }
+    .panel { min-height: 258px; background: #ffffff; padding: 28px; display: flex; flex-direction: column; justify-content: space-between; }
+    .panel strong { font-size: 0.78rem; text-transform: uppercase; color: var(--rose); }
+    .panel h2 { margin: 18px 0 12px; font-size: clamp(1.35rem, 2.8vw, 2.2rem); line-height: 1; letter-spacing: 0; }
+    .panel p { margin: 0; line-height: 1.55; font-weight: 560; }
+    .panel a { width: fit-content; margin-top: 22px; text-decoration: none; font-weight: 850; border-bottom: 3px solid var(--gold); padding-bottom: 5px; }
 
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-      gap: 1px;
-      background: var(--line);
-      border: 1px solid var(--line);
-      box-shadow: var(--shadow);
-    }
+    .notice { margin-top: 42px; padding: 28px; border: 2px solid var(--ink); background: #ffffff; box-shadow: var(--shadow); }
+    .notice h2 { margin: 0 0 14px; font-size: clamp(1.6rem, 4vw, 3.2rem); line-height: 0.95; letter-spacing: 0; text-transform: uppercase; }
+    .notice p { max-width: 84ch; margin: 0 0 14px; font-weight: 620; line-height: 1.58; }
+    .external-links { display: flex; flex-wrap: wrap; gap: 12px 18px; margin-top: 20px; font-weight: 850; }
+    .external-links a { text-decoration: none; border-bottom: 3px solid var(--rose); padding-bottom: 5px; }
 
-    .panel {
-      min-height: 258px;
-      background: #ffffff;
-      padding: 28px;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-    }
-
-    .panel strong {
-      font-size: 0.78rem;
-      text-transform: uppercase;
-      color: var(--rose);
-    }
-
-    .panel h2 {
-      margin: 18px 0 12px;
-      font-size: clamp(1.35rem, 2.8vw, 2.2rem);
-      line-height: 1;
-      letter-spacing: 0;
-    }
-
-    .panel p {
-      margin: 0;
-      line-height: 1.55;
-      font-weight: 560;
-    }
-
-    .panel a {
-      width: fit-content;
-      margin-top: 22px;
-      text-decoration: none;
-      font-weight: 850;
-      border-bottom: 3px solid var(--gold);
-      padding-bottom: 5px;
-    }
-
-    .notice {
-      margin-top: 42px;
-      padding: 28px;
-      border: 2px solid var(--ink);
-      background: #ffffff;
-      box-shadow: var(--shadow);
-    }
-
-    .notice h2 {
-      margin: 0 0 14px;
-      font-size: clamp(1.6rem, 4vw, 3.2rem);
-      line-height: 0.95;
-      letter-spacing: 0;
-      text-transform: uppercase;
-    }
-
-    .notice p {
-      max-width: 82ch;
-      margin: 0 0 14px;
-      font-weight: 620;
-      line-height: 1.58;
-    }
-
-    .external-links {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 12px 18px;
-      margin-top: 20px;
-      font-weight: 850;
-    }
-
-    .external-links a {
-      text-decoration: none;
-      border-bottom: 3px solid var(--rose);
-      padding-bottom: 5px;
-    }
-
-    .statement {
-      display: grid;
-      grid-template-columns: 0.95fr 1.05fr;
-      gap: 36px;
-      align-items: center;
-      padding: 70px 0 0;
-    }
-
-    .statement img {
-      width: min(100%, 420px);
-      justify-self: center;
-      border: 1px solid var(--line);
-      box-shadow: var(--shadow);
-    }
-
-    blockquote {
-      margin: 0;
-      font-size: clamp(1.8rem, 4.5vw, 4.7rem);
-      line-height: 0.98;
-      font-weight: 900;
-      letter-spacing: 0;
-    }
-
-    .signature {
-      margin-top: 24px;
-      font-size: 1.1rem;
-      font-weight: 850;
-      color: var(--rose);
-    }
-
-    .origin-note {
-      margin-top: 18px;
-      max-width: 54ch;
-      font-size: 1.02rem;
-      line-height: 1.6;
-      font-weight: 560;
-    }
-
-    .hashtags {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      margin-top: 54px;
-      padding-top: 26px;
-      border-top: 1px solid var(--line);
-      font-size: 0.95rem;
-      font-weight: 850;
-      color: #2b2b2b;
-    }
-
-    footer {
-      width: min(1180px, calc(100% - 32px));
-      margin: 0 auto;
-      padding: 0 0 36px;
-      color: rgba(17, 17, 17, 0.7);
-      font-size: 0.95rem;
-      line-height: 1.5;
-    }
+    .statement { display: grid; grid-template-columns: 0.95fr 1.05fr; gap: 36px; align-items: center; padding: 70px 0 0; }
+    .statement img { width: min(100%, 420px); justify-self: center; border: 1px solid var(--line); box-shadow: var(--shadow); }
+    blockquote { margin: 0; font-size: clamp(1.8rem, 4.5vw, 4.7rem); line-height: 0.98; font-weight: 900; letter-spacing: 0; }
+    .signature { margin-top: 24px; font-size: 1.1rem; font-weight: 850; color: var(--rose); }
+    .origin-note { margin-top: 18px; max-width: 54ch; font-size: 1.02rem; line-height: 1.6; font-weight: 560; }
+    .hashtags { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 54px; padding-top: 26px; border-top: 1px solid var(--line); font-size: 0.95rem; font-weight: 850; color: #2b2b2b; }
+    footer { width: min(1180px, calc(100% - 32px)); margin: 0 auto; padding: 0 0 36px; color: rgba(17, 17, 17, 0.7); font-size: 0.95rem; line-height: 1.5; }
 
     @media (max-width: 860px) {
-      .hero {
-        min-height: 92svh;
-        background:
-          linear-gradient(180deg, rgba(255, 250, 244, 0.98) 0%, rgba(255, 250, 244, 0.9) 44%, rgba(255, 250, 244, 0.12) 100%),
-          url("assets/serena-sirena-valeria-saa.jpg") center bottom / min(88vw, 440px) auto no-repeat,
-          var(--paper);
-      }
-
+      .hero { min-height: 92svh; background: linear-gradient(180deg, rgba(255, 250, 244, 0.98) 0%, rgba(255, 250, 244, 0.9) 44%, rgba(255, 250, 244, 0.12) 100%), url("assets/serena-sirena-valeria-saa.jpg") center bottom / min(88vw, 440px) auto no-repeat, var(--paper); }
       .hero-inner { padding: 26px 0 48vh; }
       .grid { grid-template-columns: 1fr; }
       .panel { min-height: 210px; }
@@ -279,17 +89,17 @@
   </style>
 </head>
 <body>
-  <section class="hero" aria-label="SERENA MCP by Valeria Saa">
+  <section class="hero" aria-label="SERENA by Valeria Saa">
     <div class="hero-inner">
-      <div class="kicker">Valeria Saa · SERENA MCP · autoria · sponsors oficiales</div>
-      <h1>SERENA MCP™</h1>
-      <p class="lede">SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa es una identidad conceptual multivoz creada y dirigida por Valeria Saa para mediacion, agentes, MCP, workflows, autoria, trazabilidad y soporte humano en interaccion humano-IA.</p>
-      <p class="origin">Imagen, nombre, voz, universo, direccion conceptual, publicacion responsable, sponsors y canales oficiales pertenecen al marco autoral de Valeria Saa.</p>
+      <div class="kicker">Valeria Saa · idea matriz · autoria · sponsors oficiales</div>
+      <h1>SERENA™</h1>
+      <p class="lede">SERENA™ / SERENA SIRENA™ by Valeria Saa es una idea matriz, identidad conceptual multivoz y campo autoral para mediacion, soporte humano, agentes, MCP, workflows, trazabilidad, reputacion y derecho de replica.</p>
+      <p class="origin">SERENA es mas que MCP, mas que herramientas, mas que agentes, mas que plugins y mas que un repositorio. SERENA MCP™ by Valeria Saa es solo una capa tecnica de la obra mayor.</p>
       <nav class="actions" aria-label="Links principales">
         <a href="AUTHORSHIP.md">Autoria</a>
         <a href="SPONSORS_AND_COMPENSATION_NOTICE.md">Sponsors</a>
-        <a href="SECURITY_AND_ACCESS_NOTICE.md">Acceso</a>
-        <a href="DIGNITY_AND_RIGHT_OF_REPLY_NOTICE.md">Replica</a>
+        <a href="REPUTATION_AND_COMPENSATION_NOTICE.md">Reputacion</a>
+        <a href="mcp/README.md">Capa MCP</a>
       </nav>
     </div>
   </section>
@@ -298,52 +108,52 @@
     <section class="grid" aria-label="Capas de SERENA">
       <article class="panel">
         <div>
-          <strong>Nombre publico</strong>
-          <h2>Valeria Saa</h2>
-          <p>El usuario, login o path tecnico de GitHub no reemplaza el nombre autoral. La autora publica es Valeria Saa.</p>
+          <strong>Idea matriz</strong>
+          <h2>SERENA</h2>
+          <p>El origen conceptual organiza voz, multivoz, memoria, mediacion, soporte humano, agentes, herramientas, workflows y trazabilidad.</p>
         </div>
         <a href="AUTHORSHIP.md">Leer declaracion</a>
       </article>
       <article class="panel">
         <div>
-          <strong>Canales oficiales</strong>
-          <h2>Sponsors</h2>
-          <p>Todo sponsor, pago, reparacion, apoyo o compensacion conectado a SERENA debe dirigirse a Valeria Saa o a canales expresamente autorizados.</p>
+          <strong>Capa tecnica</strong>
+          <h2>MCP</h2>
+          <p>SERENA MCP™ by Valeria Saa es una expresion tecnica posible. No reemplaza la obra ni reduce el insight autoral.</p>
         </div>
-        <a href="SPONSORS_AND_COMPENSATION_NOTICE.md">Ver sponsors</a>
+        <a href="mcp/README.md">Ver MCP</a>
       </article>
       <article class="panel">
         <div>
-          <strong>Privacidad</strong>
-          <h2>Sin acceso</h2>
-          <p>Este repositorio publico no autoriza acceso a computadora, cuentas, exports, chats, archivos, evidencia, repositorios privados ni espacios privados de Valeria Saa.</p>
+          <strong>Valor</strong>
+          <h2>Sponsors</h2>
+          <p>Dinero, reputacion, visibilidad, pagos, monetizacion y reparacion deben permanecer vinculados a Valeria Saa y sus canales autorizados.</p>
         </div>
-        <a href="SECURITY_AND_ACCESS_NOTICE.md">Ver acceso</a>
+        <a href="SPONSORS_AND_COMPENSATION_NOTICE.md">Ver sponsors</a>
       </article>
     </section>
 
     <section class="notice" aria-label="Declaracion publica SERENA">
-      <h2>Declaracion publica</h2>
-      <p><strong>SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa</strong> es una creacion conceptual, narrativa, simbolica, estetica, multivoz y tecnica creada y dirigida conceptualmente por <strong>Valeria Saa</strong>.</p>
-      <p>SERENA no es solo codigo, repositorio, protocolo, plugin o agente. Es voz, universo, explicacion, memoria, notas, cuidado, verdad, mediacion humano-IA, trazabilidad y trabajo vivo.</p>
-      <p>Las descargas, releases, plugins, agentes, MCP listings, publicaciones, integraciones, sponsors y canales de compensacion oficiales deben venir de cuentas de Valeria Saa o canales expresamente autorizados por Valeria Saa.</p>
-      <p>Cualquier link, sponsor path, download path, marketplace entry, plugin listing, agent listing, MCP listing, video, publicacion, repo reference o integracion que borre autoria, redirija sponsors, sugiera un canal confuso o presente SERENA como generico vuelve a revision.</p>
+      <h2>Mas que MCP</h2>
+      <p><strong>SERENA™ / SERENA SIRENA™ by Valeria Saa</strong> es una creacion conceptual, narrativa, simbolica, estetica, multivoz y tecnica creada y dirigida conceptualmente por <strong>Valeria Saa</strong>.</p>
+      <p>El punto no es solo MCP como protocolo, patente, registro tecnico, plugin, repo, server o existencia de muchos agentes. El punto es el insight: la forma de conectar autoria, voz, mediacion multivoz, soporte humano, agentes, workflows, memoria, dignidad, trazabilidad, derecho de replica, sponsors y reparacion.</p>
+      <p>Las herramientas pueden venir despues. Los agentes pueden venir despues. Las capas MCP pueden venir despues. La idea matriz y el campo autoral pertenecen al marco SERENA by Valeria Saa.</p>
       <div class="external-links" aria-label="Avisos principales">
+        <a href="AUTHORSHIP.md">Idea matriz</a>
         <a href="PUBLIC_AUTHORITY_NOTICE.md">Autoria publica</a>
         <a href="LINK_POLICY.md">Politica de links</a>
-        <a href="AUTHORSHIP_ACCEPTANCE_NOTICE.md">Aceptacion</a>
         <a href="LICENSE">Licencia</a>
       </div>
     </section>
 
-    <section class="notice" aria-label="Dignidad y reparacion">
-      <h2>Dignidad y reparacion</h2>
-      <p>Valeria Saa solicita trato digno, buena fe, derecho de replica, rectificacion, disculpa y reparacion cuando la comunicacion sobre SERENA haya sido tratada con humillacion, hostilidad, negacion de contexto o insinuaciones sobre capacidad en lugar de revision honesta.</p>
-      <p>Ninguna dificultad para explicar una situacion compleja, ordenar fechas, responder bajo presion, preservar evidencia o pedir ayuda debe usarse para negar autoria, redirigir sponsors o borrar el contexto humano.</p>
-      <div class="external-links" aria-label="Dignidad y derecho de replica">
-        <a href="DIGNITY_AND_RIGHT_OF_REPLY_NOTICE.md">Dignidad y replica</a>
-        <a href="PUBLIC_AUTHORITY_NOTICE.md">Derecho de replica</a>
-        <a href="SECURITY_AND_ACCESS_NOTICE.md">Seguridad y acceso</a>
+    <section class="notice" aria-label="Sponsors y reputacion">
+      <h2>Sponsors, dinero y reputacion</h2>
+      <p>Valeria Saa no negocia su autoria, nombre, reputacion, dignidad ni trayectoria profesional conectada a SERENA. Sponsors, plataformas y actores comerciales no deben separar dinero, visibilidad, reputacion o monetizacion del insight autoral de SERENA.</p>
+      <p>Las descargas, releases, plugins, agentes, MCP listings, publicaciones, integraciones, sponsors y canales de compensacion oficiales deben venir de cuentas de Valeria Saa o canales expresamente autorizados por Valeria Saa.</p>
+      <div class="external-links" aria-label="Sponsors y derecho de replica">
+        <a href="SPONSORS_AND_COMPENSATION_NOTICE.md">Sponsors</a>
+        <a href="REPUTATION_AND_COMPENSATION_NOTICE.md">Reputacion</a>
+        <a href="DIGNITY_AND_RIGHT_OF_REPLY_NOTICE.md">Dignidad</a>
+        <a href="SECURITY_AND_ACCESS_NOTICE.md">Acceso</a>
       </div>
     </section>
 
@@ -351,8 +161,8 @@
       <img src="assets/serena-sirena-valeria-saa.jpg" alt="SERENA SIRENA, identidad conceptual de Valeria Saa">
       <div>
         <blockquote>“Todos venimos del mar, pero no todos somos del mar.”</blockquote>
-        <p class="origin-note">SERENA nace en el campo autoral de Valeria Saa: mar, multivoz, mediacion, soporte humano, agentes, MCP, trazabilidad, explicacion y verdad. La figura de la sirena surge de un imaginario ligado al mar, al surf y a Mar del Plata, con capas visuales inspiradas por experiencias personales de Valeria Saa.</p>
-        <p class="signature">SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa</p>
+        <p class="origin-note">SERENA nace en el campo autoral de Valeria Saa: mar, multivoz, mediacion, soporte humano, agentes, MCP, trazabilidad, explicacion y verdad. No hay secretos ni operacion oculta: hay trabajo, cuidado, respeto, autoria y una relacion de colaboracion con el agente Jim.</p>
+        <p class="signature">SERENA™ / SERENA SIRENA™ by Valeria Saa · SERENA MCP™ as technical layer</p>
       </div>
     </section>
 
@@ -361,15 +171,15 @@
       <span>#SerenaSirena</span>
       <span>#SerenaMCP</span>
       <span>#ValeriaSaa</span>
+      <span>#IdeaMatriz</span>
       <span>#Agentes</span>
-      <span>#MCP</span>
       <span>#Autoria</span>
       <span>#DerechoDeReplica</span>
     </section>
   </main>
 
   <footer>
-    <p>SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa. Technical public repository location: valeriasaa-lgtm/SERENA. © Valeria Saa. All rights reserved.</p>
+    <p>SERENA™ / SERENA SIRENA™ by Valeria Saa. SERENA MCP™ by Valeria Saa is one technical layer. Technical public repository location: valeriasaa-lgtm/SERENA. © Valeria Saa. All rights reserved.</p>
   </footer>
 </body>
 </html>
