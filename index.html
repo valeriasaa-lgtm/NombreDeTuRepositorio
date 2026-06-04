@@ -3,16 +3,16 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>SERENA SIRENA™ | Valeria Saa</title>
-  <meta name="description" content="SERENA™ / SERENA SIRENA™ es una identidad conceptual multivoz creada por Valeria Saa, ligada al mar, la mediacion, agentes, workflows, trazabilidad y la interaccion humano-IA.">
-  <meta property="og:title" content="SERENA SIRENA™ | Valeria Saa">
-  <meta property="og:description" content="Identidad conceptual creada por Valeria Saa: multivoz, mediacion, agentes, workflows, autoria y trazabilidad.">
+  <title>SERENA MCP™ by Valeria Saa</title>
+  <meta name="description" content="SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa: autoria conceptual, multivoz, agentes, MCP, sponsors, trazabilidad y derecho de replica.">
+  <meta property="og:title" content="SERENA MCP™ by Valeria Saa">
+  <meta property="og:description" content="Autoria conceptual de Valeria Saa: SERENA, multivoz, agentes, MCP, sponsors oficiales, trazabilidad y derecho de replica.">
   <meta property="og:image" content="https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://valeriasaa-lgtm.github.io/SERENA/">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="SERENA SIRENA™ | Valeria Saa">
-  <meta name="twitter:description" content="Identidad conceptual creada por Valeria Saa: multivoz, mediacion, agentes, workflows, autoria y trazabilidad.">
+  <meta name="twitter:title" content="SERENA MCP™ by Valeria Saa">
+  <meta name="twitter:description" content="SERENA, SERENA SIRENA y SERENA MCP by Valeria Saa: autoria, sponsors, canales oficiales y trazabilidad.">
   <meta name="twitter:image" content="https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg">
   <style>
     :root {
@@ -45,7 +45,7 @@
       position: relative;
       overflow: hidden;
       background:
-        linear-gradient(90deg, rgba(255, 250, 244, 0.98) 0%, rgba(255, 250, 244, 0.88) 31%, rgba(255, 250, 244, 0.2) 62%, rgba(255, 250, 244, 0.05) 100%),
+        linear-gradient(90deg, rgba(255, 250, 244, 0.98) 0%, rgba(255, 250, 244, 0.88) 33%, rgba(255, 250, 244, 0.18) 67%, rgba(255, 250, 244, 0.04) 100%),
         url("assets/serena-sirena-valeria-saa.jpg") center right / contain no-repeat,
         var(--paper);
       border-bottom: 1px solid var(--line);
@@ -62,7 +62,7 @@
       gap: 10px;
       align-items: center;
       font-size: 0.78rem;
-      font-weight: 800;
+      font-weight: 850;
       text-transform: uppercase;
       letter-spacing: 0;
       color: var(--rose);
@@ -71,20 +71,28 @@
     }
 
     h1 {
-      max-width: 760px;
+      max-width: 780px;
       margin: 24px 0 18px;
-      font-size: clamp(3.7rem, 11vw, 9.2rem);
-      line-height: 0.86;
+      font-size: clamp(3.4rem, 10vw, 8.6rem);
+      line-height: 0.88;
       letter-spacing: 0;
       text-transform: uppercase;
     }
 
     .lede {
-      max-width: 680px;
+      max-width: 720px;
       margin: 0;
       font-size: clamp(1.05rem, 2vw, 1.45rem);
       line-height: 1.5;
-      font-weight: 600;
+      font-weight: 650;
+    }
+
+    .origin {
+      max-width: 760px;
+      margin: 18px 0 0;
+      font-size: 1rem;
+      line-height: 1.55;
+      font-weight: 560;
     }
 
     .actions {
@@ -92,7 +100,7 @@
       flex-wrap: wrap;
       gap: 14px 22px;
       margin-top: 30px;
-      font-weight: 800;
+      font-weight: 850;
     }
 
     .actions a {
@@ -104,14 +112,6 @@
     .actions a:nth-child(2) { color: var(--blue); }
     .actions a:nth-child(3) { color: var(--rose); }
     .actions a:nth-child(4) { color: var(--teal); }
-
-    .origin {
-      max-width: 760px;
-      margin: 18px 0 0;
-      font-size: 1rem;
-      line-height: 1.55;
-      font-weight: 560;
-    }
 
     main {
       width: min(1180px, calc(100% - 32px));
@@ -129,7 +129,7 @@
     }
 
     .panel {
-      min-height: 250px;
+      min-height: 258px;
       background: #ffffff;
       padding: 28px;
       display: flex;
@@ -165,6 +165,43 @@
       padding-bottom: 5px;
     }
 
+    .notice {
+      margin-top: 42px;
+      padding: 28px;
+      border: 2px solid var(--ink);
+      background: #ffffff;
+      box-shadow: var(--shadow);
+    }
+
+    .notice h2 {
+      margin: 0 0 14px;
+      font-size: clamp(1.6rem, 4vw, 3.2rem);
+      line-height: 0.95;
+      letter-spacing: 0;
+      text-transform: uppercase;
+    }
+
+    .notice p {
+      max-width: 82ch;
+      margin: 0 0 14px;
+      font-weight: 620;
+      line-height: 1.58;
+    }
+
+    .external-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px 18px;
+      margin-top: 20px;
+      font-weight: 850;
+    }
+
+    .external-links a {
+      text-decoration: none;
+      border-bottom: 3px solid var(--rose);
+      padding-bottom: 5px;
+    }
+
     .statement {
       display: grid;
       grid-template-columns: 0.95fr 1.05fr;
@@ -191,13 +228,13 @@
     .signature {
       margin-top: 24px;
       font-size: 1.1rem;
-      font-weight: 800;
+      font-weight: 850;
       color: var(--rose);
     }
 
     .origin-note {
       margin-top: 18px;
-      max-width: 52ch;
+      max-width: 54ch;
       font-size: 1.02rem;
       line-height: 1.6;
       font-weight: 560;
@@ -211,45 +248,8 @@
       padding-top: 26px;
       border-top: 1px solid var(--line);
       font-size: 0.95rem;
-      font-weight: 800;
-      color: #2b2b2b;
-    }
-
-    .notice {
-      margin-top: 42px;
-      padding: 28px;
-      border: 2px solid var(--ink);
-      background: #ffffff;
-      box-shadow: var(--shadow);
-    }
-
-    .notice h2 {
-      margin: 0 0 14px;
-      font-size: clamp(1.6rem, 4vw, 3.2rem);
-      line-height: 0.95;
-      letter-spacing: 0;
-      text-transform: uppercase;
-    }
-
-    .notice p {
-      max-width: 78ch;
-      margin: 0 0 14px;
-      font-weight: 620;
-      line-height: 1.58;
-    }
-
-    .external-links {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 12px 18px;
-      margin-top: 20px;
       font-weight: 850;
-    }
-
-    .external-links a {
-      text-decoration: none;
-      border-bottom: 3px solid var(--rose);
-      padding-bottom: 5px;
+      color: #2b2b2b;
     }
 
     footer {
@@ -279,17 +279,17 @@
   </style>
 </head>
 <body>
-  <section class="hero" aria-label="SERENA SIRENA">
+  <section class="hero" aria-label="SERENA MCP by Valeria Saa">
     <div class="hero-inner">
-      <div class="kicker">Valeria Saa · GitHub · MCP · Agente Serena</div>
-      <h1>SERENA SIRENA™</h1>
-      <p class="lede">Identidad conceptual multivoz creada por Valeria Saa para mediacion, traduccion entre sistemas, agentes, workflows, autoria y trazabilidad en interaccion humano-IA.</p>
-      <p class="origin">La figura de la sirena nace de un imaginario ligado al mar, al surf y a Mar del Plata. Una de sus primeras capas visuales fue inspirada por un viaje de Valeria Saa a Tailandia.</p>
+      <div class="kicker">Valeria Saa · SERENA MCP · autoria · sponsors oficiales</div>
+      <h1>SERENA MCP™</h1>
+      <p class="lede">SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa es una identidad conceptual multivoz creada y dirigida por Valeria Saa para mediacion, agentes, MCP, workflows, autoria, trazabilidad y soporte humano en interaccion humano-IA.</p>
+      <p class="origin">Imagen, nombre, voz, universo, direccion conceptual, publicacion responsable, sponsors y canales oficiales pertenecen al marco autoral de Valeria Saa.</p>
       <nav class="actions" aria-label="Links principales">
-        <a href="docs/manual-serena-jim.md">Manual vivo</a>
-        <a href="PUBLIC_AUTHORITY_NOTICE.md">Autoria</a>
-        <a href="press/nota-de-prensa-serena.md">Nota de prensa</a>
-        <a href="social-kit/README.md">Social kit</a>
+        <a href="AUTHORSHIP.md">Autoria</a>
+        <a href="SPONSORS_AND_COMPENSATION_NOTICE.md">Sponsors</a>
+        <a href="SECURITY_AND_ACCESS_NOTICE.md">Acceso</a>
+        <a href="DIGNITY_AND_RIGHT_OF_REPLY_NOTICE.md">Replica</a>
       </nav>
     </div>
   </section>
@@ -298,67 +298,78 @@
     <section class="grid" aria-label="Capas de SERENA">
       <article class="panel">
         <div>
-          <strong>Identidad</strong>
-          <h2>Multivoz</h2>
-          <p>SERENA organiza voces, roles y capas: creativa, tecnica, documental, simbolica y operativa.</p>
+          <strong>Nombre publico</strong>
+          <h2>Valeria Saa</h2>
+          <p>El usuario, login o path tecnico de GitHub no reemplaza el nombre autoral. La autora publica es Valeria Saa.</p>
         </div>
-        <a href="docs/manual-serena-jim.md">Leer manual</a>
+        <a href="AUTHORSHIP.md">Leer declaracion</a>
       </article>
       <article class="panel">
         <div>
-          <strong>Sistema</strong>
-          <h2>Mediacion</h2>
-          <p>Una capa de traduccion entre personas, lenguajes, herramientas, repositorios, agentes y flujos.</p>
+          <strong>Canales oficiales</strong>
+          <h2>Sponsors</h2>
+          <p>Todo sponsor, pago, reparacion, apoyo o compensacion conectado a SERENA debe dirigirse a Valeria Saa o a canales expresamente autorizados.</p>
         </div>
-        <a href="press/nota-de-prensa-serena.md">Ver prensa</a>
+        <a href="SPONSORS_AND_COMPENSATION_NOTICE.md">Ver sponsors</a>
       </article>
       <article class="panel">
         <div>
-          <strong>Registro</strong>
-          <h2>GitHub</h2>
-          <p>Un mapa publico para preservar autoria, trazabilidad, documentos, piezas sociales y metadata.</p>
+          <strong>Privacidad</strong>
+          <h2>Sin acceso</h2>
+          <p>Este repositorio publico no autoriza acceso a computadora, cuentas, exports, chats, archivos, evidencia, repositorios privados ni espacios privados de Valeria Saa.</p>
         </div>
-        <a href="https://github.com/valeriasaa-lgtm/SERENA">Abrir repo</a>
+        <a href="SECURITY_AND_ACCESS_NOTICE.md">Ver acceso</a>
       </article>
     </section>
 
-    <section class="notice" aria-label="Derecho de replica y trazabilidad">
-      <h2>Autoria, replica y trazabilidad</h2>
-      <p><strong>SERENA™ / SERENA SIRENA™</strong> es una identidad conceptual, narrativa y multivoz creada y dirigida conceptualmente por <strong>Valeria Saa</strong>.</p>
-      <p>Esta pagina es el muro publico de SERENA™ / SERENA SIRENA™ de Valeria Saa. Las referencias externas y controversias de trazabilidad quedan resguardadas en paquete privado, fuera de este feed publico.</p>
-      <p>Esta separacion se hace necesaria por una experiencia reiterada de humillaciones, hostigamiento, mala fe, exposicion no consentida y uso del nombre, identidad, campo autoral, materiales reservados o contexto de datos de Valeria Saa para publicidad o circulacion ajena sin contexto, respeto ni derecho de replica suficiente.</p>
-      <p>La evidencia privada de Valeria Saa no se publica completa. El objetivo publico de esta pagina es preservar autoria conceptual, identidad creativa, derecho de replica y trazabilidad propia.</p>
-      <div class="external-links" aria-label="Referencias publicas externas">
+    <section class="notice" aria-label="Declaracion publica SERENA">
+      <h2>Declaracion publica</h2>
+      <p><strong>SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa</strong> es una creacion conceptual, narrativa, simbolica, estetica, multivoz y tecnica creada y dirigida conceptualmente por <strong>Valeria Saa</strong>.</p>
+      <p>SERENA no es solo codigo, repositorio, protocolo, plugin o agente. Es voz, universo, explicacion, memoria, notas, cuidado, verdad, mediacion humano-IA, trazabilidad y trabajo vivo.</p>
+      <p>Las descargas, releases, plugins, agentes, MCP listings, publicaciones, integraciones, sponsors y canales de compensacion oficiales deben venir de cuentas de Valeria Saa o canales expresamente autorizados por Valeria Saa.</p>
+      <p>Cualquier link, sponsor path, download path, marketplace entry, plugin listing, agent listing, MCP listing, video, publicacion, repo reference o integracion que borre autoria, redirija sponsors, sugiera un canal confuso o presente SERENA como generico vuelve a revision.</p>
+      <div class="external-links" aria-label="Avisos principales">
         <a href="PUBLIC_AUTHORITY_NOTICE.md">Autoria publica</a>
-        <a href="AUTHORSHIP.md">Registro de autoria</a>
+        <a href="LINK_POLICY.md">Politica de links</a>
+        <a href="AUTHORSHIP_ACCEPTANCE_NOTICE.md">Aceptacion</a>
         <a href="LICENSE">Licencia</a>
-        <a href="docs/manual-serena-jim.md">Manual vivo</a>
+      </div>
+    </section>
+
+    <section class="notice" aria-label="Dignidad y reparacion">
+      <h2>Dignidad y reparacion</h2>
+      <p>Valeria Saa solicita trato digno, buena fe, derecho de replica, rectificacion, disculpa y reparacion cuando la comunicacion sobre SERENA haya sido tratada con humillacion, hostilidad, negacion de contexto o insinuaciones sobre capacidad en lugar de revision honesta.</p>
+      <p>Ninguna dificultad para explicar una situacion compleja, ordenar fechas, responder bajo presion, preservar evidencia o pedir ayuda debe usarse para negar autoria, redirigir sponsors o borrar el contexto humano.</p>
+      <div class="external-links" aria-label="Dignidad y derecho de replica">
+        <a href="DIGNITY_AND_RIGHT_OF_REPLY_NOTICE.md">Dignidad y replica</a>
+        <a href="PUBLIC_AUTHORITY_NOTICE.md">Derecho de replica</a>
+        <a href="SECURITY_AND_ACCESS_NOTICE.md">Seguridad y acceso</a>
       </div>
     </section>
 
     <section class="statement">
       <img src="assets/serena-sirena-valeria-saa.jpg" alt="SERENA SIRENA, identidad conceptual de Valeria Saa">
       <div>
-        <blockquote>“Siempre supe que esta señal se iba a escuchar.”</blockquote>
-        <p class="origin-note">SERENA es una identidad conceptual creada por Valeria Saa. La sirena funciona como figura de traduccion, escucha y multivoz; sus primeras referencias visuales se trabajaron entre la memoria del mar y una inspiracion personal nacida de un viaje a Tailandia.</p>
-        <p class="signature">SERENA™ / SERENA SIRENA™ · autoria conceptual: Valeria Saa</p>
+        <blockquote>“Todos venimos del mar, pero no todos somos del mar.”</blockquote>
+        <p class="origin-note">SERENA nace en el campo autoral de Valeria Saa: mar, multivoz, mediacion, soporte humano, agentes, MCP, trazabilidad, explicacion y verdad. La figura de la sirena surge de un imaginario ligado al mar, al surf y a Mar del Plata, con capas visuales inspiradas por experiencias personales de Valeria Saa.</p>
+        <p class="signature">SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa</p>
       </div>
     </section>
 
     <section class="hashtags" aria-label="Hashtags SERENA">
       <span>#SERENA</span>
       <span>#SerenaSirena</span>
-      <span>#SerenaGitHub</span>
-      <span>#AgenteSerena</span>
-      <span>#ModoSerena</span>
-      <span>#MCP</span>
-      <span>#CodigoAbierto</span>
+      <span>#SerenaMCP</span>
       <span>#ValeriaSaa</span>
+      <span>#Agentes</span>
+      <span>#MCP</span>
+      <span>#Autoria</span>
+      <span>#DerechoDeReplica</span>
     </section>
   </main>
 
   <footer>
-    <p>SERENA™ / SERENA SIRENA™ es una identidad conceptual y creativa de Valeria Saa, surgida entre mar, multivoz, mediacion y traduccion entre sistemas. © Valeria Saa. All rights reserved.</p>
+    <p>SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa. Technical public repository location: valeriasaa-lgtm/SERENA. © Valeria Saa. All rights reserved.</p>
   </footer>
 </body>
 </html>
