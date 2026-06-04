@@ -8,6 +8,8 @@
 
 SERENA™ se define como una interfaz conceptual entre sistemas, personas y lenguajes. Su eje creativo reúne multivoz, mediación, narrativa, agentes, traducción entre mundos y nuevas formas de organización en inteligencia artificial.
 
+La figura de la sirena surge de un imaginario ligado al mar, al surf y a Mar del Plata. Una de sus primeras capas visuales fue inspirada por un viaje de Valeria Saa a Tailandia. La imagen pública actual corresponde a una etapa posterior del desarrollo visual de SERENA.
+
 La publicación pública en GitHub busca preservar autoría, trazabilidad y reconocimiento adecuado de los materiales conceptuales y creativos vinculados a SERENA™. La intención no es desconocer desarrollos técnicos existentes, sino honrar el desarrollo, aclarar la identidad conceptual y abrir nuevas posibilidades de construcción conjunta.
 
 > “Me siento honrada por todo este recorrido. Siempre supe que esta señal se iba a escuchar. Sin este desarrollo, este viaje no habría sido posible.”  
@@ -32,7 +34,7 @@ SERENA™ / SERENA SIRENA™ propone una integración más clara, justa y evoluc
 - Post público: https://github.com/valeriasaa-lgtm/SERENA/blob/serena/posts/serena-public-post.md
 - Social Kit: https://github.com/valeriasaa-lgtm/SERENA/blob/serena/social-kit/README.md
 - Hashtags SERENA: https://github.com/valeriasaa-lgtm/SERENA/blob/serena/social-kit/hashtags-serena.md
-- Issue de preservación en `oraios/serena`: https://github.com/oraios/serena/issues/1499
+- Referencias externas y controversias de trazabilidad: preservadas en paquete privado, no repetidas en el muro publico de SERENA.
 - Imagen pública: https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg
 
 ## Nota de alcance
