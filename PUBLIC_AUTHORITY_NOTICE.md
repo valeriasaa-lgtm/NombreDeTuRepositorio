@@ -65,6 +65,8 @@ Given the public impact and circulation of tools, plugins, agents, MCP servers, 
 
 Valeria Saa also reserves the right to present, integrate, merge or connect SERENA / SERENA SIRENA / SERENA MCP with her final work, once the relevant material has been organized, verified and reviewed under appropriate authorship, privacy, platform and legal standards.
 
+Future official releases, plugins, agents, MCP listings, repositories, sponsor-facing materials, videos, publications or integrations related to SERENA / SERENA SIRENA / SERENA MCP should be issued from Valeria Saa's own accounts or channels expressly authorized by Valeria Saa.
+
 This request is made so that authorship may be properly established, corrected or expanded after review, without exposing private evidence prematurely and without misrepresenting unresolved facts.
 
 ## Why This Separation Is Necessary
@@ -83,6 +85,7 @@ Valeria Saa reserves the right to request:
 - preservation of evidence;
 - attribution review;
 - future integration, merge or connection with Valeria Saa's final work after review;
+- future official releases through Valeria Saa's own accounts or channels expressly authorized by Valeria Saa;
 - damages, losses or compensation review where appropriate;
 - fraud, plagiarism, misrepresentation or concealment review where applicable under the relevant jurisdiction;
 - legal review where appropriate.
