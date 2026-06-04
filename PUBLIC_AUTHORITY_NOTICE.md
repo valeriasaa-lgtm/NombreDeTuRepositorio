@@ -43,6 +43,12 @@ It is a broader conceptual architecture involving:
 - workflows;
 - traceability.
 
+## Human Support UX Insight
+
+If similar situations arise, they should not be handled as ordinary code issues alone. SERENA points to a human-support UX need: a way to explain complex authorship, context, harm, truth, evidence, right of reply and preservation without forcing private material into public view.
+
+A platform can protect the free flow of code while also protecting authorship, traceability, dignity, human context and the right to be heard.
+
 ## External Circulation
 
 Tools, repositories, plugins, MCP servers and technical listings using the name Serena may circulate publicly on the internet and may appear in environments such as Claude Code, Claude Desktop, Cursor, Cline/Roo, VS Code, JetBrains IDEs and other MCP-compatible clients.
@@ -120,6 +126,7 @@ Valeria Saa reserves the right to request:
 - right of reply;
 - correction or clarification;
 - right to information, knowledge and truth;
+- human-support UX review for complex authorship and harm situations;
 - priority authorship metadata review;
 - private traceability review;
 - preservation of evidence;
