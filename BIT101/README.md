@@ -1,6 +1,6 @@
-# CEUNIA · BIT101
+# Reserved Corpus · BIT101
 
-Structured progress log for CEUNIA BIT101.
+Structured progress log for reserved BIT101 materials.
 
 ## Current status
 - BIT101/progress folder exists
@@ -13,7 +13,7 @@ Structured progress log for CEUNIA BIT101.
 - Evaluate whether repo stays public or moves to private based on IP strategy
 
 ## References / related notes
-- CEUNIA framework
+- Reserved conceptual framework
 - JUMP thesis / paper trail
 - Serena multi-voice notes
 - vault + library tags (#) as discussed
