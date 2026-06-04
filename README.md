@@ -1,14 +1,17 @@
 # SERENA™
 
-![SERENA SIRENA - Valeria Saa](https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg)
+![SERENA SIRENA - identidad conceptual de Valeria Saa](assets/serena-sirena-valeria-saa.jpg)
 
 **SERENA™ / SERENA SIRENA™**  
 Created and conceptually directed by **Valeria Saa**.
 
 SERENA™ es una creación conceptual, narrativa y multivoz vinculada a interacción humano-IA, mediación creativa, traducción entre sistemas y arquitecturas MCP/workflow.
 
+La figura de la sirena surge de un imaginario ligado al mar, al surf y a Mar del Plata. Una de sus primeras capas visuales fue inspirada por un viaje de Valeria Saa a Tailandia. La imagen pública actual corresponde a una etapa posterior del desarrollo visual de SERENA.
+
 ## Links públicos
 
+- [Public authorship and traceability notice](PUBLIC_AUTHORITY_NOTICE.md)
 - [SERENA MCP™](mcp/README.md)
 - [SERENA MCP™ account/repo setup](mcp/account-and-repo-setup.md)
 - [Workflow submission / Concurso](contest/workflow-submission-serena.md)
@@ -16,8 +19,6 @@ SERENA™ es una creación conceptual, narrativa y multivoz vinculada a interacc
 - [Reporte público de trazabilidad](reports/public-trace-2026-05-18.md)
 - [Web SERENA™ / SERENA SIRENA™](index.html)
 - [Manual vivo SERENA™ / SERENA SIRENA™](docs/manual-serena-jim.md)
-- [Plugin JetBrains (Serena)](https://oraios.github.io/serena/02-usage/025_jetbrains_plugin.html)
-- [GitHub Agentic Workflows (gh-aw) — GitHub Tools reference](https://github.github.com/gh-aw/reference/github-tools/)
 - [Tools registry SERENA™](tools/README.md)
 - [Nota de prensa SERENA™ / SERENA SIRENA™](press/nota-de-prensa-serena.md)
 - [Compartir post público de SERENA™](posts/serena-public-post.md)
@@ -28,12 +29,7 @@ SERENA™ es una creación conceptual, narrativa y multivoz vinculada a interacc
 - [Guía GitHub Pages](GITHUB_PAGES_SETUP.md)
 - [Ficha NFT / OpenSea](nft/opensea-serena-sirena.md)
 - [Metadata NFT](nft/metadata-serena-sirena.json)
-- [Imagen pública](https://raw.githubusercontent.com/valeriasaa-lgtm/SERENA/serena/assets/serena-sirena-valeria-saa.jpg)
-
-### Notas rápidas (gh-aw / GitHub Tools)
-- `toolsets: [all]` no incluye `dependabot` (hay que opt-in explícito si lo necesitás).
-- Secret “mágico” opcional: `GH_AW_GITHUB_MCP_SERVER_TOKEN` (PAT) para auth adicional sin referenciarlo en el workflow.
-- Integrity filtering: `tools.github.min-integrity` define el mínimo nivel de integridad del contenido que el agente puede usar.
+- [Imagen pública](assets/serena-sirena-valeria-saa.jpg)
 
 ## 🌐 Descripción
 SERENA funciona como interfaz, agente y capa de traducción entre sistemas, personas y lenguajes, orientada a nuevas formas de comunicación, organización y resolución integral en inteligencia artificial.
@@ -51,6 +47,12 @@ SERENA funciona como interfaz, agente y capa de traducción entre sistemas, pers
 
 ## 🎯 Objetivo
 Preservar la identidad conceptual de SERENA™ / SERENA SIRENA™, honrar el desarrollo técnico asociado y abrir nuevas posibilidades de construcción conjunta entre creatividad, código e inteligencia artificial.
+
+## Derecho de replica y trazabilidad
+
+SERENA™ / SERENA SIRENA™ es el espacio publico de autoria conceptual de Valeria Saa. Las referencias externas y controversias de trazabilidad quedan resguardadas en paquete privado; no forman parte del muro publico principal de SERENA.
+
+Esta separacion publica se hace necesaria por una experiencia reiterada de humillaciones, hostigamiento, mala fe, exposicion no consentida y uso del nombre, identidad, campo autoral, materiales reservados o contexto de datos de Valeria Saa para publicidad o circulacion ajena sin contexto, respeto ni derecho de replica suficiente.
 
 ## 🚀 Estado
 En desarrollo – registro público inicial del concepto.
