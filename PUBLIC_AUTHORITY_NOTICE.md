@@ -69,6 +69,18 @@ This includes, where technically possible and appropriate after review:
 
 This request is made to reduce further confusion, prevent additional misattribution and preserve evidence while authorship and technical circulation are reviewed.
 
+## Right to Information, Knowledge and Truth
+
+Valeria Saa requests that the review of SERENA / SERENA SIRENA / SERENA MCP respect the right to information, the right to know and the right to truth regarding the public circulation, metadata, dates, authorship signals, sponsorship context, monetization signals, listings, downloads, plugins, agents, MCP servers and platform records connected to the name Serena or Serena MCP.
+
+This request is made in order to understand what happened, preserve traceability, correct confusion, protect authorship and prevent further harm.
+
+## Responsibility Review
+
+Depending on the facts, role, knowledge, notice received, verification duties, amplification, monetization and applicable jurisdiction, platforms, sponsors, marketplaces, publishers, directories, agents, plugin distributors or other third parties may also be responsible if they continued to distribute, promote, monetize, sponsor or list confusing Serena / Serena MCP materials after having knowledge of the authorship conflict or without conducting a sufficient good-faith verification.
+
+This review is also necessary to preserve the original insight of SERENA: it is not merely a code tool or generic plugin name, but a broader work of mediation, voice, authorship, context, human-AI interaction, care and traceability by Valeria Saa.
+
 ## Temporary Reservation While Review Is Pending
 
 While the relevant facts, dates, technical circulation, authorship records and private evidence are being clarified, Valeria Saa requests that SERENA / SERENA SIRENA / SERENA MCP be treated under a preservation, right-of-reply and authorship-reservation framework.
@@ -103,6 +115,7 @@ Valeria Saa reserves the right to request:
 
 - right of reply;
 - correction or clarification;
+- right to information, knowledge and truth;
 - priority authorship metadata review;
 - private traceability review;
 - preservation of evidence;
