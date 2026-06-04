@@ -28,11 +28,11 @@ jobs:
 
       - name: Check key authorship and protection files
         run: |
-          echo "Checking expected files..."
+          echo "Checking expected public files..."
           test -f README.md && echo "README.md found" || echo "README.md missing"
           test -f LICENSE && echo "LICENSE found" || echo "LICENSE missing"
           test -f AUTHORSHIP.md && echo "AUTHORSHIP.md found" || echo "AUTHORSHIP.md missing"
-          test -f DENUNCIA_PLAGIO.md && echo "DENUNCIA_PLAGIO.md found" || echo "DENUNCIA_PLAGIO.md missing"
+          test -f PUBLIC_AUTHORITY_NOTICE.md && echo "PUBLIC_AUTHORITY_NOTICE.md found" || echo "PUBLIC_AUTHORITY_NOTICE.md missing"
 
       - name: Confirm no deployment is configured
         run: |
