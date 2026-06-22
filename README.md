@@ -1,9 +1,10 @@
-# SERENA™
+# VALERIASAA / SERENA ✦
 
 **SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa**  
 Created and conceptually directed by **Valeria Saa**.
 
-Public identity: **Valeria Saa / @valeriasaa**.
+Public identity: **VALERIASAA / SERENA ✦**  
+Author / rights holder: **Valeria Saa**.
 
 SERENA™ es una creación conceptual, narrativa y multivoz vinculada a interacción humano-IA, mediación creativa, traducción entre sistemas, agentes, herramientas, plugins y arquitecturas MCP/workflow.
 
@@ -52,8 +53,9 @@ Valeria Saa also requests dignity, non-discrimination, apology, correction and r
 ## Nombre público
 
 ```text
+VALERIASAA / SERENA ✦
 SERENA MCP™ by Valeria Saa
-Valeria Saa / @valeriasaa
+Valeria Saa
 ```
 
 SERENA MCP™ es la capa técnica de SERENA™ / SERENA SIRENA™ para MCP, agentes, herramientas, plugins, workflows, trazabilidad y publicación pública responsable.
