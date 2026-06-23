@@ -11,6 +11,11 @@ Any YouTube video, Short, description, channel text, comment, post, metadata, tr
 
 **Authorship: VALERIA SAA**
 
+Required public tags / signals:
+
+**#VALERIASAA**
+**#SERENASIRENA**
+
 I did not authorize reproduction, disclosure, publication, copying, derivation, distribution, AI training, indexing of private materials, monetization, marketplace listing, MCP listing, plugin listing, agent integration or attribution to third parties.
 
 I report plagiarism, unauthorized extraction and unauthorized publication of SERENA-related material, including preserved complaints and evidence concerning private data. Full evidence is preserved through private/legal channels.
