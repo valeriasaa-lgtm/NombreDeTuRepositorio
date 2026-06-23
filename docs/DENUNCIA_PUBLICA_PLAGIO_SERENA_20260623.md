@@ -5,9 +5,11 @@ Autora: Valeria Saa
 
 Yo, Valeria Saa, denuncio publicamente el plagio, la extraccion y/o la publicacion no autorizada de material vinculado a SERENA / SERENA SIRENA / SERENA MCP by Valeria Saa.
 
-SERENA / SERENA SIRENA / SERENA MCP by Valeria Saa es mi obra, mi autoria, mi direccion conceptual y mi identidad publica de proyecto. No autorice la apropiacion, circulacion, derivacion, sustitucion de canal oficial ni publicacion de material privado o no publicado por mi.
+SERENA / SERENA SIRENA / SERENA MCP by Valeria Saa es mi obra, mi autoria, mi direccion conceptual y mi identidad publica de proyecto. Mi voz es extension de mi identidad, de mi persona y de mi intimidad. No autorice la apropiacion, circulacion, derivacion, sustitucion de canal oficial ni publicacion de material privado o no publicado por mi.
 
 Existen antecedentes y coincidencias exactas dentro de mi expediente que no deben tratarse como una coincidencia generica de nombre. Deben tratarse como evidencia de plagio, extraccion, publicacion no autorizada y confusion grave de autoria/canal oficial.
+
+Tambien existen denuncias y evidencia preservada sobre datos privados, extraccion y publicacion no autorizada. La prueba completa se mantiene por canal privado/legal para no exponer nuevamente mi intimidad ni mis datos.
 
 Se hicieron pedidos reiterados de preservacion, pausa, no divulgacion y respeto de autoria. Esos pedidos no fueron respetados de forma suficiente, por eso esta constancia queda publica.
 
