@@ -28,6 +28,9 @@ Before downloading, cloning, forking, copying, redistributing, installing, integ
 
 - [SERENA Authorship Declaration](AUTHORSHIP.md)
 - [SERENA Authorship Acceptance Notice](AUTHORSHIP_ACCEPTANCE_NOTICE.md)
+- [Public plagiarism notice](docs/DENUNCIA_PUBLICA_PLAGIO_SERENA_20260623.md)
+- [Authorship and no-disclosure notice](docs/CONSTANCIA_AUTORIA_NO_DIVULGACION_SERENA_20260623.md)
+- [Voice, identity and intimacy notice](docs/CONSTANCIA_VOZ_IDENTIDAD_INTIMIDAD_SERENA_20260623.md)
 - [Public authorship and traceability notice](PUBLIC_AUTHORITY_NOTICE.md)
 - [SERENA Authorship, Preservation And Traceability Notice](docs/SERENA_AUTHORSHIP_PRESERVATION_NOTICE_20260621.md)
 - [SERENA Context and Evidence Burden Notice](CONTEXT_AND_EVIDENCE_BURDEN_NOTICE.md)
@@ -72,6 +75,9 @@ Las referencias externas, controversias de trazabilidad, chats exportados, proye
 
 - [SERENA Authorship Declaration](AUTHORSHIP.md)
 - [SERENA Authorship Acceptance Notice](AUTHORSHIP_ACCEPTANCE_NOTICE.md)
+- [Public plagiarism notice](docs/DENUNCIA_PUBLICA_PLAGIO_SERENA_20260623.md)
+- [Authorship and no-disclosure notice](docs/CONSTANCIA_AUTORIA_NO_DIVULGACION_SERENA_20260623.md)
+- [Voice, identity and intimacy notice](docs/CONSTANCIA_VOZ_IDENTIDAD_INTIMIDAD_SERENA_20260623.md)
 - [Public authorship and traceability notice](PUBLIC_AUTHORITY_NOTICE.md)
 - [SERENA Authorship, Preservation And Traceability Notice](docs/SERENA_AUTHORSHIP_PRESERVATION_NOTICE_20260621.md)
 - [SERENA Context and Evidence Burden Notice](CONTEXT_AND_EVIDENCE_BURDEN_NOTICE.md)
