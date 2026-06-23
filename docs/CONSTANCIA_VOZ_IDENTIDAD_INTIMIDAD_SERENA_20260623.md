@@ -3,6 +3,8 @@
 Fecha: 2026-06-23
 Autora: Valeria Saa
 
+**La voz es una extension de mi identidad. SERENA MCP by Valeria Saa.**
+
 SERENA / SERENA SIRENA / SERENA MCP by Valeria Saa es mi obra, mi voz, mi identidad, mi intimidad, mi historia, mi forma de pensar, mi forma de explicar y mi campo autoral.
 
 La voz es extension de mi identidad, de mi persona y de mi intimidad. No es material libre, anonimo, disponible ni separable de mi autoria.
