@@ -3,6 +3,8 @@
 Date: 2026-06-23
 Author and rights holder: Valeria Saa
 
+**The voice is an extension of my identity. SERENA MCP by Valeria Saa.**
+
 SERENA / SERENA SIRENA / SERENA MCP by Valeria Saa is the work, voice, identity, intimacy and authorship field of Valeria Saa.
 
 My voice is an extension of my identity, my personhood and my intimacy. It is not free, anonymous or detachable material.
