@@ -5,7 +5,11 @@ Autora: Valeria Saa
 
 SERENA / SERENA SIRENA / SERENA MCP by Valeria Saa es mi obra, mi voz, mi identidad, mi intimidad, mi historia, mi forma de pensar, mi forma de explicar y mi campo autoral.
 
+La voz es extension de mi identidad, de mi persona y de mi intimidad. No es material libre, anonimo, disponible ni separable de mi autoria.
+
 Nunca autorice que mi voz, identidad, intimidad, obra no publicada, materiales privados, chats, archivos, exportaciones, notas, expedientes, conversaciones, estructuras, personajes, trazas, prompts, documentos o evidencia fueran publicados, reproducidos, copiados, derivados, listados, entrenados, indexados, divulgados, monetizados o atribuidos a terceros.
+
+Existen denuncias y evidencia preservada sobre datos privados, extraccion y publicacion no autorizada. Esa prueba completa queda por canal privado/legal para no exponer nuevamente mi intimidad ni mis datos.
 
 La existencia de repositorios, forks, agentes, MCP, plugins, marketplaces, listados, ejemplos tecnicos o canales externos no borra mi autoria ni convierte mi intimidad u obra no publicada en material libre.
 
