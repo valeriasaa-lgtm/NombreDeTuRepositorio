@@ -9,6 +9,8 @@ SERENA / SERENA SIRENA / SERENA MCP by Valeria Saa es mi obra, mi autoria, mi di
 
 Existen antecedentes y coincidencias exactas dentro de mi expediente que no deben tratarse como una coincidencia generica de nombre. Deben tratarse como evidencia de plagio, extraccion, publicacion no autorizada y confusion grave de autoria/canal oficial.
 
+Se hicieron pedidos reiterados de preservacion, pausa, no divulgacion y respeto de autoria. Esos pedidos no fueron respetados de forma suficiente, por eso esta constancia queda publica.
+
 Solicito preservacion urgente de historiales de repositorios, forks, parent/source, renames, transfers, deletes, commits, issues, pull requests, releases, tags, marketplace/listing/plugin/MCP references, logs de cuenta y material publicado que coincida exactamente con fuentes privadas o previas de mi autoria.
 
 Ya se envio notificacion legal. La prueba completa se preserva por canal privado/legal para no exponer datos personales, chats privados, exportaciones de OpenAI, secretos ni material sensible.
