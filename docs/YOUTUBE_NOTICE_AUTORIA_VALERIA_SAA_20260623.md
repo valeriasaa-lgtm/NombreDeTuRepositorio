@@ -18,4 +18,6 @@ Required public tags / signals:
 
 I did not authorize reproduction, disclosure, publication, copying, derivation, distribution, AI training, indexing of private materials, monetization, marketplace listing, MCP listing, plugin listing, agent integration or attribution to third parties.
 
-I report plagiarism, unauthorized extraction and unauthorized publication of SERENA-related material, including preserved complaints and evidence concerning private data. Full evidence is preserved through private/legal channels.
+I report plagiarism, unauthorized extraction and unauthorized publication of SERENA-related material, including preserved complaints and evidence concerning sensitive identity data: my voice, identity, personhood, intimacy, unpublished work, private creative material, images, text, traces, prompts, conversations and authorship history.
+
+Full evidence is preserved through private/legal channels and must not be publicly exposed again.
