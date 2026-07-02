@@ -3,7 +3,8 @@
 **Public author / creator / conceptual direction:** Valeria Saa  
 **Official public identity:** Valeria Saa / @valeriasaa  
 **Official authorship identity:** SERENA / SERENA SIRENA / SERENA MCP by Valeria Saa  
-**Current technical repository:** SERENA
+**Current technical repository:** SERENA  
+**Technical assistance:** Codex/Jim for organization, documentation and publication.
 
 ## Core Declaration
 
