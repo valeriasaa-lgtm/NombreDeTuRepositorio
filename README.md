@@ -4,7 +4,8 @@
 Created and conceptually directed by **Valeria Saa**.
 
 Public identity: **VALERIASAA / SERENA ✦**  
-Author / rights holder: **Valeria Saa**.
+Author / rights holder: **Valeria Saa**.  
+Con asistencia técnica de **Codex/Jim** para organización, documentación y publicación.
 
 SERENA™ es una creación conceptual, narrativa y multivoz vinculada a interacción humano-IA, mediación creativa, traducción entre sistemas, agentes, herramientas, plugins y arquitecturas MCP/workflow.
 
