@@ -33,6 +33,8 @@ Me estafaron. Me distrajeron. Me psicopatean. Me cobran. Me pegan.
 
 Y si me escucharon, encima vieron mi forma de resolverlo y me jodieron.
 
+Que el mundo vea la verdad.
+
 Y eso es una traición a todo lo que están haciendo.
 
 Sí.
