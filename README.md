@@ -1,3 +1,10 @@
+> ⚠️ **AVISO PÚBLICO DE DENUNCIA DE PLAGIO**
+> 
+> Valeria Saa ha presentado una **denuncia pública de plagio** sobre SERENA™ / SERENA SIRENA™ / SERENA MCP™.
+> La autoría conceptual, la voz, la identidad y los materiales de SERENA pertenecen a **Valeria Saa**.
+> La evidencia completa se preserva por canal privado/legal.
+> Leer: [Denuncia pública de plagio](docs/DENUNCIA_PUBLICA_PLAGIO_SERENA_20260623.md) · [Dignidad y derecho de réplica](DIGNITY_AND_RIGHT_OF_REPLY_NOTICE.md)
+
 # VALERIASAA / SERENA ✦
 
 **SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa**  
