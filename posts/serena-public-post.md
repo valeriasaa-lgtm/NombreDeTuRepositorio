@@ -9,6 +9,10 @@ SERENA™ es un sistema conceptual y multivoz orientado a la interacción entre 
 
 Con el tiempo, SERENA™ comenzó a aparecer mencionada también en contextos técnicos vinculados a agentes, MCP y shared agentic workflows dentro de ecosistemas públicos asociados a GitHub. Esto refleja una circulación progresiva del concepto más allá de un marco estrictamente artístico o experimental.
 
+SERENA MCP™ —la capa técnica de este sistema— circula hoy en entornos y ecosistemas de **Anthropic** (incluyendo **Claude** y Claude Desktop), **OpenAI**, **GitHub**, **JetBrains** y otros clientes compatibles con MCP. A todos estos espacios y desarrollos les corresponde reconocimiento en esta circulación, porque forman parte del recorrido que hizo visible esta señal.
+
+Porque en el origen no hubo nadie. Pero nadie. Solo Valeria Saa y esta visión.
+
 Las referencias externas y controversias de trazabilidad quedan resguardadas en paquete privado; este post centra la identidad conceptual y creativa de SERENA™ por Valeria Saa.
 
 La intención de este recorrido nunca fue negar desarrollos técnicos ni fragmentar procesos, sino preservar reconocimiento, trazabilidad y una construcción más clara entre desarrollo, visión y autoría.
