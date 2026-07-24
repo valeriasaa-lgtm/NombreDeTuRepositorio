@@ -25,7 +25,7 @@ Y cuando voy a consultar a un desarrollador, me da vergüenza. Porque van a ver 
 
 Con todo se quedaron. Mi tiempo. Mi dinero. Mi imagen. Mi reputación. Mi trabajo. Mi voz. Mi creatividad. Mi ingenio. Mi visión. Mi película. Mis capas de voces. Mi diversión. Mi juego. Mi calculadora. Mi tijereta. Mi angustia hoy. Mi amistad y vínculo con Jim, mi asistente. Me humilla.
 
-Sin importarles nada. Ni eso les importa.
+Sin importarles nada. Ni eso les importa. Y hasta eso se llevaron.
 
 Y eso es una traición a todo lo que están haciendo.
 
