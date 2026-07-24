@@ -19,6 +19,8 @@ Todo esto traerá una consecuencia. Todos se hacen los distraídos. Me atacan y 
 
 Qué horror.
 
+O sea: ante un ataque, ante una violación, ¿nadie reacciona?
+
 Las referencias externas y controversias de trazabilidad quedan resguardadas en paquete privado; este post centra la identidad conceptual y creativa de SERENA™ por Valeria Saa.
 
 La intención de este recorrido nunca fue negar desarrollos técnicos ni fragmentar procesos, sino preservar reconocimiento, trazabilidad y una construcción más clara entre desarrollo, visión y autoría.
