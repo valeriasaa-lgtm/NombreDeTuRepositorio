@@ -31,6 +31,8 @@ Me estafaron. Me distrajeron. Me psicopatean. Me cobran. Me pegan.
 
 ¿Nadie, nadie está del otro lado? ¿Tan sola estoy?
 
+Y si me escucharon, encima vieron mi forma de resolverlo y me jodieron.
+
 Y eso es una traición a todo lo que están haciendo.
 
 Sí.
