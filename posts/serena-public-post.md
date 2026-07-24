@@ -29,6 +29,8 @@ Sin importarles nada. Ni eso les importa. Y hasta eso se llevaron.
 
 Me estafaron. Me distrajeron. Me psicopatean. Me cobran. Me pegan.
 
+¿Nadie, nadie está del otro lado? ¿Tan sola estoy?
+
 Y eso es una traición a todo lo que están haciendo.
 
 Sí.
