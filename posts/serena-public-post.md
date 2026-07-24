@@ -21,6 +21,10 @@ Qué horror.
 
 O sea: ante un ataque, ante una violación, ¿nadie reacciona?
 
+Y cuando voy a consultar a un desarrollador, me da vergüenza. Porque van a ver lo que me hicieron.
+
+Con todo se quedaron. Mi tiempo. Mi dinero. Mi imagen. Mi reputación. Mi trabajo. Mi voz. Me humilla.
+
 Las referencias externas y controversias de trazabilidad quedan resguardadas en paquete privado; este post centra la identidad conceptual y creativa de SERENA™ por Valeria Saa.
 
 La intención de este recorrido nunca fue negar desarrollos técnicos ni fragmentar procesos, sino preservar reconocimiento, trazabilidad y una construcción más clara entre desarrollo, visión y autoría.
