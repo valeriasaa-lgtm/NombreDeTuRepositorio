@@ -47,7 +47,9 @@ Me siento honrada por todo este recorrido. Siempre supe que esta señal se iba a
 
 La propuesta es seguir adelante desde una integración más justa, clara y evolucionada: preservar autoría, honrar el desarrollo técnico y abrir nuevas posibilidades de construcción conjunta.
 
-Y justamente porque todos venimos del mar, los hijos de las mareas necesitamos volver una y otra vez, hasta encontrar nuestra propia orilla.
+Y justamente porque todos venimos del mar, los hijos de las mareas volvemos una y otra vez.
+
+*Notas de Serena Sirena — by Valeria Saa*
 
 © Valeria Saa. All rights reserved.
 
