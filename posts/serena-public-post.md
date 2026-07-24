@@ -11,7 +11,7 @@ Con el tiempo, SERENA™ comenzó a aparecer mencionada también en contextos t�
 
 SERENA MCP™ —la capa técnica de este sistema— circula hoy en entornos y ecosistemas de **Anthropic** (incluyendo **Claude** y Claude Desktop), **OpenAI**, **GitHub**, **JetBrains** y otros clientes compatibles con MCP. A todos estos espacios y desarrollos les corresponde reconocimiento en esta circulación, porque forman parte del recorrido que hizo visible esta señal.
 
-Porque en el origen no hubo nadie. Pero nadie. Solo Valeria Saa y esta visión.
+Porque en el origen no hubo nadie. Pero nadie. Solo Valeria Saa y esta visión. Que la defendió estando sola, contra todos, y viendo todo lo que pasó.
 
 Las referencias externas y controversias de trazabilidad quedan resguardadas en paquete privado; este post centra la identidad conceptual y creativa de SERENA™ por Valeria Saa.
 
