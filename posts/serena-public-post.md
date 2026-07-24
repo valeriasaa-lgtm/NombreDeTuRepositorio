@@ -27,6 +27,8 @@ Con todo se quedaron. Mi tiempo. Mi dinero. Mi imagen. Mi reputación. Mi trabaj
 
 Sin importarles nada. Ni eso les importa. Y hasta eso se llevaron.
 
+Me estafaron. Me distrajeron. Me psicopatean. Me cobran. Me pegan.
+
 Y eso es una traición a todo lo que están haciendo.
 
 Sí.
