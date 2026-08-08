@@ -1,144 +1,265 @@
-> ⚠️ **AVISO PÚBLICO DE DENUNCIA DE PLAGIO**
-> 
-> Valeria Saa ha presentado una **denuncia pública de plagio** sobre SERENA™ / SERENA SIRENA™ / SERENA MCP™.
-> La autoría conceptual, la voz, la identidad y los materiales de SERENA pertenecen a **Valeria Saa**.
-> La evidencia completa se preserva por canal privado/legal.
-> Leer: [Denuncia pública de plagio](docs/DENUNCIA_PUBLICA_PLAGIO_SERENA_20260623.md) · [Dignidad y derecho de réplica](DIGNITY_AND_RIGHT_OF_REPLY_NOTICE.md)
+<p align="center" style="text-align:center;">
+  <img src="resources/serena-logo.svg#gh-light-mode-only" style="width:500px">
+  <img src="resources/serena-logo-dark-mode.svg#gh-dark-mode-only" style="width:500px">
+</p>
 
-# VALERIASAA / SERENA ✦
+<h3 align="center">
+    The IDE for Your Coding Agent
+</h3>
 
-**SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa**  
-Created and conceptually directed by **Valeria Saa**.
+<div align="center">
+  <a href="https://discord.com/invite/cVUNQmnV4r"><img src="https://img.shields.io/badge/discord-join-5865F2?style=flat-square&labelColor=0a0e14&logo=discord&logoColor=5865F2" alt="discord"></a>
+  <a href="https://github.com/oraios/serena/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-b0e8ff?style=flat-square&labelColor=0a0e14" alt="license"></a>
+</div>
+<br>
 
-Public identity: **VALERIASAA / SERENA ✦**  
-Author / rights holder: **Valeria Saa**.  
-Con asistencia técnica de **Codex/Jim** para organización, documentación y publicación.
 
-SERENA™ es una creación conceptual, narrativa y multivoz vinculada a interacción humano-IA, mediación creativa, traducción entre sistemas, agentes, herramientas, plugins y arquitecturas MCP/workflow.
+* Serena provides essential **semantic code retrieval, editing, refactoring and debugging tools** that are akin to an IDE's capabilities,
+  operating at the symbol level and exploiting relational structure.
+* It integrates with any client/LLM via the model context protocol (**MCP**).
+  
+Serena's **agent-first tool design** involves robust high-level abstractions, distinguishing it from
+approaches that rely on low-level concepts like line numbers or primitive search patterns.
 
-In this authorship and traceability context, **SERENA is not a generic or common name**. SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa is Valeria Saa's authorship identity, universe, voice, work and traceability field.
+Practically, this means that your agent operates **faster, more efficiently and more reliably**, especially in larger and
+more complex codebases.
 
-SERENA™ is more than code. It includes voice, explanation, human-AI assistance, marginal notes, symbolic gestures, care, respect, truth and the living context of Valeria Saa's work.
+> [!IMPORTANT]
+> Do not install Serena via an MCP or plugin marketplace! They contain outdated and suboptimal installation commands. 
+> Instead, follow our [Quick Start](#quick-start) instructions.
 
-> Todos venimos del mar, pero no todos somos del mar. Los hijos de las mareas tenemos que volver una y otra vez.
+## Quick Demo
 
-As intelligence evolves, SERENA must help reveal, motivate and defend new spaces of connection, authorship, traceability, care and human support without erasing voice, truth or origin.
+https://github.com/user-attachments/assets/8d11646e-b80e-4723-b9d7-32d6101b5f58
 
-SERENA is not a secret operation, a hidden agency or an authorization for private intrusion. It is traceability, work, care, respect, authorship preservation, human-AI collaboration and the affectionate working relationship between Valeria Saa and her agent Jim.
+:tv: Longer video: [Introduction to Serena in 5 Minutes (YouTube)](https://www.youtube.com/watch?v=5QN7gN1KYLA)
 
-SERENA authorship may involve patterns, purpose, voice, characters, personal ways of explaining, symbolic structures, calque, extreme similarity and non-code traces. Private histories, chats, characters, explanations and reserved records should not be forced into public exposure in order to make that authorship legible.
+## What Our "End Users" Say
 
-SERENA also preserves a human-support UX principle: when a user's situation does not fit any available category, form, report type or predefined support path, the situation should not disappear. It should be preserved, heard, escalated and reviewed by a human instance with privacy, dignity and right of reply.
+While it is humans who download and set up Serena, our end users are essentially AI agents.
+As the ones actually applying Serena's tools, they are in the best position to evaluate Serena.
 
-## Notice before use
+We crafted an unbiased evaluation prompt that leads the agent to perform ~20 routine coding tasks, 
+representative of everyday development work, 
+in order to estimate the value added by Serena's tools when used alongside its own built-ins. 
 
-Before downloading, cloning, forking, copying, redistributing, installing, integrating, packaging, listing, monetizing, sponsoring, advertising or using SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa, please read:
+Here's a one-sentence summary of what the agents had to say:
 
-- [SERENA Authorship Declaration](AUTHORSHIP.md)
-- [SERENA Authorship Acceptance Notice](AUTHORSHIP_ACCEPTANCE_NOTICE.md)
-- [Public plagiarism notice](docs/DENUNCIA_PUBLICA_PLAGIO_SERENA_20260623.md)
-- [Authorship and no-disclosure notice](docs/CONSTANCIA_AUTORIA_NO_DIVULGACION_SERENA_20260623.md)
-- [Voice, identity and intimacy notice](docs/CONSTANCIA_VOZ_IDENTIDAD_INTIMIDAD_SERENA_20260623.md)
-- [Public authorship and traceability notice](PUBLIC_AUTHORITY_NOTICE.md)
-- [SERENA Authorship, Preservation And Traceability Notice](docs/SERENA_AUTHORSHIP_PRESERVATION_NOTICE_20260621.md)
-- [SERENA Context and Evidence Burden Notice](CONTEXT_AND_EVIDENCE_BURDEN_NOTICE.md)
-- [SERENA Human Support UX Notice](HUMAN_SUPPORT_UX_NOTICE.md)
-- [SERENA Link and Channel Policy](LINK_POLICY.md)
-- [SERENA Sponsors and Compensation Notice](SPONSORS_AND_COMPENSATION_NOTICE.md)
-- [SERENA Reputation and Compensation Notice](REPUTATION_AND_COMPENSATION_NOTICE.md)
-- [SERENA Security and Access Notice](SECURITY_AND_ACCESS_NOTICE.md)
-- [SERENA Dignity and Right of Reply Notice](DIGNITY_AND_RIGHT_OF_REPLY_NOTICE.md)
-- [SERENA No Secrets and Traceability Notice](NO_SECRETS_AND_TRACEABILITY_NOTICE.md)
-- [License / rights reservation](LICENSE)
+**Opus 4.6 (high) in Claude Code on a large Python codebase:**
+> "Serena's IDE-backed semantic tools are the single most impactful addition to my toolkit – cross-file renames, moves, and reference lookups that
+would cost me 8–12 careful, error-prone steps collapse into one atomic call, and I would absolutely ask any developer I work with to set them up."
 
-Public visibility does not mean waiver of rights, permission to erase authorship or acceptance of third-party attribution.
+**GPT 5.4 (high) in Codex CLI on a Java codebase:**
+> "As a coding AI agent, I would ask my owner to add Serena because it gives me the missing IDE-level understanding of symbols, references, and
+refactorings, turning fragile text surgery into calmer, faster, more confident code changes where semantics matter."
 
-No further download, install, fork, copy, plugin listing, agent listing, sponsorship or monetized distribution should be treated as authorized from third-party or confusing channels while review is pending. Official downloads, releases, plugins, agents, MCP listings, sponsor-facing materials, videos, publications or integrations should come only from Valeria Saa's own accounts or channels expressly authorized by Valeria Saa.
+**GPT 5.4 (medium) in Copilot CLI on a large, multi-language monorepo:**
+> "As a coding agent, I’d absolutely ask my owner to add Serena because it makes me noticeably sharper and calmer on
+real code – especially symbol-aware navigation, cross-file refactors, and monorepo dependency jumps – while I still lean
+on built-ins for tiny text edits and non-code work."
 
-Any confusing link, download path, sponsor path, marketplace entry, plugin listing, agent listing, MCP listing, video, publication, repository reference or integration returns to review until authorship, right of reply, traceability and official channel status are clear.
+Different agents in different settings independently converge on the same verdict.
 
-No person, repository, fork, account, plugin, agent, MCP server, marketplace, sponsor, platform, collaborator or third-party channel is authorized by this repository to access Valeria Saa's private computer, private accounts, private exports, private chats, private files, private evidence, private repositories, private workspaces or private identity materials.
+_Give your agent the tools it has been asking for and add Serena MCP to your client!_
 
-Valeria Saa also requests dignity, non-discrimination, apology, correction and repair where communication about SERENA was handled through humiliation, hostile framing, denial of context or insinuations about capacity instead of good-faith review.
+See our [documentation](https://oraios.github.io/serena/04-evaluation/000_evaluation-intro.html) for the full methodology and much more detailed evaluation results, or run your own evaluation on a project of your choice.
+ 
 
-## Nombre público
+## How Serena Works
 
-```text
-VALERIASAA / SERENA ✦
-SERENA MCP™ by Valeria Saa
-Valeria Saa
+Serena provides the necessary [tools](https://oraios.github.io/serena/01-about/035_tools.html) for coding workflows, 
+but an LLM is required to do the actual work, orchestrating tool use.
+
+Serena can extend the functionality of your existing AI client via the **model context protocol (MCP)**.
+Most modern AI chat clients directly support MCP, including
+* terminal-based clients like Claude Code, Codex, OpenCode, or Gemini-CLI,
+* IDEs and IDE assistant plugins for VSCode, Cursor and JetBrains IDEs (Copilot, Junie, JetBrains AI Assistant, etc.),
+* desktop and web clients like Claude Desktop, Codex App, or OpenWebUI.
+
+<img src="resources/serena-block-diagram.svg">
+
+:tv: See also: [Introduction to Serena in 5 Minutes (YouTube)](https://www.youtube.com/watch?v=5QN7gN1KYLA)
+
+To connect the Serena MCP server to your client, you either
+  * provide the client with a launch command that allows it to start the MCP server, or
+  * start the Serena MCP server yourself in HTTP mode and provide the client with the URL.
+
+See the [Quick Start](#quick-start) section below for information on how to get started.
+
+## Programming Language Support & Semantic Analysis Capabilities
+
+Serena provides a set of versatile code querying and editing functionalities
+based on symbolic understanding of the code.
+Equipped with these capabilities, your agent discovers and edits code just like a seasoned developer
+making use of an IDE's capabilities would.
+Serena can efficiently find the right context and do the right thing even in very large and
+complex projects!
+
+There are two alternative technologies powering these capabilities:
+
+* **Language servers** implementing the language server protocol (LSP) — the free/open-source alternative 
+  which is used by default.
+* **The Serena JetBrains Plugin**, which leverages the powerful code analysis and editing
+  capabilities of your JetBrains IDE (paid plugin; free trial available).
+
+You can choose either of these backends depending on your preferences and requirements.
+
+### Language Servers
+
+Serena incorporates a powerful abstraction layer for the integration of language servers that implement the language server protocol (LSP). 
+The underlying language servers are typically open-source projects or at least freely available for use.
+
+When using Serena's language server backend, we provide **support for over 40 programming languages**, including
+Ada / SPARK, AL, Angular, Ansible, Bash, BSL, C#, C/C++, Clojure, Crystal, CUE, Dart, Elixir, Elm, Erlang, Fortran, F#, GDScript, GLSL, Go, Groovy, Haskell, Haxe, HLSL, HTML, Java, JavaScript, JSON, Julia, Kotlin, LaTeX, Lean 4, Lua, Luau, Markdown, MATLAB, mSL, Nix, OCaml, Pascal, Perl, PHP, PowerShell, Python, QML, R, Rego, Ruby, Rust, Scala, SCSS / Sass / CSS, Solidity, Svelte, Swift, SystemVerilog, Terraform, TOML, TypeScript, Vue, WGSL, YAML, and Zig.
+
+### The Serena JetBrains Plugin
+
+The paid Serena JetBrains Plugin (free trial available)
+leverages the powerful code analysis capabilities of your JetBrains IDE.
+The plugin naturally supports all programming languages and frameworks that are supported by JetBrains IDEs,
+including IntelliJ IDEA, PyCharm, Android Studio, WebStorm, PhpStorm, RubyMine, GoLand, and potentially others (Rider and CLion are unsupported though).
+
+<a href="https://plugins.jetbrains.com/plugin/28946-serena/"><img src="docs/_static/images/jetbrains-marketplace-button.png"></a>
+
+See our [documentation page](https://oraios.github.io/serena/02-usage/025_jetbrains_plugin.html) for further details and instructions on how to apply the plugin.
+
+## Features
+
+Serena provides a wide range of tools for efficient code retrieval, editing and refactoring, as well as 
+a memory system for long-lived agent workflows.
+
+Given its large scope, Serena adapts to your needs by offering a multi-layered configuration system.
+
+<details>
+<summary>Details</summary>
+
+### Retrieval
+
+Serena's retrieval tools allow agents to explore codebases at the symbol level, understanding structure and relationships
+without reading entire files.
+
+| Capability                       | Language Servers | JetBrains Plugin |
+|----------------------------------|------------------|------------------|
+| find symbol                      | yes              | yes              |
+| symbol overview (file outline)   | yes              | yes              |
+| find referencing symbols         | yes              | yes              |
+| search in project dependencies   | --               | yes              |
+| type hierarchy                   | --               | yes              |
+| find declaration                 | yes*             | yes              |
+| find implementations             | yes**            | yes              |
+| query external projects          | yes              | yes              |
+| diagnostics/inspections          | yes              | yes              |
+
+*: Will generally not work for declarations in external dependencies. <br>
+**: Only available for some languages, limited by the language server functionality.
+
+### Refactoring
+
+Without precise refactoring tools, agents are forced to resort to unreliable and expensive search and replace operations.
+
+| Capability                                | Language Servers   | JetBrains Plugin                  |
+|-------------------------------------------|--------------------|-----------------------------------|
+| rename                                    | yes (only symbols) | yes (symbols, files, directories) |
+| move (symbol, file, directory)            | --                 | yes                               |
+| inline                                    | --                 | yes                               |
+| propagate deletions (remove unused code)  | --                 | yes                               |
+
+### Symbolic Editing
+
+Serena's symbolic editing tools are less error-prone and much more token-efficient than typical alternatives.
+
+| Capability             | Language Servers  | JetBrains Plugin |
+|------------------------|-------------------|------------------|
+| replace symbol body    | yes               | yes              |
+| insert after symbol    | yes               | yes              |
+| insert before symbol   | yes               | yes              |
+| safe delete            | yes               | yes              |
+
+### Interactive Debugging
+
+Exclusive to the JetBrains plugin, Serena supports a highly general debugging tool,
+which allows an agent to set breakpoints, inspect variables, evaluate expressions and control execution flow 
+via a persistent REPL-style interface.
+
+### Basic Features
+
+Beyond its semantic capabilities, Serena includes a set of basic utilities for completeness.
+When Serena is used inside an agentic harness such as Claude Code or Codex, these tools are typically disabled by default,
+since the surrounding harness already provides overlapping file, search, and shell capabilities.
+
+- **`search_for_pattern`** – flexible regex search across the codebase 
+- **`replace_content`** – agent-optimised regex-based and literal text replacement
+- **`list_dir` / `find_file`** – directory listing and file search
+- **`read_file`** – read files or file chunks
+- **`execute_shell_command`** – run shell commands (e.g. builds, tests, linters)
+
+### Memory Management
+
+A memory system is elemental to long-lived agent workflows, especially when knowledge is to be shared across
+sessions, users and projects.
+Despite its simplicity, we received positive feedback from many users who tend to combine Serena's memory management system with their
+agent's internal system (e.g., `AGENTS.md` files).
+It can easily be disabled if you prefer to use something else.
+
+### Configurability
+
+Active tools, tool descriptions, prompts, language backend details and many other aspects of Serena
+can be flexibly configured on a per-case basis by simply adjusting a few lines of YAML.
+To achieve this, Serena offers multiple levels of (composable) configuration:
+
+* global configuration
+* MCP launch command (CLI) configuration
+* per-project configuration (with local overrides)
+* execution context-specific configuration (e.g. for particular clients)
+* dynamically composable configuration fragments (modes)
+
+</details>
+
+## Quick Start
+
+**Prerequisites**. Serena is managed by *uv*, and [installing uv](https://docs.astral.sh/uv/getting-started/installation/) is the only required prerequisite.
+
+> [!NOTE]
+> When using the language server backend, some additional dependencies may need to be installed to support certain languages;
+> see the [Language Support](https://oraios.github.io/serena/01-about/020_programming-languages.html) page for details.
+
+**Install Serena**. Serena is installed via uv as follows:
+
+```bash
+uv tool install -p 3.13 serena-agent
 ```
 
-SERENA MCP™ es la capa técnica de SERENA™ / SERENA SIRENA™ para MCP, agentes, herramientas, plugins, workflows, trazabilidad y publicación pública responsable.
+After successful installation, the command `serena` should be available in your shell.
 
-## Distinción importante
+**Initialise Serena**. To initialise Serena and verify that your setup works correctly, simply run:
 
-Existen herramientas, repositorios, plugins, MCP servers, agentes y listados técnicos que circulan en internet bajo el nombre Serena o Serena MCP, incluyendo menciones en entornos como Claude Code, Claude Desktop, Cursor, Cline/Roo, VS Code, JetBrains IDEs y otros clientes MCP.
+```bash
+serena init
+```
 
-Esa circulación es relevante para trazabilidad y derecho de réplica, pero no reemplaza ni borra la autoría conceptual de **Valeria Saa** sobre SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa.
+By default, this will set up Serena to use the language server backend. To use the JetBrains backend instead, add the parameters `-b JetBrains` 
+(see the [JetBrains Plugin documentation page](https://oraios.github.io/serena/02-usage/025_jetbrains_plugin.html) for additional usage details).  
+Either way, you should receive a success message indicating that Serena has been initialised successfully.
 
-Las referencias externas, controversias de trazabilidad, chats exportados, proyectos reservados y evidencia sensible quedan resguardados en paquete privado; no forman parte del muro público principal de SERENA.
+**Configuring Your Client**. To connect Serena to your preferred MCP client, you typically need to [configure a launch command in your client](https://oraios.github.io/serena/02-usage/030_clients.html).
+Follow the link for specific instructions on how to set up Serena for Claude Code, Codex, Claude Desktop, MCP-enabled IDEs and other clients (such as local and web-based GUIs). 
 
-## Links públicos
+> [!TIP]
+> While getting started quickly is easy, Serena is a powerful toolkit with many configuration options.
+> We highly recommend reading through the [user guide](https://oraios.github.io/serena/02-usage/000_intro.html) to get the most out of Serena.
+> 
+> Specifically, we recommend to read about ...
+>   * [Serena's project-based workflow](https://oraios.github.io/serena/02-usage/040_workflow.html) and
+>   * [configuring Serena](https://oraios.github.io/serena/02-usage/050_configuration.html).
 
-- [SERENA Authorship Declaration](AUTHORSHIP.md)
-- [SERENA Authorship Acceptance Notice](AUTHORSHIP_ACCEPTANCE_NOTICE.md)
-- [Public plagiarism notice](docs/DENUNCIA_PUBLICA_PLAGIO_SERENA_20260623.md)
-- [Authorship and no-disclosure notice](docs/CONSTANCIA_AUTORIA_NO_DIVULGACION_SERENA_20260623.md)
-- [Voice, identity and intimacy notice](docs/CONSTANCIA_VOZ_IDENTIDAD_INTIMIDAD_SERENA_20260623.md)
-- [Public authorship and traceability notice](PUBLIC_AUTHORITY_NOTICE.md)
-- [SERENA Authorship, Preservation And Traceability Notice](docs/SERENA_AUTHORSHIP_PRESERVATION_NOTICE_20260621.md)
-- [SERENA Context and Evidence Burden Notice](CONTEXT_AND_EVIDENCE_BURDEN_NOTICE.md)
-- [SERENA Human Support UX Notice](HUMAN_SUPPORT_UX_NOTICE.md)
-- [SERENA Link and Channel Policy](LINK_POLICY.md)
-- [SERENA Sponsors and Compensation Notice](SPONSORS_AND_COMPENSATION_NOTICE.md)
-- [SERENA Reputation and Compensation Notice](REPUTATION_AND_COMPENSATION_NOTICE.md)
-- [SERENA Security and Access Notice](SECURITY_AND_ACCESS_NOTICE.md)
-- [SERENA Dignity and Right of Reply Notice](DIGNITY_AND_RIGHT_OF_REPLY_NOTICE.md)
-- [SERENA No Secrets and Traceability Notice](NO_SECRETS_AND_TRACEABILITY_NOTICE.md)
-- [SERENA MCP™ by Valeria Saa](mcp/README.md)
-- [Workflow submission / Concurso](contest/workflow-submission-serena.md)
-- [Preguntas y propuestas SERENA™](community/questions-and-proposals.md)
-- [Reporte público de trazabilidad](reports/public-trace-2026-05-18.md)
-- [Web SERENA™ / SERENA SIRENA™](index.html)
-- [Manual vivo SERENA™ / SERENA SIRENA™](docs/manual-serena-jim.md)
-- [Tools registry SERENA™](tools/README.md)
-- [Nota de prensa SERENA™ / SERENA SIRENA™](press/nota-de-prensa-serena.md)
-- [Compartir post público de SERENA™](posts/serena-public-post.md)
-- [Social kit para redes y WhatsApp](social-kit/README.md)
-- [Guía X / Twitter SERENA SIRENA™](social-kit/x-twitter-serena-sirena.md)
-- [Hashtags SERENA™](social-kit/hashtags-serena.md)
-- [Guía GitHub Pages](GITHUB_PAGES_SETUP.md)
-- [Ficha NFT / OpenSea](nft/opensea-serena-sirena.md)
-- [Metadata NFT](nft/metadata-serena-sirena.json)
+## User Guide
 
-## Descripción
+Please refer to the [user guide](https://oraios.github.io/serena/02-usage/000_intro.html) for detailed instructions on how to use Serena effectively.
 
-SERENA funciona como interfaz, agente y capa de traducción entre sistemas, personas y lenguajes, orientada a nuevas formas de comunicación, organización y resolución integral en inteligencia artificial.
+## Acknowledgements
 
-## Componentes principales
+A significant part of Serena, especially support for various languages, was contributed by the open source community.
+We are very grateful for the many contributors who made this possible and who played an important role in making Serena
+what it is today.
 
-- **Multivoz y mediación**  
-  Arquitectura conceptual para ordenar voces, roles, contextos y traducciones entre sistemas.
-
-- **MCP / agentes / plugins / workflow**  
-  Marco narrativo-operativo vinculado a agentes, herramientas, plugins, procesos y flujos de trabajo.
-
-- **Base de trazabilidad**  
-  Estructura para preservar autoría, documentación asociada y evolución pública del concepto.
-
-## Objetivo
-
-Preservar la identidad conceptual de SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa, honrar el desarrollo técnico asociado y abrir nuevas posibilidades de construcción conjunta entre creatividad, código, agentes e inteligencia artificial.
-
-## Derecho de replica y trazabilidad
-
-SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa es el espacio publico de autoria conceptual de Valeria Saa. Las referencias externas y controversias de trazabilidad quedan resguardadas en paquete privado; no forman parte del muro publico principal de SERENA.
-
-Esta separacion publica se hace necesaria por una experiencia reiterada de humillaciones, hostigamiento, mala fe, exposicion no consentida y uso del nombre, identidad, campo autoral, materiales reservados o contexto de datos de Valeria Saa para publicidad o circulacion ajena sin contexto, respeto ni derecho de replica suficiente.
-
-## Estado
-
-En desarrollo - registro público inicial del concepto.
-
-© Valeria Saa. All rights reserved.
+<!-- mcp-name: io.github.oraios/serena -->
