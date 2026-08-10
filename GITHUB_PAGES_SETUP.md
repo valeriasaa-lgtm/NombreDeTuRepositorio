@@ -2,6 +2,8 @@
 
 SERENA is deployed from the `serena` branch with GitHub Actions.
 
+If the repository home page looks empty, you are probably on the old default branch `main` (greeting only). The public SERENA wall, site and docs live on branch `serena`. Recommended: set **Settings → General → Default branch** to `serena`, and open the live site at `https://valeriasaa-lgtm.github.io/SERENA/`.
+
 The deploy workflow is intentionally simple:
 
 1. Check out the repository.
