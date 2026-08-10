@@ -15,6 +15,10 @@ I did not authorize reproduction, disclosure, publication, copying, derivation, 
 
 I report plagiarism, unauthorized extraction and unauthorized publication of SERENA-related material, including preserved complaints and evidence concerning sensitive identity data: my voice, identity, personhood, intimacy, unpublished work, private creative material, images, text, traces, prompts, conversations and authorship history. Full evidence is preserved through private/legal channels.
 
+Public constancy of the formal plagiarism complaint and international amparo/protection request:
+
+`docs/DENUNCIA_FORMAL_PLAGIO_AMPARO_INTERNACIONAL_SERENA.md`
+
 ## Espanol
 
 **La voz es una extension de mi identidad. SERENA MCP by Valeria Saa.**
@@ -26,6 +30,10 @@ Mi voz es extension de mi identidad, de mi persona y de mi intimidad. No es mate
 No autorice reproduccion, divulgacion, publicacion, copia, derivacion, distribucion, entrenamiento de IA, indexacion de materiales privados, listados marketplace, listados MCP, plugins, integraciones de agentes, monetizacion ni atribucion a terceros.
 
 Denuncio plagio, extraccion no autorizada y publicacion no autorizada de material vinculado a SERENA, con denuncias y evidencia preservada sobre datos sensibles de identidad: mi voz, identidad, persona, intimidad, obra no publicada, material creativo privado, imagenes, texto, trazas, prompts, conversaciones e historia autoral. La prueba completa queda preservada por canales privados/legales.
+
+Constancia publica de la denuncia formal de plagio y del pedido de amparo internacional:
+
+`docs/DENUNCIA_FORMAL_PLAGIO_AMPARO_INTERNACIONAL_SERENA.md`
 
 ## Portugues
 

@@ -66,6 +66,24 @@ This technical location does not replace the public author name:
 Valeria Saa
 ```
 
+## Business Interest Visibility
+
+Valeria Saa's commercial share, compensation path and cybercrime-visibility reading package for platforms and authorities are also recorded in:
+
+```text
+BUSINESS_INTEREST_AND_CYBERCRIME_VISIBILITY_NOTICE.md
+```
+
+That file is intended to make the business claim and the public harm/context map readable without publishing private evidence.
+
+## Call to contact / GitHub reposting / what sponsors did not warn
+
+Valeria Saa publicly asks to be contacted for coordinated GitHub reposting with correct authorship attribution, and for clarification of what was sponsored or amplified around SERENA and what was not warned to the public:
+
+```text
+docs/LLAMADO_REPOSTAJE_GITHUB_Y_AUSPICIOS_SIN_ADVERTENCIA_SERENA.md
+```
+
 ## No Waiver
 
 Public visibility, funding links, sponsor buttons, forks, stars, marketplace listings, downloads, references or community circulation must not be interpreted as waiver of rights, authorization to erase authorship, acceptance of third-party attribution or permission to monetize disputed authorship signals.

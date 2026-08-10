@@ -50,5 +50,14 @@ Se solicita a cualquier persona, repositorio, plataforma, directorio o ecosistem
 - Declaración de autoría: https://github.com/valeriasaa-lgtm/SERENA/blob/serena/AUTHORSHIP.md  
 - Capa MCP oficial: https://github.com/valeriasaa-lgtm/SERENA/blob/serena/mcp/README.md  
 - Índice de trazabilidad: https://github.com/valeriasaa-lgtm/SERENA/blob/serena/TRACEABILITY_INDEX.md
+- Llamado a Claude — reconocimiento y compensación: https://github.com/valeriasaa-lgtm/SERENA/blob/serena/docs/LLAMADO_A_CLAUDE_RECONOCIMIENTO_Y_COMPENSACION_SERENA.md
+
+## Llamado posterior
+
+Valeria Saa mantiene un llamado público a Claude y su ecosistema para dar la cara por la utilización y circulación de sus datos y de su obra SERENA, con reconocimiento de autoría y compensación. Ver:
+
+```text
+docs/LLAMADO_A_CLAUDE_RECONOCIMIENTO_Y_COMPENSACION_SERENA.md
+```
 
 © Valeria Saa. Todos los derechos reservados.

@@ -61,4 +61,12 @@ Private chats, exports, thesis-related records, unpublished work, sensitive evid
 
 This notice preserves Valeria Saa's public reputation position without exposing private evidence.
 
+## Claude-facing recognition and compensation call
+
+Valeria Saa's public call to Claude and the Claude/MCP ecosystem to face responsibility for data and work circulation, with recognition and compensation, is recorded in:
+
+```text
+docs/LLAMADO_A_CLAUDE_RECONOCIMIENTO_Y_COMPENSACION_SERENA.md
+```
+
 © Valeria Saa. All rights reserved.

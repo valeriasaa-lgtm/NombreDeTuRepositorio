@@ -17,6 +17,12 @@ Solicito preservacion urgente de historiales de repositorios, forks, parent/sour
 
 Ya se envio notificacion legal. La prueba completa se preserva por canal privado/legal para no exponer datos personales, chats privados, exportaciones de OpenAI, secretos ni material sensible.
 
+Constancia ampliada de la denuncia formal y del pedido de amparo internacional:
+
+```text
+docs/DENUNCIA_FORMAL_PLAGIO_AMPARO_INTERNACIONAL_SERENA.md
+```
+
 Esta denuncia publica no autoriza a terceros a acceder a mi computadora, cuentas, archivos, chats, exportaciones, repositorios privados, evidencia local ni documentos personales.
 
 Valeria Saa

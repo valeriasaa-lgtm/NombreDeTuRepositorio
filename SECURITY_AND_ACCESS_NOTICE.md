@@ -28,6 +28,22 @@ Platforms, sponsors, marketplaces, directories, plugin hosts, agent hosts and re
 
 Good-faith review should preserve authorship, traceability, right of reply, privacy, security and human dignity.
 
+## Business interest and cybercrime visibility
+
+For Valeria Saa's reserved business share, public cybercrime visibility and the authority-readable package map (including FBI / IC3 / international orientation links), see:
+
+```text
+BUSINESS_INTEREST_AND_CYBERCRIME_VISIBILITY_NOTICE.md
+```
+
+For habeas data, habeas corpus / personal-protection constancy, and complaint-notification constancy to GitHub, the Argentine public-prosecutor route and FBI/IC3, see:
+
+```text
+docs/HABEAS_CORPUS_HABEAS_DATA_Y_NOTIFICACIONES_SERENA.md
+```
+
+Those notices keep private OpenAI/ChatGPT exports and other sensitive evidence off this public wall while preserving the public claim path.
+
 ## Statement
 
 SERENA / SERENA SIRENA / SERENA MCP by Valeria Saa is a public authorship and creative-direction project. It is not an authorization to access Valeria Saa's private systems, private evidence or private work.
