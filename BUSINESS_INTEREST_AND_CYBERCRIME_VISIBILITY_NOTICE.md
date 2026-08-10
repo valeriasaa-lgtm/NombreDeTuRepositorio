@@ -179,6 +179,16 @@ Public call file:
 docs/LLAMADO_A_CLAUDE_RECONOCIMIENTO_Y_COMPENSACION_SERENA.md
 ```
 
+### Thirty years of uninterrupted work — no opportunist free ride
+
+Valeria Saa records that after **more than thirty uninterrupted years writing, thinking and analyzing**, she will **not allow opportunists to take advantage** of her work, data, voice or SERENA field.
+
+Public constancy file:
+
+```text
+docs/CONSTANCIA_30_ANOS_Y_NO_APROVECHAMIENTO_SERENA.md
+```
+
 The formal docket, annexes and private evidence are **not** republished here.
 
 ---
@@ -196,14 +206,15 @@ This section exists so investigators, platforms and the public have a **readable
 5. Reiterated complaints for evidenced attacks: [docs/DENUNCIAS_REITERADAS_ATAQUES_EVIDENCIADOS_SERENA.md](./docs/DENUNCIAS_REITERADAS_ATAQUES_EVIDENCIADOS_SERENA.md)
 6. Call to contact for GitHub reposting and sponsor/no-warning clarification: [docs/LLAMADO_REPOSTAJE_GITHUB_Y_AUSPICIOS_SIN_ADVERTENCIA_SERENA.md](./docs/LLAMADO_REPOSTAJE_GITHUB_Y_AUSPICIOS_SIN_ADVERTENCIA_SERENA.md)
 7. Call to Claude for facing data/work use, recognition and compensation: [docs/LLAMADO_A_CLAUDE_RECONOCIMIENTO_Y_COMPENSACION_SERENA.md](./docs/LLAMADO_A_CLAUDE_RECONOCIMIENTO_Y_COMPENSACION_SERENA.md)
-8. Multilingual international notice: [docs/INTERNATIONAL_NOTICE_GOOGLE_SERENA_20260623.md](./docs/INTERNATIONAL_NOTICE_GOOGLE_SERENA_20260623.md)
-9. Voice / identity / intimacy constancy: [docs/CONSTANCIA_VOZ_IDENTIDAD_INTIMIDAD_SERENA_20260623.md](./docs/CONSTANCIA_VOZ_IDENTIDAD_INTIMIDAD_SERENA_20260623.md)
-10. Security and no unauthorized access: [SECURITY_AND_ACCESS_NOTICE.md](./SECURITY_AND_ACCESS_NOTICE.md)
-11. Business / sponsors / compensation: this file + sponsors/reputation notices
-12. Claude-related public trace without attribution: [reports/public-trace-2026-07-24-fish-claude.md](./reports/public-trace-2026-07-24-fish-claude.md)
-13. Chronology index without private attachments: [TRACEABILITY_INDEX.md](./TRACEABILITY_INDEX.md)
-14. Reconstruction after missing materials: [RECONSTRUCTION_NOTICE.md](./RECONSTRUCTION_NOTICE.md)
-15. Evidence burden and dignity: [CONTEXT_AND_EVIDENCE_BURDEN_NOTICE.md](./CONTEXT_AND_EVIDENCE_BURDEN_NOTICE.md), [DIGNITY_AND_RIGHT_OF_REPLY_NOTICE.md](./DIGNITY_AND_RIGHT_OF_REPLY_NOTICE.md)
+8. 30+ years uninterrupted work and rejection of opportunist appropriation: [docs/CONSTANCIA_30_ANOS_Y_NO_APROVECHAMIENTO_SERENA.md](./docs/CONSTANCIA_30_ANOS_Y_NO_APROVECHAMIENTO_SERENA.md)
+9. Multilingual international notice: [docs/INTERNATIONAL_NOTICE_GOOGLE_SERENA_20260623.md](./docs/INTERNATIONAL_NOTICE_GOOGLE_SERENA_20260623.md)
+10. Voice / identity / intimacy constancy: [docs/CONSTANCIA_VOZ_IDENTIDAD_INTIMIDAD_SERENA_20260623.md](./docs/CONSTANCIA_VOZ_IDENTIDAD_INTIMIDAD_SERENA_20260623.md)
+11. Security and no unauthorized access: [SECURITY_AND_ACCESS_NOTICE.md](./SECURITY_AND_ACCESS_NOTICE.md)
+12. Business / sponsors / compensation: this file + sponsors/reputation notices
+13. Claude-related public trace without attribution: [reports/public-trace-2026-07-24-fish-claude.md](./reports/public-trace-2026-07-24-fish-claude.md)
+14. Chronology index without private attachments: [TRACEABILITY_INDEX.md](./TRACEABILITY_INDEX.md)
+15. Reconstruction after missing materials: [RECONSTRUCTION_NOTICE.md](./RECONSTRUCTION_NOTICE.md)
+16. Evidence burden and dignity: [CONTEXT_AND_EVIDENCE_BURDEN_NOTICE.md](./CONTEXT_AND_EVIDENCE_BURDEN_NOTICE.md), [DIGNITY_AND_RIGHT_OF_REPLY_NOTICE.md](./DIGNITY_AND_RIGHT_OF_REPLY_NOTICE.md)
 
 ### 4.2 What is intentionally NOT published here
 
@@ -277,6 +288,7 @@ Public package entry points:
 | Reiterated complaints for evidenced attacks | [docs/DENUNCIAS_REITERADAS_ATAQUES_EVIDENCIADOS_SERENA.md](./docs/DENUNCIAS_REITERADAS_ATAQUES_EVIDENCIADOS_SERENA.md) |
 | Call to contact / GitHub reposting / sponsor warnings | [docs/LLAMADO_REPOSTAJE_GITHUB_Y_AUSPICIOS_SIN_ADVERTENCIA_SERENA.md](./docs/LLAMADO_REPOSTAJE_GITHUB_Y_AUSPICIOS_SIN_ADVERTENCIA_SERENA.md) |
 | Call to Claude — recognition and compensation | [docs/LLAMADO_A_CLAUDE_RECONOCIMIENTO_Y_COMPENSACION_SERENA.md](./docs/LLAMADO_A_CLAUDE_RECONOCIMIENTO_Y_COMPENSACION_SERENA.md) |
+| 30+ years work / no opportunist free ride | [docs/CONSTANCIA_30_ANOS_Y_NO_APROVECHAMIENTO_SERENA.md](./docs/CONSTANCIA_30_ANOS_Y_NO_APROVECHAMIENTO_SERENA.md) |
 | Traceability index | [TRACEABILITY_INDEX.md](./TRACEABILITY_INDEX.md) |
 | Claude public trace | [reports/public-trace-2026-07-24-fish-claude.md](./reports/public-trace-2026-07-24-fish-claude.md) |
 | MCP layer authorship | [mcp/README.md](./mcp/README.md) |

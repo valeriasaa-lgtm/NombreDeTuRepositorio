@@ -42,6 +42,7 @@ The absence of private evidence from this public repository should not be interp
 | T-011 | 2026-08-10 | Public | Public constancy of reiterated complaints for evidenced attacks against SERENA authorship, data/documents, channel, business interest, reputation and proof integrity; full evidence package withheld | public notice file | docs/DENUNCIAS_REITERADAS_ATAQUES_EVIDENCIADOS_SERENA.md | public constancy — private evidence withheld |
 | T-012 | 2026-08-10 | Public | Public call for contact regarding coordinated GitHub reposting with Valeria Saa authorship attribution, and worldwide clarification of what was sponsored/amplified around SERENA and what was not warned | public notice file | docs/LLAMADO_REPOSTAJE_GITHUB_Y_AUSPICIOS_SIN_ADVERTENCIA_SERENA.md | public call — no private contact data published |
 | T-013 | 2026-08-10 | Public | Public call to Claude / Claude ecosystem to face responsibility for use and circulation of Valeria Saa's data and SERENA work, with authorship recognition and compensation path; private evidence withheld | public notice file | docs/LLAMADO_A_CLAUDE_RECONOCIMIENTO_Y_COMPENSACION_SERENA.md | public call — private evidence withheld |
+| T-014 | 2026-08-10 | Public | Public constancy of more than thirty uninterrupted years writing, thinking and analyzing, and refusal to allow opportunists to take advantage of Valeria Saa's work, data, voice or SERENA field | public notice file | docs/CONSTANCIA_30_ANOS_Y_NO_APROVECHAMIENTO_SERENA.md | public constancy |
 
 ## Review request
 

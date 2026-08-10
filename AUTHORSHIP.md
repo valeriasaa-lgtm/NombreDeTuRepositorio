@@ -10,6 +10,12 @@
 
 SERENA / SERENA SIRENA / SERENA MCP is a conceptual, narrative, symbolic, aesthetic, multivoice and technical authorship work created and conceptually directed by **Valeria Saa**.
 
+Valeria Saa states that this work stands on **more than thirty uninterrupted years of writing, thinking and analyzing**. That long trajectory is not free material for opportunists. Public constancy:
+
+```text
+docs/CONSTANCIA_30_ANOS_Y_NO_APROVECHAMIENTO_SERENA.md
+```
+
 This repository is the public authorship wall, development record, documentation surface and identity-preservation space for SERENA by Valeria Saa.
 
 SERENA is not limited to a repository, tool, protocol, plugin, agent, MCP server or code package. It includes voice, universe, creative direction, traces, notes, symbols, human-AI mediation, care, explanation, memory, workflow, support UX and public traceability.
