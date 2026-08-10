@@ -33,6 +33,10 @@ The evidence connected to these observations is not published in this repository
 
 The absence of private evidence from this public file should not be interpreted as absence of evidence, waiver of rights, abandonment of authorship concerns or consent to external use.
 
+## Connection to data/document gaslighting concern
+
+Where expected materials became unavailable, altered, renamed, redirected or confusing, Valeria Saa also records a public concern of **data and document gaslighting**: pressure to doubt, re-explain or reconstruct a chronology that should have remained stable. Details remain in the reserved evidence package. See also `BUSINESS_INTEREST_AND_CYBERCRIME_VISIBILITY_NOTICE.md`.
+
 ## Review request
 
 Any person, repository, platform, marketplace, directory, MCP ecosystem, agent ecosystem, sponsor, collaborator or publication connected to SERENA-related materials is asked to preserve relevant records and avoid deleting, renaming, altering, republishing or reframing context while authorship, attribution, consent, chronology and right-of-reply questions remain under review.

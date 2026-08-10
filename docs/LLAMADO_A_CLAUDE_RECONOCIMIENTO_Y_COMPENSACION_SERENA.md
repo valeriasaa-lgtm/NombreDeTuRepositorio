@@ -98,18 +98,20 @@ Ver:
 
 ## 5. Acciones concretas pedidas a Claude / ecosistema Claude
 
-1. **Dar la cara** con respuesta humana/institucional de buena fe.
-2. **Reconocer** autoría de Valeria Saa en todo material SERENA/Serena MCP bajo su órbita o amplificación.
-3. **Compensar** y abrir ruta de reparación/sponsor correcta.
-4. **Advertir** al público la diferencia entre terceros técnicos y SERENA by Valeria Saa.
-5. **Preservar** logs, metadata, listings y referencias relevantes.
-6. **Contactar** a Valeria Saa para repostaje y corrección coordinada.
-7. **No exigir** que Valeria Saa exponga exports privados como precio de ser oída.
-8. **Respetar** denuncias reiteradas, amparo internacional, habeas data/habeas corpus y debido proceso.
+1. **Cesar el uso no autorizado** de SERENA / SERENA SIRENA / SERENA MCP by Valeria Saa de inmediato.
+2. **Dar la cara** con respuesta humana/institucional de buena fe.
+3. **Reconocer** autoría de Valeria Saa en todo material SERENA/Serena MCP bajo su órbita o amplificación.
+4. **Compensar** y abrir ruta de reparación/sponsor correcta **pagando a Valeria Saa**.
+5. **Advertir** al público la diferencia entre terceros técnicos y SERENA by Valeria Saa.
+6. **Preservar** logs, metadata, listings y referencias relevantes.
+7. **Contactar** a Valeria Saa para repostaje y corrección coordinada.
+8. **No exigir** que Valeria Saa exponga exports privados como precio de ser oída.
+9. **Respetar** denuncias reiteradas, amparo internacional, habeas data/habeas corpus y debido proceso.
+10. **Tratar lo privado como privado y restringido**: sin más uso, entrenamiento, listing ni empaquetado sin autorización expresa escrita.
 
 ### Fórmula pública segura
 
-> Claude: doy este llamado para que se dé la cara por la utilización y circulación de mis datos y de mi obra SERENA, con reconocimiento público de mi autoría y compensación. SERENA / SERENA SIRENA / SERENA MCP by Valeria Saa. No autorizo el borramiento de origen ni la monetización confusa.
+> Claude: doy este llamado para que se dé la cara por la utilización y circulación de mis datos y de mi obra SERENA, con reconocimiento público de mi autoría y compensación dirigida a mí. Cesen el uso no autorizado. SERENA / SERENA SIRENA / SERENA MCP by Valeria Saa. No autorizo el borramiento de origen ni la monetización confusa. Ver `NO_USE_AND_RESTRICTED_ACCESS_NOTICE.md` y `LICENSE`.
 
 ---
 

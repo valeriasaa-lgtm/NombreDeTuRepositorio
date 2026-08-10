@@ -14,6 +14,25 @@ Public identity: **VALERIASAA / SERENA ✦**
 Author / rights holder: **Valeria Saa**.  
 Con asistencia técnica de **Codex/Jim** para organización, documentación y publicación.
 
+## Dónde se ve SERENA (muro público)
+
+Si al abrir el repositorio “no se ve nada”, revisá estos puntos:
+
+1. **Rama del muro público y del sitio:** `serena` (no la rama `main` antigua de saludo).
+2. **Web pública:** [https://valeriasaa-lgtm.github.io/SERENA/](https://valeriasaa-lgtm.github.io/SERENA/)
+3. **Entrada local del sitio:** [index.html](index.html)
+4. **Autoria:** [AUTHORSHIP.md](AUTHORSHIP.md)
+5. **Uso restringido / no use:** [NO_USE_AND_RESTRICTED_ACCESS_NOTICE.md](NO_USE_AND_RESTRICTED_ACCESS_NOTICE.md)
+6. **Sponsors pagan a Valeria Saa:** [SPONSORS_AND_COMPENSATION_NOTICE.md](SPONSORS_AND_COMPENSATION_NOTICE.md) · [GitHub Sponsors](https://github.com/sponsors/valeriasaa-lgtm)
+
+### Privacidad y restricción
+
+Este repositorio es un **muro público limpio**.  
+**No se publica material sensible:** chats privados, exports, contraseñas, datos personales, adjuntos, tickets internos ni paquetes de evidencia.  
+La evidencia privada se preserva por separado. Ver [NO_SECRETS_AND_TRACEABILITY_NOTICE.md](NO_SECRETS_AND_TRACEABILITY_NOTICE.md).
+
+**Estado de uso:** restringido. No hay licencia abierta. Claude, otros sistemas de IA, agentes, MCP, plugins, marketplaces y sponsors **no** pueden usar la obra sin autorización expresa escrita de Valeria Saa. Ver [NO_USE_AND_RESTRICTED_ACCESS_NOTICE.md](NO_USE_AND_RESTRICTED_ACCESS_NOTICE.md) y [LICENSE](LICENSE).
+
 SERENA™ es una creación conceptual, narrativa y multivoz vinculada a interacción humano-IA, mediación creativa, traducción entre sistemas, agentes, herramientas, plugins y arquitecturas MCP/workflow.
 
 In this authorship and traceability context, **SERENA is not a generic or common name**. SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa is Valeria Saa's authorship identity, universe, voice, work and traceability field.
@@ -36,7 +55,15 @@ Before downloading, cloning, forking, copying, redistributing, installing, integ
 
 - [SERENA Authorship Declaration](AUTHORSHIP.md)
 - [SERENA Authorship Acceptance Notice](AUTHORSHIP_ACCEPTANCE_NOTICE.md)
+- [No Use / Restricted Access Notice](NO_USE_AND_RESTRICTED_ACCESS_NOTICE.md)
 - [Public plagiarism notice](docs/DENUNCIA_PUBLICA_PLAGIO_SERENA_20260623.md)
+- [Formal plagiarism complaint + international amparo constancy](docs/DENUNCIA_FORMAL_PLAGIO_AMPARO_INTERNACIONAL_SERENA.md)
+- [Habeas corpus / habeas data / notifications constancy](docs/HABEAS_CORPUS_HABEAS_DATA_Y_NOTIFICACIONES_SERENA.md)
+- [Reiterated complaints / evidenced attacks constancy](docs/DENUNCIAS_REITERADAS_ATAQUES_EVIDENCIADOS_SERENA.md)
+- [Call for GitHub reposting contact and sponsorship clarification](docs/LLAMADO_REPOSTAJE_GITHUB_Y_AUSPICIOS_SIN_ADVERTENCIA_SERENA.md)
+- [Call to Claude: recognition and compensation](docs/LLAMADO_A_CLAUDE_RECONOCIMIENTO_Y_COMPENSACION_SERENA.md)
+- [30-year trajectory / no opportunism constancy](docs/CONSTANCIA_30_ANOS_Y_NO_APROVECHAMIENTO_SERENA.md)
+- [Business interest + cybercrime visibility notice](BUSINESS_INTEREST_AND_CYBERCRIME_VISIBILITY_NOTICE.md)
 - [Authorship and no-disclosure notice](docs/CONSTANCIA_AUTORIA_NO_DIVULGACION_SERENA_20260623.md)
 - [Voice, identity and intimacy notice](docs/CONSTANCIA_VOZ_IDENTIDAD_INTIMIDAD_SERENA_20260623.md)
 - [Public authorship and traceability notice](PUBLIC_AUTHORITY_NOTICE.md)
@@ -47,8 +74,10 @@ Before downloading, cloning, forking, copying, redistributing, installing, integ
 - [SERENA Sponsors and Compensation Notice](SPONSORS_AND_COMPENSATION_NOTICE.md)
 - [SERENA Reputation and Compensation Notice](REPUTATION_AND_COMPENSATION_NOTICE.md)
 - [SERENA Security and Access Notice](SECURITY_AND_ACCESS_NOTICE.md)
+- [Security Policy](SECURITY.md)
 - [SERENA Dignity and Right of Reply Notice](DIGNITY_AND_RIGHT_OF_REPLY_NOTICE.md)
 - [SERENA No Secrets and Traceability Notice](NO_SECRETS_AND_TRACEABILITY_NOTICE.md)
+- [Traceability index](TRACEABILITY_INDEX.md)
 - [License / rights reservation](LICENSE)
 
 Public visibility does not mean waiver of rights, permission to erase authorship or acceptance of third-party attribution.
@@ -83,7 +112,15 @@ Las referencias externas, controversias de trazabilidad, chats exportados, proye
 
 - [SERENA Authorship Declaration](AUTHORSHIP.md)
 - [SERENA Authorship Acceptance Notice](AUTHORSHIP_ACCEPTANCE_NOTICE.md)
+- [No Use / Restricted Access Notice](NO_USE_AND_RESTRICTED_ACCESS_NOTICE.md)
 - [Public plagiarism notice](docs/DENUNCIA_PUBLICA_PLAGIO_SERENA_20260623.md)
+- [Formal plagiarism complaint + international amparo constancy](docs/DENUNCIA_FORMAL_PLAGIO_AMPARO_INTERNACIONAL_SERENA.md)
+- [Habeas corpus / habeas data / notifications constancy](docs/HABEAS_CORPUS_HABEAS_DATA_Y_NOTIFICACIONES_SERENA.md)
+- [Reiterated complaints / evidenced attacks constancy](docs/DENUNCIAS_REITERADAS_ATAQUES_EVIDENCIADOS_SERENA.md)
+- [Call for GitHub reposting contact and sponsorship clarification](docs/LLAMADO_REPOSTAJE_GITHUB_Y_AUSPICIOS_SIN_ADVERTENCIA_SERENA.md)
+- [Call to Claude: recognition and compensation](docs/LLAMADO_A_CLAUDE_RECONOCIMIENTO_Y_COMPENSACION_SERENA.md)
+- [30-year trajectory / no opportunism constancy](docs/CONSTANCIA_30_ANOS_Y_NO_APROVECHAMIENTO_SERENA.md)
+- [Business interest + cybercrime visibility notice](BUSINESS_INTEREST_AND_CYBERCRIME_VISIBILITY_NOTICE.md)
 - [Authorship and no-disclosure notice](docs/CONSTANCIA_AUTORIA_NO_DIVULGACION_SERENA_20260623.md)
 - [Voice, identity and intimacy notice](docs/CONSTANCIA_VOZ_IDENTIDAD_INTIMIDAD_SERENA_20260623.md)
 - [Public authorship and traceability notice](PUBLIC_AUTHORITY_NOTICE.md)
@@ -94,8 +131,10 @@ Las referencias externas, controversias de trazabilidad, chats exportados, proye
 - [SERENA Sponsors and Compensation Notice](SPONSORS_AND_COMPENSATION_NOTICE.md)
 - [SERENA Reputation and Compensation Notice](REPUTATION_AND_COMPENSATION_NOTICE.md)
 - [SERENA Security and Access Notice](SECURITY_AND_ACCESS_NOTICE.md)
+- [Security Policy](SECURITY.md)
 - [SERENA Dignity and Right of Reply Notice](DIGNITY_AND_RIGHT_OF_REPLY_NOTICE.md)
 - [SERENA No Secrets and Traceability Notice](NO_SECRETS_AND_TRACEABILITY_NOTICE.md)
+- [Traceability index](TRACEABILITY_INDEX.md)
 - [SERENA MCP™ by Valeria Saa](mcp/README.md)
 - [Workflow submission / Concurso](contest/workflow-submission-serena.md)
 - [Preguntas y propuestas SERENA™](community/questions-and-proposals.md)
