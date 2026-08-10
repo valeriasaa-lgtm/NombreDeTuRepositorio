@@ -35,6 +35,7 @@ The absence of private evidence from this public repository should not be interp
 | T-004 | YYYY-MM-DD | Private | Reserved evidence connected to chronology and authorship context | private record | private reference only | preserved |
 | T-005 | 2026-07-24 | Public | External reference: makoMakoGo/fish-claude uses `serena` name for MCP workflow documentation pointing to oraios/serena without attribution to Valeria Saa's authorship of SERENA MCP | GitHub repository file | https://github.com/makoMakoGo/fish-claude/blob/main/mcp/serena.md | pending review — authorship of SERENA MCP is Valeria Saa |
 | T-006 | 2026-08-08 | Public | Snapshot preserved of the README content that immediately preceded commit `2149151` (`Restore Serena README`) so the removed public text remains separately traceable | Git snapshot file | /home/runner/work/SERENA/SERENA/reports/readme-pre-restore-2026-08-08.md | preserved |
+| T-007 | 2026-05-18 | Private | Private preserved extract records early review of GitHub items related to SERENA / CEUNIA, including repository activity, `oraios/serena`, MCP-related references, Discord, forks, issues and authorship context | private conversation/export metadata | private reference only — content withheld for privacy and preservation | preserved |
 
 ## Review request
 
