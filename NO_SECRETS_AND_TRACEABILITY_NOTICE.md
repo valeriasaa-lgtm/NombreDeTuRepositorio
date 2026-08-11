@@ -17,6 +17,8 @@ SERENA exists to preserve traceability, improve communication, organize context,
 
 The public repository is a clean authorship wall. Private evidence, exports, chats, local notes and sensitive materials are not published here because privacy, dignity and context matter.
 
+**Rule confirmed by the author:** sensitive material must not be made public. Public notices may state that evidence exists and is preserved separately; they must not publish the private content itself.
+
 ## Human Context
 
 SERENA includes work, affection, respect, symbols, notes, explanation, care and the attempt to do things better. It should not be misread as secrecy, threat, manipulation or an invitation to access private systems.

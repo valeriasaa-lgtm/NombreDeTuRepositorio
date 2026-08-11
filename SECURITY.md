@@ -1,21 +1,62 @@
-# Security Policy
+# Security Policy — SERENA by Valeria Saa
 
-## Supported Versions
+**Project / authorship identity:** SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa  
+**Author / rights holder:** Valeria Saa  
+**Official public identity:** Valeria Saa / @valeriasaa  
+**Repository:** `valeriasaa-lgtm/SERENA`
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+## Scope
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+This repository is a **public authorship and traceability wall**, not an open-source product with multi-version support tables.
 
-## Reporting a Vulnerability
+Supported public surface:
 
-Use this section to tell people how to report a vulnerability.
+| Surface | Status |
+|---|---|
+| Branch `serena` public wall and GitHub Pages site | active public record |
+| Private evidence / private exports / private systems | not published; not authorized for access |
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+## What is not authorized
+
+No person, bot, agent, MCP server, plugin, sponsor, marketplace or platform is authorized by this repository to:
+
+- access Valeria Saa's private computer, accounts, chats, exports, evidence or workspaces;
+- scrape, exfiltrate, mirror or republish private or reserved materials;
+- treat public visibility as permission to use, train on, package or monetize SERENA without prior express written authorization from Valeria Saa.
+
+See also:
+
+- [SECURITY_AND_ACCESS_NOTICE.md](./SECURITY_AND_ACCESS_NOTICE.md)
+- [NO_USE_AND_RESTRICTED_ACCESS_NOTICE.md](./NO_USE_AND_RESTRICTED_ACCESS_NOTICE.md)
+- [NO_SECRETS_AND_TRACEABILITY_NOTICE.md](./NO_SECRETS_AND_TRACEABILITY_NOTICE.md)
+- [LICENSE](./LICENSE)
+
+## Reporting a security or privacy concern
+
+If you believe there is:
+
+- unauthorized access or attempted access to Valeria Saa's private materials;
+- leakage, scraping or republication of private evidence;
+- spoofed official channel / phishing / impersonation around SERENA;
+- confused sponsor or download path that endangers users or authorship;
+
+do **not** open a public issue that pastes secrets, private chats, exports or personal data.
+
+Prefer contact through Valeria Saa's official public GitHub account/path and preserve evidence privately for competent review:
+
+```text
+https://github.com/valeriasaa-lgtm
+https://github.com/valeriasaa-lgtm/SERENA
+```
+
+## Response expectations
+
+Valeria Saa may preserve reports for authorship, platform, security or legal review.  
+Public replies may be limited to protect privacy and due process.  
+Do not expect private evidence to be republished here as confirmation.
+
+## No secrets in this repository
+
+This repository must remain free of passwords, tokens, API keys, seed phrases, private keys, recovery codes, private exports and non-public strategic material.
+
+© Valeria Saa. All rights reserved.
