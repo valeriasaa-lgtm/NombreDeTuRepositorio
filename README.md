@@ -54,6 +54,6 @@ La portada y el README públicos anteriores fueron preservados en [`archive/`](a
 
 ---
 
-**Valeria Saa · Argentina**  
-SERENA by Valeria Saa · Concepto y dirección creativa  
+**Valeria Saa · Argentina**<br>
+SERENA by Valeria Saa · Concepto y dirección creativa<br>
 Publicación de propuesta: 24 de agosto de 2026
