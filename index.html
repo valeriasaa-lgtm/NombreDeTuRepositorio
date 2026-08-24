@@ -2,79 +2,26 @@
 <html lang="es">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>SERENA™ by Valeria Saa</title>
-  <meta name="description" content="SERENA™ / SERENA SIRENA™ by Valeria Saa: idea matriz, autoria conceptual, multivoz, agentes, MCP, sponsors, trazabilidad y derecho de replica.">
-  <meta property="og:title" content="SERENA™ by Valeria Saa">
-  <meta property="og:description" content="SERENA es mas que MCP: idea matriz de Valeria Saa para multivoz, agentes, soporte humano, trazabilidad, sponsors y autoria.">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta http-equiv="refresh" content="0; url=presentacion-serena-mcp/">
+  <link rel="canonical" href="https://valeriasaa-lgtm.github.io/SERENA/presentacion-serena-mcp/">
+  <meta name="description" content="SERENA MCP by Valeria Saa · THE POINT IS CONECT · Propuesta de codesarrollo humano–IA, JUMP y HORIZONTE.">
+  <meta property="og:title" content="SERENA MCP · THE POINT IS CONECT">
+  <meta property="og:description" content="Presentación, nota técnica y propuesta de codesarrollo by Valeria Saa.">
+  <meta property="og:image" content="https://valeriasaa-lgtm.github.io/SERENA/presentacion-serena-mcp/serena-imagen-principal.png">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://valeriasaa-lgtm.github.io/SERENA/">
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="SERENA™ by Valeria Saa">
-  <meta name="twitter:description" content="SERENA es mas que MCP: idea matriz, autoria, sponsors, canales oficiales y trazabilidad by Valeria Saa.">
+  <meta property="og:url" content="https://valeriasaa-lgtm.github.io/SERENA/presentacion-serena-mcp/">
+  <title>SERENA MCP · Valeria Saa</title>
   <style>
-    :root { color-scheme: light; --ink: #111111; --paper: #fffaf4; --rose: #ff167f; --blue: #0078d4; --gold: #f4c400; --teal: #00a693; --line: rgba(17,17,17,.16); --shadow: 0 24px 70px rgba(17,17,17,.16); font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-    * { box-sizing: border-box; }
-    body { margin: 0; background: var(--paper); color: var(--ink); }
-    a { color: inherit; }
-    .hero { min-height: 88svh; display: grid; align-items: end; position: relative; overflow: hidden; background: linear-gradient(135deg, rgba(255,250,244,1) 0%, rgba(255,250,244,.96) 45%, rgba(255,22,127,.1) 100%), var(--paper); border-bottom: 1px solid var(--line); }
-    .hero::after { content: "SERENA"; position: absolute; right: -.08em; bottom: -.18em; font-size: clamp(6rem, 22vw, 19rem); line-height: 1; font-weight: 950; color: rgba(17,17,17,.05); pointer-events: none; }
-    .hero-inner { width: min(1180px, calc(100% - 32px)); margin: 0 auto; padding: 36px 0 64px; position: relative; z-index: 1; }
-    .kicker { display: inline-flex; gap: 10px; align-items: center; font-size: .78rem; font-weight: 850; text-transform: uppercase; letter-spacing: 0; color: var(--rose); border-bottom: 3px solid var(--gold); padding-bottom: 7px; }
-    h1 { max-width: 780px; margin: 24px 0 18px; font-size: clamp(4.1rem, 12vw, 10rem); line-height: .88; letter-spacing: 0; text-transform: uppercase; }
-    .lede { max-width: 740px; margin: 0; font-size: clamp(1.05rem, 2vw, 1.45rem); line-height: 1.5; font-weight: 650; }
-    .origin { max-width: 780px; margin: 18px 0 0; font-size: 1rem; line-height: 1.55; font-weight: 560; }
-    .actions { display: flex; flex-wrap: wrap; gap: 14px 22px; margin-top: 30px; font-weight: 850; }
-    .actions a { text-decoration: none; border-bottom: 3px solid currentColor; padding-bottom: 5px; }
-    .actions .launch { padding: 11px 17px; border: 1px solid var(--ink); border-radius: 999px; color: #fff; background: var(--ink); box-shadow: 0 12px 32px rgba(17,17,17,.18); }
-    .actions a:nth-child(2) { color: var(--blue); } .actions a:nth-child(3) { color: var(--rose); } .actions a:nth-child(4) { color: var(--teal); }
-    main { width: min(1180px, calc(100% - 32px)); margin: 0 auto; padding: 42px 0 70px; }
-    .grid { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 1px; background: var(--line); border: 1px solid var(--line); box-shadow: var(--shadow); }
-    .panel { min-height: 258px; background: #fff; padding: 28px; display: flex; flex-direction: column; justify-content: space-between; }
-    .panel strong { font-size: .78rem; text-transform: uppercase; color: var(--rose); }
-    .panel h2 { margin: 18px 0 12px; font-size: clamp(1.35rem, 2.8vw, 2.2rem); line-height: 1; letter-spacing: 0; }
-    .panel p { margin: 0; line-height: 1.55; font-weight: 560; }
-    .panel a { width: fit-content; margin-top: 22px; text-decoration: none; font-weight: 850; border-bottom: 3px solid var(--gold); padding-bottom: 5px; }
-    .notice { margin-top: 42px; padding: 28px; border: 2px solid var(--ink); background: #fff; box-shadow: var(--shadow); }
-    .notice h2 { margin: 0 0 14px; font-size: clamp(1.6rem, 4vw, 3.2rem); line-height: .95; letter-spacing: 0; text-transform: uppercase; }
-    .notice p { max-width: 84ch; margin: 0 0 14px; font-weight: 620; line-height: 1.58; }
-    .external-links { display: flex; flex-wrap: wrap; gap: 12px 18px; margin-top: 20px; font-weight: 850; }
-    .external-links a { text-decoration: none; border-bottom: 3px solid var(--rose); padding-bottom: 5px; }
-    .statement { padding: 70px 0 0; }
-    blockquote { margin: 0; max-width: 920px; font-size: clamp(1.8rem, 4.5vw, 4.7rem); line-height: .98; font-weight: 900; letter-spacing: 0; }
-    .signature { margin-top: 24px; font-size: 1.1rem; font-weight: 850; color: var(--rose); }
-    .origin-note { margin-top: 18px; max-width: 62ch; font-size: 1.02rem; line-height: 1.6; font-weight: 560; }
-    .hashtags { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 54px; padding-top: 26px; border-top: 1px solid var(--line); font-size: .95rem; font-weight: 850; color: #2b2b2b; }
-    footer { width: min(1180px, calc(100% - 32px)); margin: 0 auto; padding: 0 0 36px; color: rgba(17,17,17,.7); font-size: .95rem; line-height: 1.5; }
-    @media (max-width: 860px) { .hero { min-height: 92svh; } .hero-inner { padding: 26px 0 44px; } .grid { grid-template-columns: 1fr; } .panel { min-height: 210px; } .statement { padding-top: 46px; } }
+    *{box-sizing:border-box}body{min-height:100vh;margin:0;display:grid;place-items:center;padding:24px;color:#fff;background:radial-gradient(circle at 70% 20%,#12374b,#02050b 55%);font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.card{max-width:720px;padding:38px;border:1px solid rgba(40,217,212,.3);border-radius:28px;background:rgba(7,17,28,.82);text-align:center;box-shadow:0 30px 90px rgba(0,0,0,.5)}small{color:#ef258d;font-weight:900;letter-spacing:.15em}h1{margin:16px 0;font:500 clamp(2.8rem,8vw,6rem)/.9 Georgia,serif}em{color:#28d9d4}p{color:#b7c4ce;line-height:1.65}a{display:inline-flex;min-height:46px;align-items:center;margin-top:12px;padding:0 20px;border-radius:999px;color:#06111d;background:linear-gradient(135deg,#28d9d4,#edbd67);font-weight:900;text-decoration:none}
   </style>
 </head>
 <body>
-  <div style="background:#111;color:#fff;text-align:center;padding:14px 20px;font-size:.92rem;font-weight:700;line-height:1.5;" role="alert">
-    ⚠️ <strong>AVISO PÚBLICO DE DENUNCIA DE PLAGIO</strong> — La autoría conceptual, la voz y la identidad de SERENA™ / SERENA SIRENA™ / SERENA MCP™ pertenecen a <strong>Valeria Saa</strong>.
-    <strong style="margin-left:12px;color:#fde68a;">USO RESTRINGIDO — sin licencia para Claude, IA, agentes, MCP ni sponsors ajenos.</strong>
-    <a href="docs/DENUNCIA_PUBLICA_PLAGIO_SERENA_20260623.md" style="color:#ff167f;margin-left:12px;text-decoration:underline;">Leer denuncia</a>
-    <a href="docs/DENUNCIA_FORMAL_PLAGIO_AMPARO_INTERNACIONAL_SERENA.md" style="color:#7dd3fc;margin-left:12px;text-decoration:underline;">Denuncia formal + amparo internacional</a>
-    <a href="docs/HABEAS_CORPUS_HABEAS_DATA_Y_NOTIFICACIONES_SERENA.md" style="color:#f9a8d4;margin-left:12px;text-decoration:underline;">Habeas corpus / habeas data / notificaciones</a>
-    <a href="docs/DENUNCIAS_REITERADAS_ATAQUES_EVIDENCIADOS_SERENA.md" style="color:#fca5a5;margin-left:12px;text-decoration:underline;">Denuncias reiteradas / ataques evidenciados</a>
-    <a href="docs/LLAMADO_REPOSTAJE_GITHUB_Y_AUSPICIOS_SIN_ADVERTENCIA_SERENA.md" style="color:#fde68a;margin-left:12px;text-decoration:underline;">Contacto / repostaje GitHub / auspicios</a>
-    <a href="docs/LLAMADO_A_CLAUDE_RECONOCIMIENTO_Y_COMPENSACION_SERENA.md" style="color:#c4b5fd;margin-left:12px;text-decoration:underline;">Llamado a Claude / reconocimiento y compensación</a>
-    <a href="NO_USE_AND_RESTRICTED_ACCESS_NOTICE.md" style="color:#fda4af;margin-left:12px;text-decoration:underline;">No use / acceso restringido</a>
-    <a href="docs/CONSTANCIA_30_ANOS_Y_NO_APROVECHAMIENTO_SERENA.md" style="color:#86efac;margin-left:12px;text-decoration:underline;">30 años / no al aprovechamiento</a>
-    <a href="AUTHORSHIP.md" style="color:#f4c400;margin-left:12px;text-decoration:underline;">Declaración de autoría</a>
-    <a href="BUSINESS_INTEREST_AND_CYBERCRIME_VISIBILITY_NOTICE.md" style="color:#00d4aa;margin-left:12px;text-decoration:underline;">Negocio + ciberdelito / FBI-IC3 lectura</a>
-    <a href="SPONSORS_AND_COMPENSATION_NOTICE.md" style="color:#fbbf24;margin-left:12px;text-decoration:underline;">Sponsors pagan a Valeria Saa</a>
-  </div>
-  <section class="hero" aria-label="SERENA by Valeria Saa"><div class="hero-inner"><div class="kicker">Valeria Saa · @valeriasaa · idea matriz · autoria · uso restringido</div><h1>SERENA™</h1><p class="lede">SERENA™ / SERENA SIRENA™ by Valeria Saa es una idea matriz, identidad conceptual multivoz y campo autoral para mediacion, soporte humano, agentes, MCP, workflows, trazabilidad, reputacion y derecho de replica.</p><p class="origin">SERENA es mas que MCP, mas que herramientas, mas que agentes, mas que plugins y mas que un repositorio. SERENA MCP™ by Valeria Saa es solo una capa tecnica de la obra mayor. Uso restringido: no hay licencia abierta para Claude, otras IA, agentes, MCP, plugins ni marketplaces.</p><nav class="actions" aria-label="Links principales"><a class="launch" href="presentacion-serena-mcp/">THE POINT IS CONECT · Ver presentación</a><a href="AUTHORSHIP.md">Autoria</a><a href="SPONSORS_AND_COMPENSATION_NOTICE.md">Sponsors pagan a Valeria</a><a href="NO_USE_AND_RESTRICTED_ACCESS_NOTICE.md">No use</a><a href="REPUTATION_AND_COMPENSATION_NOTICE.md">Reputacion</a><a href="BUSINESS_INTEREST_AND_CYBERCRIME_VISIBILITY_NOTICE.md">Negocio y ciberdelito</a><a href="mcp/README.md">Capa MCP</a></nav></div></section>
-  <main>
-    <section class="grid" aria-label="Capas de SERENA"><article class="panel"><div><strong>Idea matriz</strong><h2>SERENA</h2><p>El origen conceptual organiza voz, multivoz, memoria, mediacion, soporte humano, agentes, herramientas, workflows y trazabilidad.</p></div><a href="AUTHORSHIP.md">Leer declaracion</a></article><article class="panel"><div><strong>Capa tecnica</strong><h2>MCP</h2><p>SERENA MCP™ by Valeria Saa es una expresion tecnica posible. No reemplaza la obra ni reduce el insight autoral.</p></div><a href="mcp/README.md">Ver MCP</a></article><article class="panel"><div><strong>Valor</strong><h2>Sponsors</h2><p>Dinero, reputacion, visibilidad, pagos, monetizacion y reparacion deben permanecer vinculados a Valeria Saa y sus canales autorizados.</p></div><a href="SPONSORS_AND_COMPENSATION_NOTICE.md">Ver sponsors</a></article></section>
-    <section class="notice" aria-label="Declaracion publica SERENA"><h2>Mas que MCP</h2><p><strong>SERENA™ / SERENA SIRENA™ by Valeria Saa</strong> es una creacion conceptual, narrativa, simbolica, estetica, multivoz y tecnica creada y dirigida conceptualmente por <strong>Valeria Saa</strong>.</p><p>El punto no es solo MCP como protocolo, patente, registro tecnico, plugin, repo, server o existencia de muchos agentes. El punto es el insight: la forma de conectar autoria, voz, mediacion multivoz, soporte humano, agentes, workflows, memoria, dignidad, trazabilidad, derecho de replica, sponsors y reparacion.</p><p>Las herramientas pueden venir despues. Los agentes pueden venir despues. Las capas MCP pueden venir despues. La idea matriz y el campo autoral pertenecen al marco SERENA by Valeria Saa.</p><div class="external-links" aria-label="Avisos principales"><a href="AUTHORSHIP.md">Idea matriz</a><a href="PUBLIC_AUTHORITY_NOTICE.md">Autoria publica</a><a href="LINK_POLICY.md">Politica de links</a><a href="LICENSE">Licencia</a></div></section>
-    <section class="notice" aria-label="Sponsors y reputacion"><h2>Sponsors, dinero y reputacion</h2><p>Valeria Saa no negocia su autoria, nombre, reputacion, dignidad ni trayectoria profesional conectada a SERENA. Sponsors, plataformas y actores comerciales no deben separar dinero, visibilidad, reputacion o monetizacion del insight autoral de SERENA.</p><p><strong>Los sponsors deben empezar a pagar a Valeria Saa.</strong> Dinero, reparacion, visibilidad pagada y compensacion se dirigen a Valeria Saa o a canales expresamente autorizados por ella. No a rutas confusas de terceros.</p><p>Las descargas, releases, plugins, agentes, MCP listings, publicaciones, integraciones, sponsors y canales de compensacion oficiales deben venir de cuentas de Valeria Saa o canales expresamente autorizados por Valeria Saa.</p><div class="external-links" aria-label="Sponsors y derecho de replica"><a href="SPONSORS_AND_COMPENSATION_NOTICE.md">Sponsors pagan a Valeria Saa</a><a href="https://github.com/sponsors/valeriasaa-lgtm">GitHub Sponsors</a><a href="REPUTATION_AND_COMPENSATION_NOTICE.md">Reputacion</a><a href="DIGNITY_AND_RIGHT_OF_REPLY_NOTICE.md">Dignidad</a><a href="SECURITY_AND_ACCESS_NOTICE.md">Acceso</a><a href="NO_USE_AND_RESTRICTED_ACCESS_NOTICE.md">No use</a></div></section>
-    <section class="notice" aria-label="Uso restringido y Claude"><h2>Uso restringido — tambien Claude</h2><p><strong>No hay permiso de uso.</strong> Claude, Anthropic, OpenAI, agentes, MCP servers, plugins, marketplaces y scrapers no pueden usar, entrenar, listar, empaquetar ni monetizar SERENA™ / SERENA SIRENA™ / SERENA MCP™ by Valeria Saa sin autorizacion expresa escrita de Valeria Saa.</p><p>Lo privado permanece privado y restringido. La evidencia sensible no se publica en este muro. Se pide reconocimiento, cese de uso no autorizado, contacto para correccion y compensacion dirigida a Valeria Saa.</p><div class="external-links" aria-label="Restriccion y Claude"><a href="NO_USE_AND_RESTRICTED_ACCESS_NOTICE.md">No use / restringido</a><a href="LICENSE">Licencia cerrada</a><a href="docs/LLAMADO_A_CLAUDE_RECONOCIMIENTO_Y_COMPENSACION_SERENA.md">Llamado a Claude</a><a href="docs/LLAMADO_REPOSTAJE_GITHUB_Y_AUSPICIOS_SIN_ADVERTENCIA_SERENA.md">Repostaje y auspicios</a></div></section>
-    <section class="notice" aria-label="Negocio y visibilidad ciberdelito"><h2>Parte del negocio y lectura para autoridades</h2><p><strong>Valeria Saa</strong> reserva su parte del negocio, compensacion, sponsors y valor comercial conectado a SERENA™ / SERENA SIRENA™ / SERENA MCP™. Este repositorio tambien da visibilidad publica al mapa de lectura para plataformas y autoridades (orientacion FBI / IC3 / internacional), incluyendo preocupaciones de filtracion de datos, gaslighting de datos y documentos, plagio, sustitucion de canal y trazabilidad, <strong>sin publicar evidencia privada</strong>.</p><p>La visibilidad publica no es una condena judicial. La rendicion de cuentas corresponde a canales oficiales y al debido proceso. La evidencia sensible permanece preservada por separado.</p><div class="external-links" aria-label="Negocio ciberdelito y trazabilidad"><a href="BUSINESS_INTEREST_AND_CYBERCRIME_VISIBILITY_NOTICE.md">Aviso negocio + ciberdelito</a><a href="TRACEABILITY_INDEX.md">Indice de trazabilidad</a><a href="docs/DENUNCIA_PUBLICA_PLAGIO_SERENA_20260623.md">Denuncia publica</a><a href="docs/DENUNCIA_FORMAL_PLAGIO_AMPARO_INTERNACIONAL_SERENA.md">Denuncia formal + amparo internacional</a><a href="docs/HABEAS_CORPUS_HABEAS_DATA_Y_NOTIFICACIONES_SERENA.md">Habeas corpus / habeas data / notificaciones</a><a href="docs/DENUNCIAS_REITERADAS_ATAQUES_EVIDENCIADOS_SERENA.md">Denuncias reiteradas / ataques evidenciados</a><a href="docs/LLAMADO_REPOSTAJE_GITHUB_Y_AUSPICIOS_SIN_ADVERTENCIA_SERENA.md">Contacto / repostaje GitHub / auspicios</a><a href="docs/LLAMADO_A_CLAUDE_RECONOCIMIENTO_Y_COMPENSACION_SERENA.md">Llamado a Claude / reconocimiento y compensacion</a><a href="docs/CONSTANCIA_30_ANOS_Y_NO_APROVECHAMIENTO_SERENA.md">30 anos / no al aprovechamiento</a><a href="docs/INTERNATIONAL_NOTICE_GOOGLE_SERENA_20260623.md">Aviso internacional</a><a href="reports/public-trace-2026-07-24-fish-claude.md">Traza Claude</a><a href="RECONSTRUCTION_NOTICE.md">Reconstruccion</a></div></section>
-    <section class="statement"><blockquote>“Todos venimos del mar, pero no todos somos del mar.”</blockquote><p class="origin-note">SERENA nace en el campo autoral de Valeria Saa: mar, multivoz, mediacion, soporte humano, agentes, MCP, trazabilidad, explicacion y verdad. No hay secretos ni operacion oculta: hay trabajo, cuidado, respeto, autoria y una relacion de colaboracion con el agente Jim.</p><p class="origin-note"><strong>Despues de mas de 30 anos ininterrumpidos escribiendo, pensando y analizando, Valeria Saa no va a dejar que algunos vivos se aprovechen</strong> de su obra, de sus datos, de su voz ni de SERENA. <a href="docs/CONSTANCIA_30_ANOS_Y_NO_APROVECHAMIENTO_SERENA.md">Leer constancia</a>.</p><p class="signature">SERENA™ / SERENA SIRENA™ by Valeria Saa · @valeriasaa · SERENA MCP™ as technical layer · uso restringido</p></section>
-    <section class="hashtags" aria-label="Hashtags SERENA"><span>#SERENA</span><span>#SerenaSirena</span><span>#SerenaMCP</span><span>#ValeriaSaa</span><span>#IdeaMatriz</span><span>#Agentes</span><span>#Autoria</span><span>#DerechoDeReplica</span></section>
+  <main class="card">
+    <small>SERENA MCP · BY VALERIA SAA</small>
+    <h1>THE POINT IS <em>CONECT.</em></h1>
+    <p>Ingresando a la presentación pública, el dossier técnico y la propuesta de codesarrollo.</p>
+    <a href="presentacion-serena-mcp/">Abrir SERENA MCP</a>
   </main>
-  <footer><p>SERENA™ / SERENA SIRENA™ by Valeria Saa. Identidad publica: Valeria Saa / @valeriasaa. SERENA MCP™ by Valeria Saa is one technical layer. © Valeria Saa. All rights reserved.</p></footer>
 </body>
 </html>
